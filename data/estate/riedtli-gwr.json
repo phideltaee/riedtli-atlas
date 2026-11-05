@@ -1,0 +1,665 @@
+{
+ "source": "GWR (api3.geo.admin.ch, ch.bfs.gebaeude_wohnungs_register), read 5 Nov 2026; addresses after the city estate page (Goetzstr. 4–12, Kinkelstr. 44–60, Riedtlistr. 65–85, Röslibrunnenweg 1–10, Scheuchzerstr. 82–102, Stolzestr. 14–46, Winterthurerstr. 27–55)",
+ "houses": [
+  {
+   "adr": "Goetzstrasse 10",
+   "egid": "152461",
+   "lat": 47.389556,
+   "lon": 8.544971,
+   "year": 1918,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Goetzstrasse 12",
+   "egid": "152463",
+   "lat": 47.389672,
+   "lon": 8.545034,
+   "year": 1918,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Goetzstrasse 4",
+   "egid": "152459",
+   "lat": 47.38922,
+   "lon": 8.544394,
+   "year": 1918,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Goetzstrasse 8",
+   "egid": "152460",
+   "lat": 47.389397,
+   "lon": 8.544632,
+   "year": 1918,
+   "flats": 8,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Kinkelstrasse 44",
+   "egid": "153391",
+   "lat": 47.388078,
+   "lon": 8.544738,
+   "year": 1914,
+   "flats": 8,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Kinkelstrasse 49",
+   "egid": "152473",
+   "lat": 47.388491,
+   "lon": 8.544741,
+   "year": 1919,
+   "flats": 8,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Kinkelstrasse 52",
+   "egid": "153392",
+   "lat": 47.388441,
+   "lon": 8.545479,
+   "year": 1913,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Kinkelstrasse 53",
+   "egid": "152474",
+   "lat": 47.388755,
+   "lon": 8.545066,
+   "year": 1918,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Kinkelstrasse 56",
+   "egid": "153393",
+   "lat": 47.388656,
+   "lon": 8.545612,
+   "year": 1913,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Kinkelstrasse 58",
+   "egid": "153394",
+   "lat": 47.38873,
+   "lon": 8.545717,
+   "year": 1913,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Kinkelstrasse 59",
+   "egid": "152472",
+   "lat": 47.38903,
+   "lon": 8.545581,
+   "year": 1918,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Kinkelstrasse 60",
+   "egid": "153395",
+   "lat": 47.388803,
+   "lon": 8.545827,
+   "year": 1913,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Riedtlistrasse 65",
+   "egid": "153420",
+   "lat": 47.387675,
+   "lon": 8.544748,
+   "year": 1915,
+   "flats": 8,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Riedtlistrasse 67",
+   "egid": "153421",
+   "lat": 47.387624,
+   "lon": 8.544929,
+   "year": 1915,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Riedtlistrasse 71",
+   "egid": "153422",
+   "lat": 47.387466,
+   "lon": 8.545362,
+   "year": 1915,
+   "flats": 4,
+   "storeys": 7,
+   "heat": 7520
+  },
+  {
+   "adr": "Riedtlistrasse 81",
+   "egid": "153442",
+   "lat": 47.387337,
+   "lon": 8.546502,
+   "year": 1912,
+   "flats": 3,
+   "storeys": 5,
+   "heat": 7520
+  },
+  {
+   "adr": "Riedtlistrasse 83",
+   "egid": "153443",
+   "lat": 47.387265,
+   "lon": 8.546635,
+   "year": 1912,
+   "flats": 4,
+   "storeys": 5,
+   "heat": 7520
+  },
+  {
+   "adr": "Riedtlistrasse 85",
+   "egid": "153444",
+   "lat": 47.387166,
+   "lon": 8.546689,
+   "year": 1912,
+   "flats": 4,
+   "storeys": 5,
+   "heat": 7520
+  },
+  {
+   "adr": "Röslibrunnenweg 1",
+   "egid": "152466",
+   "lat": 47.388887,
+   "lon": 8.545269,
+   "year": 1918,
+   "flats": 3,
+   "storeys": 5,
+   "heat": 7520
+  },
+  {
+   "adr": "Röslibrunnenweg 10",
+   "egid": "152471",
+   "lat": 47.389466,
+   "lon": 8.545107,
+   "year": 1918,
+   "flats": 8,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Röslibrunnenweg 4",
+   "egid": "152467",
+   "lat": 47.389133,
+   "lon": 8.545433,
+   "year": 1918,
+   "flats": 8,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Röslibrunnenweg 5",
+   "egid": "152468",
+   "lat": 47.389085,
+   "lon": 8.545,
+   "year": 1918,
+   "flats": 3,
+   "storeys": 5,
+   "heat": 7520
+  },
+  {
+   "adr": "Röslibrunnenweg 6",
+   "egid": "152469",
+   "lat": 47.389231,
+   "lon": 8.54529,
+   "year": 1918,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Röslibrunnenweg 7",
+   "egid": "152470",
+   "lat": 47.389176,
+   "lon": 8.544862,
+   "year": 1918,
+   "flats": 3,
+   "storeys": 5,
+   "heat": 7520
+  },
+  {
+   "adr": "Scheuchzerstrasse 102",
+   "egid": "152479",
+   "lat": 47.388971,
+   "lon": 8.544174,
+   "year": 1919,
+   "flats": 3,
+   "storeys": 5,
+   "heat": 7520
+  },
+  {
+   "adr": "Scheuchzerstrasse 82",
+   "egid": "153423",
+   "lat": 47.387734,
+   "lon": 8.544569,
+   "year": 1915,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Scheuchzerstrasse 84",
+   "egid": "153424",
+   "lat": 47.387839,
+   "lon": 8.544549,
+   "year": 1915,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Scheuchzerstrasse 90",
+   "egid": "152475",
+   "lat": 47.388285,
+   "lon": 8.544382,
+   "year": 1919,
+   "flats": 3,
+   "storeys": 5,
+   "heat": 7520
+  },
+  {
+   "adr": "Scheuchzerstrasse 94",
+   "egid": "152476",
+   "lat": 47.388514,
+   "lon": 8.544326,
+   "year": 1919,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Scheuchzerstrasse 96",
+   "egid": "152477",
+   "lat": 47.388645,
+   "lon": 8.544293,
+   "year": 1919,
+   "flats": 8,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Scheuchzerstrasse 98",
+   "egid": "152478",
+   "lat": 47.388764,
+   "lon": 8.544261,
+   "year": 1919,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 14",
+   "egid": "153434",
+   "lat": 47.387276,
+   "lon": 8.546226,
+   "year": 1912,
+   "flats": 3,
+   "storeys": 5,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 16",
+   "egid": "153435",
+   "lat": 47.38744,
+   "lon": 8.546009,
+   "year": 1912,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 18",
+   "egid": "153436",
+   "lat": 47.387532,
+   "lon": 8.545956,
+   "year": 1912,
+   "flats": 4,
+   "storeys": 7,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 19",
+   "egid": "153425",
+   "lat": 47.387462,
+   "lon": 8.545546,
+   "year": 1915,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 20",
+   "egid": "153437",
+   "lat": 47.387633,
+   "lon": 8.5459,
+   "year": 1912,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 21",
+   "egid": "153426",
+   "lat": 47.387667,
+   "lon": 8.545427,
+   "year": 1915,
+   "flats": 4,
+   "storeys": 7,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 22",
+   "egid": "153438",
+   "lat": 47.387824,
+   "lon": 8.546094,
+   "year": 1912,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 23",
+   "egid": "153427",
+   "lat": 47.387776,
+   "lon": 8.545364,
+   "year": 1915,
+   "flats": 4,
+   "storeys": 7,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 24",
+   "egid": "153439",
+   "lat": 47.38792,
+   "lon": 8.546041,
+   "year": 1912,
+   "flats": 3,
+   "storeys": 5,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 25",
+   "egid": "153428",
+   "lat": 47.387919,
+   "lon": 8.545285,
+   "year": 1915,
+   "flats": 4,
+   "storeys": 7,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 26",
+   "egid": "153440",
+   "lat": 47.388016,
+   "lon": 8.545995,
+   "year": 1912,
+   "flats": 3,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 27",
+   "egid": "153429",
+   "lat": 47.38803,
+   "lon": 8.545236,
+   "year": 1915,
+   "flats": 4,
+   "storeys": 7,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 28",
+   "egid": "153441",
+   "lat": 47.388108,
+   "lon": 8.545941,
+   "year": 1912,
+   "flats": 3,
+   "storeys": 5,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 29",
+   "egid": "153430",
+   "lat": 47.388238,
+   "lon": 8.545098,
+   "year": 1914,
+   "flats": 3,
+   "storeys": 5,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 30",
+   "egid": "153431",
+   "lat": 47.388204,
+   "lon": 8.545892,
+   "year": 1912,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 32",
+   "egid": "153432",
+   "lat": 47.388261,
+   "lon": 8.545584,
+   "year": 1913,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 34",
+   "egid": "153433",
+   "lat": 47.38835,
+   "lon": 8.545528,
+   "year": 1913,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 40",
+   "egid": "152480",
+   "lat": 47.388831,
+   "lon": 8.544961,
+   "year": 1918,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 42",
+   "egid": "152481",
+   "lat": 47.388881,
+   "lon": 8.544846,
+   "year": 1918,
+   "flats": 3,
+   "storeys": 5,
+   "heat": 7520
+  },
+  {
+   "adr": "Stolzestrasse 46",
+   "egid": "152482",
+   "lat": 47.389112,
+   "lon": 8.544527,
+   "year": 1918,
+   "flats": 8,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Winterthurerstrasse 27",
+   "egid": "153406",
+   "lat": 47.387058,
+   "lon": 8.54714,
+   "year": 1912,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Winterthurerstrasse 29",
+   "egid": "153407",
+   "lat": 47.387153,
+   "lon": 8.547086,
+   "year": 1912,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Winterthurerstrasse 31",
+   "egid": "153408",
+   "lat": 47.387259,
+   "lon": 8.547032,
+   "year": 1912,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Winterthurerstrasse 33",
+   "egid": "153409",
+   "lat": 47.387466,
+   "lon": 8.546913,
+   "year": 1912,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Winterthurerstrasse 35",
+   "egid": "153410",
+   "lat": 47.387568,
+   "lon": 8.546855,
+   "year": 1912,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Winterthurerstrasse 37",
+   "egid": "153411",
+   "lat": 47.387655,
+   "lon": 8.546806,
+   "year": 1912,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Winterthurerstrasse 39",
+   "egid": "153412",
+   "lat": 47.387756,
+   "lon": 8.54675,
+   "year": 1912,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Winterthurerstrasse 41",
+   "egid": "153413",
+   "lat": 47.387965,
+   "lon": 8.546629,
+   "year": 1912,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Winterthurerstrasse 43",
+   "egid": "153414",
+   "lat": 47.388084,
+   "lon": 8.546556,
+   "year": 1912,
+   "flats": 8,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Winterthurerstrasse 45",
+   "egid": "153415",
+   "lat": 47.388218,
+   "lon": 8.546487,
+   "year": 1912,
+   "flats": 8,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Winterthurerstrasse 47",
+   "egid": "153416",
+   "lat": 47.388345,
+   "lon": 8.546427,
+   "year": 1912,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Winterthurerstrasse 49",
+   "egid": "153417",
+   "lat": 47.388544,
+   "lon": 8.546327,
+   "year": 1913,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Winterthurerstrasse 51",
+   "egid": "153418",
+   "lat": 47.38864,
+   "lon": 8.546276,
+   "year": 1913,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Winterthurerstrasse 53",
+   "egid": "153419",
+   "lat": 47.388745,
+   "lon": 8.54622,
+   "year": 1913,
+   "flats": 4,
+   "storeys": 6,
+   "heat": 7520
+  },
+  {
+   "adr": "Winterthurerstrasse 55",
+   "egid": "153397",
+   "lat": 47.38895,
+   "lon": 8.546089,
+   "year": 1913,
+   "flats": 3,
+   "storeys": 5,
+   "heat": 7520
+  }
+ ]
+}

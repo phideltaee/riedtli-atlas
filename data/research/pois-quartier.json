@@ -1,0 +1,2196 @@
+[
+  {
+    "id": "riedtli-siedlung",
+    "name": "Wohnsiedlung Riedtli (Stadt Zürich)",
+    "cat": "landmark",
+    "lat": 47.3883,
+    "lon": 8.54552,
+    "address": "Götzstrasse 4–12, Kinkelstrasse 44–60, Riedtlistrasse 65–85, Röslibrunnenweg 1–10, Scheuchzerstrasse 82–102, Stolzestrasse 14–46, Winterthurerstrasse 27–55, 8006 Zürich",
+    "walk_min": 0,
+    "desc_de": "Zweite städtische Wohnsiedlung Zürichs, 1911–1919 von Stadtbaumeister Friedrich Wilhelm Fissler im Heimatstil nach dem Vorbild englischer Gartenstädte erbaut (Bezug ab 1912) und seit 1981 denkmalgeschützt: 291 Wohnungen und 34 Mansardenzimmer in 28 drei- bis viergeschossigen Baugruppen auf 37'408 m², mit Gartenhöfen, Kieswegen, Vorgärten, Brunnen, Spielplätzen und altem Baumbestand sowie Kita, Laden und zwei Ateliers. Die Stadt (Liegenschaften Stadt Zürich) vermietet in Kostenmiete, freitragend und teils subventioniert; bei der Innenrenovation 2003–2008 wurden Kleinwohnungen zu Familienwohnungen zusammengelegt, und der 1977 gegründete Riedtli-Verein, der Abbruchpläne abwehrte, organisiert bis heute Sommerfest, Zopf-Zmorge und Samichlaus.",
+    "desc_en": "Zurich's second municipal housing estate, built 1911–1919 by city architect Friedrich Wilhelm Fissler in the Heimatstil after the English garden-city model (first tenants 1912) and listed since 1981: 291 flats and 34 attic rooms in 28 three- to four-storey building groups on 37,408 m², with garden courtyards, gravel paths, front gardens, fountains, playgrounds and mature trees, plus a day-care centre, a shop and two studios. The city (Liegenschaften Stadt Zürich) lets the flats at cost rent, partly subsidised; the 2003–2008 interior renovation merged small flats into family flats, and the Riedtli-Verein, founded in 1977 to fight demolition plans, still runs the summer party, Zopf brunch and Samichlaus visit.",
+    "url": "https://www.stadt-zuerich.ch/de/planen-und-bauen/portfolio/bauten-anlagen/wohnbauten/wohnsiedlung-riedtli.html",
+    "tags": [
+      "home",
+      "listed",
+      "garden-city",
+      "municipal-housing",
+      "cost-rent",
+      "landmark",
+      "history",
+      "community"
+    ],
+    "details": {
+      "operator": "Stadt Zürich, Liegenschaften Stadt Zürich (LSZ) – Kostenmiete (freitragend und subventioniert)",
+      "architects": "Stadtbaumeister Friedrich Wilhelm Fissler (Bau 1911–1919; die Stadtseite schreibt «Friedrich Willhelm Fissler»). Sanfte Sanierung 1985/86: Meier & Partner. Innenrenovation 2003–2008: arc Architekten und pmp Architekten.",
+      "built": "Baujahre 1911–1919, Bezug ab 1912 (Abstimmungszeitung vom 18.12.1910; Zielgruppe laut Abstimmungsvorlage: «Mieter teils aus besser gestellten Arbeiterkreisen, teils aus der Klasse des Mittelstandes»). Denkmalschutz seit 1981.",
+      "flats": "291 Wohnungen (Siedlungsdokumentation 2012): 1× 1 Zi. (37 m²), 16× 2–2½ Zi. (55–62 m²), 117× 3–3½ Zi. (58–97 m²), 138× 4–4½ Zi. (81–122 m²), 8× 5–5½ Zi. (108–131 m²), 3× 6 Zi. (128–130 m²), 8× 7 Zi. (126–129 m²); dazu 34 Mansardenzimmer. Stadtseite: 50 % 4,5-Zimmer-, 38 % 3-Zimmer-Wohnungen. Der Riedtli-Verein nennt 288 Wohnungen mit leicht abweichender Aufteilung.",
+      "houses": "28 Baugruppen (Siedlungsdokumentation 2012; Riedtli-Verein: «28 Häuser»); Wikipedia: 66 drei- bis viergeschossige Mehrfamilienhäuser in 28 offenen Gruppen; die aktuelle Stadtseite spricht von 27 Häusern.",
+      "area": "Arealfläche 37'408 m², leichte Hanglage gegen den Zürichberg; liegt teils in Oberstrass, teils in Unterstrass (Kreis 6).",
+      "facilities": "1 Kindertagesstätte, 1 Kinderhort (laut Siedlungsdokumentation 2012), 1 Laden, 2 Ateliers, 1 Betriebsbüro/Hauswartwerkstatt, 23 Parkplätze aussen, gedeckte Veloabstellplätze (neue Velohäuschen 2017).",
+      "outdoor": "Grünflächen, Plätze, Kieswege, individuelle Vorgärten, Brunnen, Gartenbänke, Kinderspielplätze und alter Baumbestand; die Innenhöfe gewannen dank Lärmschutz entlang der Winterthurerstrasse an Ruhe, die Bepflanzung wurde mit mediterranen Pflanzen ergänzt. Auf dem Kiesplatz an der Stolzestrasse: 11 gemeinschaftliche Gartenkisten (Urban Gardening) und ein offener Bücherschrank.",
+      "architecture": "Erker, Loggien und Balkone; rote Tonziegel auf Sattel- und Walmdächern mit Gauben und Lukarnen; einheitlich grüne Fensterläden und Kellenwurfputz in Grau- bis Gelbtönen; Raumhöhen 2,7 m; jede Wohnung von Anfang an mit eigenem Bad (damals ein Novum); in der 1. Etappe offene «Wohndiele» statt Korridor.",
+      "renovations": "Ab 1930 Einbaubäder; 1934/35 Zentralheizung (Koks, ab 1968 Öl) und Umbau von 17 grossen in 34 kleine Wohnungen; 1985/86 sanfte Sanierung von Bädern und Küchen; 2003–2008 Innenrenovation in vier Etappen im bewohnten Zustand: Kleinwohnungen zurückgebaut und weitere 22 zu 11 Familienwohnungen zusammengelegt (NZZ 2006: 56 von früher 319 Wohnungen zusammengelegt, neu 291; Kosten rund 65 Mio. Franken), Riedtli-Küchenmodul, Gasheizung je Häusergruppe, kontrollierte Lüftung an Winterthurer- und Riedtlistrasse; Umgebung 2008 erneuert.",
+      "history": "1969 Tiefgarage, 1971 Abbruch und Neubau, Ende der 1970er eine teure Totalsanierung geplant – alles scheiterte am Widerstand der Mieterschaft; 1977 Gründung des Riedtli-Vereins (SRF-Beiträge 1977 und 1982); im September 1982 nahm das Stimmvolk dessen Initiative für eine werterhaltende Renovation (max. 25 Mio. Franken) mit knapp 58 % an; im Januar 2003 stimmte die Bewohnerschaft an einer eigenen «Riedtli-Urne» einer Mediationsvereinbarung zu (Mietzinsaufschlag über vier Jahre gestaffelt).",
+      "community": "Riedtli-Verein (seit 1977, CHF 30 pro Haushalt und Jahr): Tauschbar (Hol- und Bringtag im Frühling), Riedtli-/Sommerfest (4.7.2026), Zopf-Zmorge (6.9.2026), Samichlaus (So 6.12.2026), Adventsfenster; Mansarden werden über Warteliste, Aushang im Haus und Schaukästen/E-Mail des Vereins vergeben.",
+      "mobility": "Seit Sommer 2021 auf dem Parkplatz Stolzestrasse 14 E-Ladestationen, 4 Car-Sharing-Plätze und 3 E-Cargobikes (Pilot für alle rund 9200 LSZ-Wohnungen); Tram 9/10 (Kinkelstrasse) und Bus 33 (Scheuchzerstrasse) an der Siedlung; im Süden grenzt eine Velovorzugsroute an.",
+      "waste": "Fünf Bioabfallcontainer (Kiesplatz Stolzestrasse, Götzstrasse 8, Winterthurerstrasse 39/41, Riedtlistrasse 71, Kinkelstrasse 56), Leerung jeweils dienstags.",
+      "letting": "Gemäss Vermietungsverordnung haben Haushalte mit Kindern und Menschen in Notsituationen Vorrang; freie Wohnungen schreibt die Liegenschaftenverwaltung auf ihrer Website bzw. im Tagblatt der Stadt Zürich aus.",
+      "addresses": [
+        "Götzstrasse 4–12",
+        "Kinkelstrasse 44–60",
+        "Riedtlistrasse 65–85",
+        "Röslibrunnenweg 1–10",
+        "Scheuchzerstrasse 82–102",
+        "Stolzestrasse 14–46",
+        "Winterthurerstrasse 27–55",
+        "8006 Zürich"
+      ],
+      "note": "Kinkelstrasse 44 liegt in der Siedlung (Pin = Siedlungsmitte laut Wikipedia). Abweichende Zahlen je nach Quelle: 27 Häuser (Stadtseite) bzw. 28 Baugruppen/Häuser (Siedlungsdokumentation, Riedtli-Verein); 291 bzw. 288 Wohnungen.",
+      "sources": [
+        "https://www.stadt-zuerich.ch/de/planen-und-bauen/portfolio/bauten-anlagen/wohnbauten/wohnsiedlung-riedtli.html",
+        "http://web.archive.org/web/20210111220142/https://www.stadt-zuerich.ch/content/dam/stzh/fd/Deutsch/Wohnen-und-Gewerbe/Publikationen%20und%20Brosch%C3%BCren/Siedlungsdokumentationen/02_D_Riedtli_Helv_WEB.pdf",
+        "https://www.pbi-ee.org/fileadmin/user_files/groups/switzerland/documents/in_den_medien/nzz_13_10_06-051.PDF",
+        "https://riedtliverein.ch/",
+        "https://riedtliverein.ch/siedlung/",
+        "https://riedtliverein.ch/verein/",
+        "https://riedtliverein.ch/geschichte/",
+        "https://riedtliverein.ch/programm-2026/",
+        "https://de.wikipedia.org/wiki/Wohnsiedlung_Riedtli",
+        "https://api.sharedmobility.ch/v1/sharedmobility/identify?Geometry=8.544738,47.388078&Tolerance=450&offset=0&geometryFormat=esrijson"
+      ],
+      "walk_m": 0,
+      "crow_m": 0,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.stadt-zuerich.ch/de/planen-und-bauen/portfolio/bauten-anlagen/wohnbauten/wohnsiedlung-riedtli.html"
+  },
+  {
+    "id": "velo-vorzugsroute-lengg-oerlikon",
+    "name": "Velovorzugsroute Lengg – Hochschulen – Oerlikon",
+    "cat": "transport",
+    "lat": 47.387916,
+    "lon": 8.544261,
+    "address": "Scheuchzerstrasse / Kinkelstrasse, 8006 Zürich",
+    "walk_min": 1,
+    "desc_de": "Städtische Velovorzugsroute (Netzplanung, in OpenStreetMap als geplant geführt) von der Lengg über die Hochschulen und die Scheuchzer- und Kinkelstrasse direkt an der Siedlung vorbei via Irchelpark nach Oerlikon; laut Stadt grenzt die Siedlung im Süden an eine Velovorzugsroute. Für den Abschnitt Franklinplatz–Irchelstrasse bewilligte der Stadtrat im Mai 2026 2,58 Mio. Franken, ein Bautermin ist wegen Rechtsmitteln offen.",
+    "desc_en": "City cycle priority route (network plan, tagged as proposed in OpenStreetMap) from Lengg via the universities and Scheuchzerstrasse/Kinkelstrasse right past the estate and through Irchelpark to Oerlikon; the city says the estate borders a cycle priority route to the south. In May 2026 the city council approved CHF 2.58 million for the Franklinplatz–Irchelstrasse section; no construction date yet because of appeals.",
+    "url": "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/05/stadtrat-bewilligt-kredit-fuer-velovorzugsroutenabschnitt.html",
+    "tags": [
+      "bike",
+      "bike-route",
+      "planned",
+      "commute",
+      "oerlikon"
+    ],
+    "details": {
+      "note": "Pin = nächster Punkt der OSM-Routenrelation 18165397 (cycle_network CH:Zürich:VVR, state=proposed) zur Adresse, ca. 40 m; Verlauf laut OSM: Schulstrasse – Gubelstrasse – Oerlikonerstrasse – Scheuchzerstrasse – Kinkelstrasse – Sonneggstrasse – Universitätstrasse – Rämistrasse – Gloriastrasse – Freiestrasse.",
+      "sources": [
+        "https://www.openstreetmap.org/api/0.6/relation/18165397/full",
+        "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/05/stadtrat-bewilligt-kredit-fuer-velovorzugsroutenabschnitt.html",
+        "https://www.stadt-zuerich.ch/de/planen-und-bauen/portfolio/bauten-anlagen/wohnbauten/wohnsiedlung-riedtli.html"
+      ],
+      "walk_m": 39,
+      "crow_m": 40,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.openstreetmap.org/relation/18165397",
+    "approx": true
+  },
+  {
+    "id": "bus-scheuchzerstrasse",
+    "name": "Bus Scheuchzerstrasse (33)",
+    "cat": "transport",
+    "lat": 47.387793,
+    "lon": 8.544236,
+    "address": "Scheuchzerstrasse / Riedtlistrasse, 8006 Zürich",
+    "walk_min": 1,
+    "desc_de": "Nächste Haltestelle, direkt an der Siedlung: Bus 33 (Triemli ↔ Hegibachplatz) fährt morgens alle 7–8 Minuten und erreicht den Schaffhauserplatz in 2 Minuten – dort Umsteigen aufs Tram Richtung Oerlikon (rund 12–13 Minuten bis Bahnhof Oerlikon) oder Hauptbahnhof.",
+    "desc_en": "Nearest stop, right at the estate: bus 33 (Triemli ↔ Hegibachplatz) runs every 7–8 minutes in the morning and reaches Schaffhauserplatz in 2 minutes – change there to the tram towards Oerlikon (about 12–13 minutes to Oerlikon station) or the main station.",
+    "url": "https://www.zvv.ch",
+    "tags": [
+      "public-transport",
+      "bus",
+      "nearest",
+      "commute"
+    ],
+    "details": {
+      "lines": "Bus 33",
+      "stop_id": 8591339,
+      "note": "Fahrplan Mo 9.11.2026: Abfahrten Richtung Triemli 07:33, 07:39, 07:45, 07:53; schnellste Verbindung Scheuchzerstrasse → Zürich Oerlikon 07:33–07:45 (Bus 33 + Tram 50, 12 Min.), → Zürich HB 07:33–07:45 (Bus 33 + Tram 17, 12 Min.).",
+      "sources": [
+        "https://transport.opendata.ch/v1/stationboard?id=8591339&datetime=2026-11-09%2007:30",
+        "https://transport.opendata.ch/v1/stationboard?id=8591339&datetime=2026-12-14%2007:30",
+        "https://transport.opendata.ch/v1/connections?from=8591339&to=8503006&date=2026-11-09&time=07:30",
+        "https://transport.opendata.ch/v1/connections?from=8591339&to=8503000&date=2026-11-09&time=07:30"
+      ],
+      "walk_m": 61,
+      "crow_m": 49,
+      "walk_method": "osrm"
+    },
+    "source": "https://transport.opendata.ch/v1/stationboard?id=8591339&datetime=2026-11-09%2007:30"
+  },
+  {
+    "id": "comm-riedtli-verein",
+    "name": "Riedtli-Verein (Siedlungsverein)",
+    "cat": "community",
+    "lat": 47.3883,
+    "lon": 8.54552,
+    "address": "Wohnsiedlung Riedtli, 8006 Zürich (Postadresse: Riedtli-Verein, 8000 Zürich)",
+    "walk_min": 1,
+    "desc_de": "Verein der Riedtli-Bewohnerschaft, 1977 im Kampf gegen Abbruch- und Luxussanierungspläne gegründet und bis heute Ansprechpartner der Stadt: Er organisiert Tauschbar, Riedtli-Fest, Zopf-Zmorge, Samichlaus (So 6.12.2026) und Adventsfenster und hat Projekte wie Bücherschrank, Gartenkisten, Velohäuschen und den E-Mobilitäts-Pilot angestossen; Mitgliedschaft CHF 30 pro Haushalt.",
+    "desc_en": "Association of Riedtli residents, founded in 1977 to fight demolition and luxury-renovation plans and still the city's partner today: it organises a swap day, the Riedtli party, Zopf brunch, the Samichlaus visit (Sun 6 Dec 2026) and Advent windows, and initiated projects such as the book cabinet, garden boxes, bike sheds and the e-mobility pilot; membership CHF 30 per household.",
+    "url": "https://riedtliverein.ch/",
+    "tags": [
+      "community",
+      "estate",
+      "events",
+      "family",
+      "volunteer"
+    ],
+    "details": {
+      "when": "2026: Sommerfest 4.7., Zopf-Zmorge 6.9., Samichlaus 6.12.; Tauschbar im Frühling",
+      "operator": "Riedtli-Verein",
+      "note": "Kontakt per E-Mail (mail@riedtliverein.ch); Pin = Siedlungsmitte (kein Vereinslokal).",
+      "sources": [
+        "https://riedtliverein.ch/",
+        "https://riedtliverein.ch/verein/",
+        "https://riedtliverein.ch/programm-2026/",
+        "https://riedtliverein.ch/geschichte/",
+        "https://www.stadt-zuerich.ch/de/planen-und-bauen/portfolio/bauten-anlagen/wohnbauten/wohnsiedlung-riedtli.html"
+      ],
+      "walk_m": 84,
+      "crow_m": 64,
+      "walk_method": "osrm"
+    },
+    "source": "https://riedtliverein.ch/",
+    "approx": true
+  },
+  {
+    "id": "share-mobility-scheuchzerstrasse",
+    "name": "Mobility Zürich Scheuchzerstrasse / Riedtlistrasse",
+    "cat": "sharing",
+    "lat": 47.38742,
+    "lon": 8.54427,
+    "address": "Scheuchzerstrasse / Riedtlistrasse, 8006 Zürich",
+    "walk_min": 1,
+    "desc_de": "Mobility-Standort mit einem Auto direkt an der Siedlung bei der Bushaltestelle Scheuchzerstrasse, buchbar rund um die Uhr per App.",
+    "desc_en": "Mobility car-sharing spot with one car right at the estate by the Scheuchzerstrasse bus stop, bookable around the clock via the app.",
+    "url": "https://www.mobility.ch/",
+    "tags": [
+      "sharing",
+      "car-sharing",
+      "car-free"
+    ],
+    "details": {
+      "operator": "Mobility Genossenschaft",
+      "note": "sharedmobility.ch 5.11.2026: 1 Fahrzeug; OSM: Station 4769 «Zürich Scheuchzerstrasse».",
+      "sources": [
+        "https://api.sharedmobility.ch/v1/sharedmobility/identify?Geometry=8.544738,47.388078&Tolerance=700&offset=0&geometryFormat=esrijson&filters=ch.bfe.sharedmobility.provider.id=mobility",
+        "https://www.openstreetmap.org/node/5445822767"
+      ],
+      "walk_m": 93,
+      "crow_m": 81,
+      "walk_method": "osrm"
+    },
+    "source": "https://api.sharedmobility.ch/v1/sharedmobility/identify?Geometry=8.544738,47.388078&Tolerance=700&offset=0&geometryFormat=esrijson&filters=ch.bfe.sharedmobility.provider.id=mobility"
+  },
+  {
+    "id": "comm-riedtli-buecherschrank",
+    "name": "Offener Bücherschrank & Gartenkisten Riedtli (Kiesplatz)",
+    "cat": "community",
+    "lat": 47.388755,
+    "lon": 8.54468,
+    "address": "Kiesplatz an der Stolzestrasse, Wohnsiedlung Riedtli, 8006 Zürich",
+    "walk_min": 2,
+    "desc_de": "Auf dem Kiesplatz der Siedlung tauschen Leseratten seit Juni 2018 Bücher – seit Frühling 2025 in einem wetterfesten Metallschrank; daneben stehen elf von der Liegenschaftenverwaltung bereitgestellte Gartenkisten, die Riedtli-Haushalte gemeinsam bewirtschaften.",
+    "desc_en": "On the estate's gravel square, book lovers have swapped books since June 2018 – since spring 2025 in a weatherproof metal cabinet; next to it are eleven garden boxes provided by the city's housing department and tended jointly by Riedtli households.",
+    "url": "https://riedtliverein.ch/siedlung/",
+    "tags": [
+      "community",
+      "books",
+      "free",
+      "gardening",
+      "estate"
+    ],
+    "details": {
+      "hours": "rund um die Uhr",
+      "operator": "Riedtli-Verein (Initiantinnen) / Liegenschaften Stadt Zürich",
+      "sources": [
+        "https://riedtliverein.ch/siedlung/",
+        "https://www.openstreetmap.org/node/6343416236",
+        "https://www.stadt-zuerich.ch/de/planen-und-bauen/portfolio/bauten-anlagen/wohnbauten/wohnsiedlung-riedtli.html"
+      ],
+      "walk_m": 116,
+      "crow_m": 75,
+      "walk_method": "osrm"
+    },
+    "source": "https://riedtliverein.ch/siedlung/"
+  },
+  {
+    "id": "share-riedtli-hub-stolzestrasse",
+    "name": "Sharing-Hub Riedtli Stolzestrasse (Mobility, carvelo, E-Laden)",
+    "cat": "sharing",
+    "lat": 47.38789,
+    "lon": 8.545596,
+    "address": "Stolzestrasse 30 (Parkplatz), 8006 Zürich",
+    "walk_min": 2,
+    "desc_de": "Auf dem Siedlungsparkplatz an der Stolzestrasse stehen seit Sommer 2021 vierzehn Ladestationen, die Mobility-Station «Zürich Stolzestrasse» mit zwei Elektroautos und die «Siedlung Riedtli Carvelobox» mit drei E-Cargobikes (carvelo) – geladen mit 100 % Ökostrom und Pilotprojekt für alle städtischen Wohnsiedlungen.",
+    "desc_en": "On the estate car park on Stolzestrasse there have been fourteen charging points since summer 2021, the Mobility station 'Zürich Stolzestrasse' with two electric cars and the 'Siedlung Riedtli Carvelobox' with three e-cargo bikes (carvelo) – charged with 100% green power and a pilot for all municipal housing estates.",
+    "url": "https://riedtliverein.ch/verein/",
+    "tags": [
+      "sharing",
+      "car-sharing",
+      "cargo-bike",
+      "e-mobility",
+      "car-free",
+      "estate"
+    ],
+    "details": {
+      "operator": "Mobility Genossenschaft; carvelo (carvelo2go); Liegenschaften Stadt Zürich",
+      "note": "sharedmobility.ch (5.11.2026): Mobility «Zürich Stolzestrasse» 2 E-Cars; carvelo «Siedlung Riedtli Carvelobox», Stolzestrasse 30, 3 E-CargoBikes; zusätzlich ein privates 2EM-Sharingauto. Parkplätze mit Ladesäule werden bevorzugt an Mietende vergeben, die ihr E-Auto auch zum Teilen anbieten.",
+      "sources": [
+        "https://api.sharedmobility.ch/v1/sharedmobility/identify?Geometry=8.544738,47.388078&Tolerance=450&offset=0&geometryFormat=esrijson",
+        "https://api.sharedmobility.ch/v1/sharedmobility/identify?Geometry=8.544738,47.388078&Tolerance=700&offset=0&geometryFormat=esrijson&filters=ch.bfe.sharedmobility.provider.id=mobility",
+        "https://riedtliverein.ch/verein/",
+        "https://www.stadt-zuerich.ch/de/planen-und-bauen/portfolio/bauten-anlagen/wohnbauten/wohnsiedlung-riedtli.html",
+        "https://www.openstreetmap.org/way/1217276398",
+        "https://www.openstreetmap.org/node/11778835752"
+      ],
+      "walk_m": 129,
+      "crow_m": 68,
+      "walk_method": "osrm"
+    },
+    "source": "https://api.sharedmobility.ch/v1/sharedmobility/identify?Geometry=8.544738,47.388078&Tolerance=450&offset=0&geometryFormat=esrijson"
+  },
+  {
+    "id": "tram-kinkelstrasse",
+    "name": "Tram Kinkelstrasse (9, 10)",
+    "cat": "transport",
+    "lat": 47.388887,
+    "lon": 8.546338,
+    "address": "Winterthurerstrasse / Kinkelstrasse, 8006 Zürich",
+    "walk_min": 3,
+    "desc_de": "Tramhaltestelle vor der Siedlung an der Winterthurerstrasse: Tram 10 fährt alle 7–8 Minuten ohne Umsteigen in 11 Minuten nach Zürich Oerlikon (Bahnhof Ost) und in der Gegenrichtung in 11 Minuten zum Bahnhofplatz/HB; Tram 9 verbindet mit Irchel, Milchbuck und Hirzenbach bzw. Triemli.",
+    "desc_en": "Tram stop in front of the estate on Winterthurerstrasse: tram 10 runs every 7–8 minutes and reaches Zürich Oerlikon (Bahnhof Ost) in 11 minutes without changing, and Bahnhofplatz/HB in 11 minutes in the other direction; tram 9 links to Irchel, Milchbuck and Hirzenbach or Triemli.",
+    "url": "https://www.zvv.ch",
+    "tags": [
+      "public-transport",
+      "tram",
+      "nearest",
+      "commute"
+    ],
+    "details": {
+      "lines": "Tram 9, 10",
+      "stop_id": 8591229,
+      "note": "Fahrplan Mo 9.11.2026 und 14.12.2026: Tram 10 Kinkelstrasse → Zürich Oerlikon, Bahnhof Ost +11 Min., → Central +9, → Bahnhofplatz/HB +11 Min.; Tür zu Tür ab Kinkelstrasse 44 rund 13–17 Min. zum Bahnhof Oerlikon bzw. zum HB. Die geplante Verlängerung von Tram 10 via Paradeplatz nach Enge ist laut QVO auf den 10.5.2027 verschoben.",
+      "sources": [
+        "https://transport.opendata.ch/v1/stationboard?id=8591229&datetime=2026-11-09%2007:30",
+        "https://transport.opendata.ch/v1/stationboard?id=8591229&datetime=2026-12-14%2007:30",
+        "https://transport.opendata.ch/v1/connections?from=8591229&to=8503006&date=2026-11-09&time=07:30",
+        "https://transport.opendata.ch/v1/connections?from=8591229&to=8503000&date=2026-11-09&time=07:30",
+        "https://www.qvo.ch/verlaengerung-des-trams-der-linie-10-bis-enge-erst-ab-mai-2027/"
+      ],
+      "walk_m": 188,
+      "crow_m": 150,
+      "walk_method": "osrm"
+    },
+    "source": "https://transport.opendata.ch/v1/stationboard?id=8591229&datetime=2026-11-09%2007:30"
+  },
+  {
+    "id": "share-zueri-velo-kirche-unterstrass",
+    "name": "Züri Velo Station Kirche Unterstrass",
+    "cat": "sharing",
+    "lat": 47.387748,
+    "lon": 8.542109,
+    "address": "Turnerstrasse (bei der Kirche Unterstrass), 8006 Zürich",
+    "walk_min": 4,
+    "desc_de": "Nächste Station des städtischen Veloverleihs Züri Velo (PubliBike/Velospot), rund 200 m von der Siedlung – Velos und E-Bikes per App ausleihen und an einer anderen Station zurückgeben.",
+    "desc_en": "Nearest station of the city bike-share Züri Velo (PubliBike/Velospot), about 200 m from the estate – rent bikes and e-bikes via the app and return them at another station.",
+    "url": "https://www.publibike.ch/",
+    "tags": [
+      "sharing",
+      "bike-sharing",
+      "e-bike"
+    ],
+    "details": {
+      "operator": "PubliBike / Velospot (Netz «Züri Velo»)",
+      "note": "sharedmobility.ch 5.11.2026: Velospot-Velo rund 50 m von der OSM-Station entfernt gemeldet.",
+      "sources": [
+        "https://www.openstreetmap.org/node/11002386391",
+        "https://api.sharedmobility.ch/v1/sharedmobility/identify?Geometry=8.544738,47.388078&Tolerance=700&offset=0&geometryFormat=esrijson&filters=ch.bfe.sharedmobility.provider.id=velospot",
+        "https://www.publibike.ch/de/home"
+      ],
+      "walk_m": 282,
+      "crow_m": 201,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.openstreetmap.org/node/11002386391"
+  },
+  {
+    "id": "food-restaurant-kreis-6",
+    "name": "Restaurant Kreis 6",
+    "cat": "food",
+    "lat": 47.386113,
+    "lon": 8.545285,
+    "address": "Scheuchzerstrasse 65, 8006 Zürich",
+    "walk_min": 4,
+    "desc_de": "Quartierrestaurant nur rund 220 m von der Siedlung mit romantischem Sommergarten und Platz für bis zu 85 Personen; Mo–Fr 11.30–14 und 18–24 Uhr, Sa ab 18 Uhr, So geschlossen.",
+    "desc_en": "Neighbourhood restaurant only about 220 m from the estate, with a romantic summer garden and room for up to 85 guests; Mon–Fri 11:30am–2pm and 6pm–midnight, Sat from 6pm, closed Sundays.",
+    "url": "http://restaurantkreis6.ch",
+    "tags": [
+      "restaurant",
+      "lunch",
+      "garden",
+      "local"
+    ],
+    "details": {
+      "hours": "Mo–Fr 11.30–14, 18–24; Sa 18–24; So zu (Küche mittags ab 12, abends bis 21.30)",
+      "sources": [
+        "http://restaurantkreis6.ch",
+        "https://www.openstreetmap.org/node/365838929"
+      ],
+      "walk_m": 284,
+      "crow_m": 222,
+      "walk_method": "osrm"
+    },
+    "source": "http://restaurantkreis6.ch"
+  },
+  {
+    "id": "comm-kirche-unterstrass",
+    "name": "Reformierte Kirche Unterstrass",
+    "cat": "community",
+    "lat": 47.387379,
+    "lon": 8.541946,
+    "address": "Turnerstrasse 47, 8006 Zürich",
+    "walk_min": 4,
+    "desc_de": "Neugotische Kirche von 1884 mit markantem Turm, Glasfenstern von Franz Karl Opitz und Metzler-Orgel, gut 200 m von der Siedlung; neben Gottesdiensten Konzerte und Quartieranlässe, z. B. «Fiire mit de Chliine» mit Elternkafi am So 22.11.2026 (11 Uhr) und eine Adventsausstellung.",
+    "desc_en": "Neo-Gothic church of 1884 with a striking tower, stained glass by Franz Karl Opitz and a Metzler organ, just over 200 m from the estate; besides services it hosts concerts and neighbourhood events, e.g. 'Fiire mit de Chliine' for small children with a parents' coffee on Sun 22 Nov 2026 (11am) and an Advent exhibition.",
+    "url": "https://reformiert-zuerich.ch/kirchgemeinde/kirchen/kirche-unterstrass/",
+    "tags": [
+      "community",
+      "church",
+      "family",
+      "concerts"
+    ],
+    "details": {
+      "operator": "Reformierte Kirche Zürich, Kirchenkreis sechs",
+      "sources": [
+        "https://reformiert-zuerich.ch/kirchgemeinde/kirchen/kirche-unterstrass/",
+        "https://reformiert-zuerich.ch/kirchenkreise/sechs/",
+        "https://www.openstreetmap.org/way/108447541"
+      ],
+      "walk_m": 290,
+      "crow_m": 224,
+      "walk_method": "osrm"
+    },
+    "source": "https://reformiert-zuerich.ch/kirchgemeinde/kirchen/kirche-unterstrass/"
+  },
+  {
+    "id": "share-mobility-stolze-ottikerstrasse",
+    "name": "Mobility Zürich Stolzestrasse / Ottikerstrasse",
+    "cat": "sharing",
+    "lat": 47.3863,
+    "lon": 8.5463,
+    "address": "Stolzestrasse / Ottikerstrasse, 8006 Zürich",
+    "walk_min": 4,
+    "desc_de": "Weiterer Mobility-Standort mit einem Auto bei der Stolzewiese, rund 230 m südlich der Siedlung.",
+    "desc_en": "Another Mobility car-sharing spot with one car by the Stolzewiese green, about 230 m south of the estate.",
+    "url": "https://www.mobility.ch/",
+    "tags": [
+      "sharing",
+      "car-sharing",
+      "car-free"
+    ],
+    "details": {
+      "operator": "Mobility Genossenschaft",
+      "note": "sharedmobility.ch 5.11.2026: 1 Fahrzeug; OSM: Station 4531.",
+      "sources": [
+        "https://api.sharedmobility.ch/v1/sharedmobility/identify?Geometry=8.544738,47.388078&Tolerance=700&offset=0&geometryFormat=esrijson&filters=ch.bfe.sharedmobility.provider.id=mobility",
+        "https://www.openstreetmap.org/node/5445822766"
+      ],
+      "walk_m": 304,
+      "crow_m": 230,
+      "walk_method": "osrm"
+    },
+    "source": "https://api.sharedmobility.ch/v1/sharedmobility/identify?Geometry=8.544738,47.388078&Tolerance=700&offset=0&geometryFormat=esrijson&filters=ch.bfe.sharedmobility.provider.id=mobility"
+  },
+  {
+    "id": "cult-uhrenmuseum-roesli",
+    "name": "Uhrenmuseum zum Rösli",
+    "cat": "culture",
+    "lat": 47.390144,
+    "lon": 8.54436,
+    "address": "Röslistrasse 46, 8006 Zürich",
+    "walk_min": 4,
+    "desc_de": "Kleines Museum mit rund 500 mechanischen Uhren aus fünf Jahrhunderten (1450–1950) im Haus zum Rösli von 1856, nur rund 250 m von der Siedlung, mit Reparaturwerkstatt; Di–Fr 14–17 Uhr, Eintritt CHF 10.",
+    "desc_en": "Small museum with around 500 mechanical clocks from five centuries (1450–1950) in the Haus zum Rösli of 1856, only about 250 m from the estate, with a repair workshop; Tue–Fri 2–5pm, admission CHF 10.",
+    "url": "https://www.uhrenmuseumroesli.ch",
+    "tags": [
+      "museum",
+      "history",
+      "craft"
+    ],
+    "details": {
+      "hours": "Museum Di–Fr 14–17 (übrige Zeiten nach Vereinbarung); Werkstatt Di–Fr 8.30–12 / 14–17",
+      "operator": "Stiftung Uhrensammlung Hans Neufeld und Marta Gisler",
+      "sources": [
+        "https://www.uhrenmuseumroesli.ch",
+        "https://www.openstreetmap.org/node/6499882199"
+      ],
+      "walk_m": 308,
+      "crow_m": 231,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.uhrenmuseumroesli.ch"
+  },
+  {
+    "id": "tram-letzistrasse",
+    "name": "Tram/Bus Letzistrasse (9, 10, 39)",
+    "cat": "transport",
+    "lat": 47.390681,
+    "lon": 8.545494,
+    "address": "Winterthurerstrasse / Letzistrasse, 8006 Zürich",
+    "walk_min": 5,
+    "desc_de": "Nächste Haltestelle Richtung Irchel: Tram 10 in 10 Minuten nach Zürich Oerlikon (Bahnhof Ost) und in 12 Minuten zum Bahnhofplatz/HB, Tram 9 zum Milchbuck; Bus 39 fährt via Universität Irchel Richtung Zoo bzw. Im Klösterli.",
+    "desc_en": "Next stop towards Irchel: tram 10 reaches Zürich Oerlikon (Bahnhof Ost) in 10 minutes and Bahnhofplatz/HB in 12 minutes, tram 9 goes to Milchbuck; bus 39 runs via Irchel university towards the Zoo or Im Klösterli.",
+    "url": "https://www.zvv.ch",
+    "tags": [
+      "public-transport",
+      "tram",
+      "bus",
+      "commute"
+    ],
+    "details": {
+      "lines": "Tram 9, 10; Bus 39",
+      "stop_id": 8591255,
+      "note": "Fahrplan Mo 9.11.2026: Tram 10 → Oerlikon Bahnhof Ost +10 Min., → Bahnhofplatz/HB +12 Min.; Tram 9 → Milchbuck +4 Min.",
+      "sources": [
+        "https://transport.opendata.ch/v1/stationboard?id=8591255&datetime=2026-11-09%2007:30",
+        "https://transport.opendata.ch/v1/stationboard?id=8591255&datetime=2026-12-14%2007:30",
+        "https://transport.opendata.ch/v1/connections?from=8591255&to=8503006&date=2026-11-09&time=07:30",
+        "https://transport.opendata.ch/v1/connections?from=8591255&to=8503000&date=2026-11-09&time=07:30"
+      ],
+      "walk_m": 349,
+      "crow_m": 295,
+      "walk_method": "osrm"
+    },
+    "source": "https://transport.opendata.ch/v1/stationboard?id=8591255&datetime=2026-11-09%2007:30"
+  },
+  {
+    "id": "shop-denner-winterthurerstrasse",
+    "name": "Denner Express Winterthurerstrasse",
+    "cat": "shop",
+    "lat": 47.390726,
+    "lon": 8.54522,
+    "address": "Winterthurerstrasse 83, 8006 Zürich",
+    "walk_min": 5,
+    "desc_de": "Kleiner Discounter rund 300 m nördlich der Siedlung bei der Haltestelle Letzistrasse, für den schnellen Einkauf Mo–Sa 8–20 Uhr (laut OSM).",
+    "desc_en": "Small discount grocer about 300 m north of the estate by the Letzistrasse stop, for quick shopping Mon–Sat 8am–8pm (per OSM).",
+    "url": "https://www.denner.ch/",
+    "tags": [
+      "groceries",
+      "discount",
+      "daily"
+    ],
+    "details": {
+      "hours": "Mo–Sa 8–20",
+      "operator": "Denner",
+      "sources": [
+        "https://www.openstreetmap.org/node/4099815657"
+      ],
+      "walk_m": 349,
+      "crow_m": 297,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.openstreetmap.org/node/4099815657"
+  },
+  {
+    "id": "comm-quartierhaus-kreis-6",
+    "name": "Quartierhaus Kreis 6",
+    "cat": "community",
+    "lat": 47.388912,
+    "lon": 8.540974,
+    "address": "Langmauerstrasse 7, 8006 Zürich",
+    "walk_min": 5,
+    "desc_de": "Quartierhaus und «Infodrehscheibe» für Unter- und Oberstrass mit mietbaren Gruppenräumen, Wohnküche, Garten und Spielplatz sowie Kursen (z. B. offenes Singen «Sing6!» dienstags 18.30–20 Uhr, nächste Daten 17.11. und 1.12.2026), Babysitting-Kurs SRK und Nachbarschaftshilfe.",
+    "desc_en": "Neighbourhood house and information hub for Unterstrass and Oberstrass with rentable group rooms, a kitchen-living room, garden and playground, plus courses (e.g. open singing 'Sing6!' on Tuesdays 6:30–8pm, next dates 17 Nov and 1 Dec 2026), a Red Cross babysitting course and neighbourhood help.",
+    "url": "https://qh6.ch/",
+    "tags": [
+      "community",
+      "courses",
+      "rental-space",
+      "neighbourhood-help"
+    ],
+    "details": {
+      "operator": "Verein Quartierhaus Kreis 6",
+      "note": "Partner im Haus: Offene Jugendarbeit OJA, Spielgruppe Röslichnopf, Musikschule Konservatorium Zürich.",
+      "sources": [
+        "https://qh6.ch/",
+        "https://www.unterstrass.ch/links/quartierhaus-kreis-6/",
+        "https://www.openstreetmap.org/node/11096932417"
+      ],
+      "walk_m": 354,
+      "crow_m": 298,
+      "walk_method": "osrm"
+    },
+    "source": "https://qh6.ch/"
+  },
+  {
+    "id": "comm-qv-unterstrass-roeslischueuer",
+    "name": "Quartierverein Unterstrass – Röslischüür",
+    "cat": "community",
+    "lat": 47.388527,
+    "lon": 8.541194,
+    "address": "Röslistrasse 9, 8006 Zürich",
+    "walk_min": 5,
+    "desc_de": "Der Quartierverein Unterstrass hat seinen Sitz in der denkmalgeschützten Quartierscheune «Röslischüür» von 1811 neben dem ehemaligen Armenhaus, mit Saal für 50 Personen, Röslibar und Garten (mietbar); hier finden Musikclub-Konzerte, ein Quartierrundgang für Neuzugezogene sowie Anlässe wie Räbeliechtliumzug (Do 5.11.2026, 18 Uhr), Design-Markt Rösli (14./15.11.2026) und «Apéritif au Rösli-Bar» (Do 26.11.2026, 17 Uhr) statt.",
+    "desc_en": "The Unterstrass neighbourhood association is based in the listed 'Röslischüür' barn of 1811 next to the former poorhouse, with a hall for 50, the Rösli bar and a garden (available to rent); it hosts music-club concerts, a walking tour for newcomers and events such as the turnip-lantern parade (Thu 5 Nov 2026, 6pm), the Rösli design market (14/15 Nov 2026) and an 'Apéritif au Rösli-Bar' (Thu 26 Nov 2026, 5pm).",
+    "url": "https://www.unterstrass.ch/",
+    "tags": [
+      "community",
+      "events",
+      "culture",
+      "rental-space",
+      "listed"
+    ],
+    "details": {
+      "operator": "Quartierverein Unterstrass",
+      "phone": "044 361 44 12",
+      "sources": [
+        "https://www.unterstrass.ch/",
+        "https://www.unterstrass.ch/informationen/",
+        "https://www.unterstrass.ch/quartierverein/ueber-uns/",
+        "https://www.unterstrass.ch/rabeliechtliumzug-2026/",
+        "https://www.openstreetmap.org/node/9483112745"
+      ],
+      "walk_m": 363,
+      "crow_m": 271,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.unterstrass.ch/"
+  },
+  {
+    "id": "food-moudis-lecker-garten",
+    "name": "Moudi's Lecker Garten",
+    "cat": "food",
+    "lat": 47.390993,
+    "lon": 8.545595,
+    "address": "Winterthurerstrasse 86, 8006 Zürich",
+    "walk_min": 5,
+    "desc_de": "Libanesisches Restaurant mit Gartenoase an der Winterthurerstrasse: 47 hausgemachte Mezze-Sorten und Brunch-Angebot; täglich offen (Mo–Fr 11.30–23, Sa 12–24, So 12–22 Uhr).",
+    "desc_en": "Lebanese restaurant with a garden oasis on Winterthurerstrasse: 47 kinds of home-made mezze and a brunch offer; open daily (Mon–Fri 11:30am–11pm, Sat noon–midnight, Sun noon–10pm).",
+    "url": "http://moudislecker.ch/",
+    "tags": [
+      "restaurant",
+      "garden",
+      "brunch",
+      "vegetarian",
+      "open-sunday"
+    ],
+    "details": {
+      "hours": "Mo–Fr 11.30–23, Sa 12–24, So 12–22 (Küche Mo–Fr 11.30–14 und 18–22)",
+      "sources": [
+        "http://moudislecker.ch/",
+        "https://www.openstreetmap.org/node/1986773362"
+      ],
+      "walk_m": 389,
+      "crow_m": 330,
+      "walk_method": "osrm"
+    },
+    "source": "http://moudislecker.ch/"
+  },
+  {
+    "id": "food-stolzehuesli",
+    "name": "Stolzehüsli – Kafi und Kulturraum",
+    "cat": "food",
+    "lat": 47.385867,
+    "lon": 8.546992,
+    "address": "Ottikerstrasse 51 (Stolzewiese), 8006 Zürich",
+    "walk_min": 5,
+    "desc_de": "Kleines Quartiercafé mit Kulturraum auf der Stolzewiese, getragen von Freiwilligen: im Sommer Hauptsaison, im Winter jeden Mittwochnachmittag (14–19 Uhr) offen, dazu Anlässe wie Jass-Abend (Do 12.11.2026) oder Adventsprogramm (Mi 2.12.2026); Kafi, Getränke, Snacks und Apéroplättli.",
+    "desc_en": "Small volunteer-run neighbourhood café and culture room on the Stolzewiese green: main season in summer, in winter open every Wednesday afternoon (2–7pm), plus events such as a Jass card evening (Thu 12 Nov 2026) or an Advent programme (Wed 2 Dec 2026); coffee, drinks, snacks and aperitif platters.",
+    "url": "https://stolze-huesli.ch",
+    "tags": [
+      "cafe",
+      "community",
+      "culture",
+      "volunteer",
+      "outdoor"
+    ],
+    "details": {
+      "hours": "Winter: Mi 14–19; Sommer länger (vorwiegend Sommerbetrieb)",
+      "note": "Raum für private Anlässe mietbar (Wintersaison).",
+      "sources": [
+        "https://stolze-huesli.ch",
+        "https://www.openstreetmap.org/node/13065115826"
+      ],
+      "walk_m": 393,
+      "crow_m": 299,
+      "walk_method": "osrm"
+    },
+    "source": "https://stolze-huesli.ch"
+  },
+  {
+    "id": "comm-sammelstelle-weinbergstrasse",
+    "name": "Wertstoff-Sammelstelle Weinbergstrasse/Röslistrasse",
+    "cat": "community",
+    "lat": 47.387765,
+    "lon": 8.540734,
+    "address": "Weinbergstrasse 131 (Ecke Röslistrasse), 8006 Zürich",
+    "walk_min": 5,
+    "desc_de": "Nächste städtische Wertstoff-Sammelstelle von Entsorgung + Recycling Zürich, rund 300 m von der Siedlung: Container für Glas (nach Farben), Metall/Alu, Speise- und Mineralöl sowie Textilien; Einwurf Mo–Sa 7–20 Uhr.",
+    "desc_en": "Nearest city recycling point of Entsorgung + Recycling Zürich, about 300 m from the estate: containers for glass (by colour), metal/aluminium, cooking and engine oil and textiles; drop-off Mon–Sat 7am–8pm.",
+    "url": "https://www.stadt-zuerich.ch/wertstoffsammelstelle",
+    "tags": [
+      "recycling",
+      "glass",
+      "textiles",
+      "daily"
+    ],
+    "details": {
+      "hours": "Einwurfzeiten Mo–Sa 7–20 (laut OSM)",
+      "operator": "ERZ Entsorgung + Recycling Zürich",
+      "note": "Eine weitere, rollstuhlgängige Unterflur-Sammelstelle liegt an der Ottikerstrasse vis-à-vis Nr. 61 (Glas, Metall, Textilien). Bioabfall: eigene Container in der Siedlung (Leerung dienstags).",
+      "sources": [
+        "https://www.ogd.stadt-zuerich.ch/wfs/geoportal/Sammelstelle?SERVICE=WFS&REQUEST=GetFeature&VERSION=1.1.0&TYPENAME=poi_sammelstelle_view&outputFormat=GeoJSON&srsName=EPSG:4326",
+        "https://www.openstreetmap.org/node/132073028",
+        "https://riedtliverein.ch/siedlung/"
+      ],
+      "walk_m": 406,
+      "crow_m": 303,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.ogd.stadt-zuerich.ch/wfs/geoportal/Sammelstelle?SERVICE=WFS&REQUEST=GetFeature&VERSION=1.1.0&TYPENAME=poi_sammelstelle_view&outputFormat=GeoJSON&srsName=EPSG:4326"
+  },
+  {
+    "id": "tram-roeslistrasse",
+    "name": "Tram Röslistrasse (7)",
+    "cat": "transport",
+    "lat": 47.388662,
+    "lon": 8.540499,
+    "address": "Weinbergstrasse / Röslistrasse, 8006 Zürich",
+    "walk_min": 6,
+    "desc_de": "Schnellster Weg zum Hauptbahnhof: Tram 7 (Wollishofen ↔ Stettbach) fährt alle 7–8 Minuten und erreicht Bahnhofstrasse/HB in 7 Minuten (Central in 5); Richtung Oerlikon via Schaffhauserplatz umsteigen. Ab dem Fahrplanwechsel am 13.12.2026 hält hier zusätzlich Tram 15 (Bucheggplatz ↔ Tiefenbrunnen).",
+    "desc_en": "Quickest way to the main station: tram 7 (Wollishofen ↔ Stettbach) runs every 7–8 minutes and reaches Bahnhofstrasse/HB in 7 minutes (Central in 5); for Oerlikon change at Schaffhauserplatz. From the timetable change on 13 Dec 2026 tram 15 (Bucheggplatz ↔ Tiefenbrunnen) also stops here.",
+    "url": "https://www.zvv.ch",
+    "tags": [
+      "public-transport",
+      "tram",
+      "commute"
+    ],
+    "details": {
+      "lines": "Tram 7 (ab 13.12.2026 zusätzlich Tram 15)",
+      "stop_id": 8591324,
+      "note": "Fahrplan Mo 9.11.2026: Tram 7 → Bahnhofstrasse/HB +7 Min.; Verbindung Röslistrasse → Zürich HB 07:30–07:40 (10 Min. inkl. Fussweg). Stationboard 14.12.2026: Tram 7 und 15.",
+      "sources": [
+        "https://transport.opendata.ch/v1/stationboard?id=8591324&datetime=2026-11-09%2007:30",
+        "https://transport.opendata.ch/v1/stationboard?id=8591324&datetime=2026-12-14%2007:30",
+        "https://transport.opendata.ch/v1/connections?from=8591324&to=8503006&date=2026-11-09&time=07:30",
+        "https://transport.opendata.ch/v1/connections?from=8591324&to=8503000&date=2026-11-09&time=07:30"
+      ],
+      "walk_m": 415,
+      "crow_m": 326,
+      "walk_method": "osrm"
+    },
+    "source": "https://transport.opendata.ch/v1/stationboard?id=8591324&datetime=2026-11-09%2007:30"
+  },
+  {
+    "id": "shop-nah-und-fein",
+    "name": "nahundfein – regionale Lebensmittel",
+    "cat": "shop",
+    "lat": 47.38594,
+    "lon": 8.548124,
+    "address": "Winterthurerstrasse 13, 8006 Zürich",
+    "walk_min": 6,
+    "desc_de": "Quartierladen am Rigiplatz für saisonale Lebensmittel aus der Region, direkt vom Produzenten ohne Verteilzentren, mit Take-away-Mahlzeiten; Di–Fr 9–19, Sa 9–16 Uhr, So/Mo geschlossen.",
+    "desc_en": "Neighbourhood shop at Rigiplatz for seasonal regional food bought directly from producers without distribution centres, with take-away meals; Tue–Fri 9am–7pm, Sat 9am–4pm, closed Sun/Mon.",
+    "url": "https://www.nahundfein.ch/",
+    "tags": [
+      "groceries",
+      "regional",
+      "seasonal",
+      "local",
+      "take-away"
+    ],
+    "details": {
+      "hours": "Di–Fr 9–19, Sa 9–16",
+      "sources": [
+        "https://www.nahundfein.ch/",
+        "https://www.openstreetmap.org/node/4770888504"
+      ],
+      "walk_m": 424,
+      "crow_m": 349,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.nahundfein.ch/"
+  },
+  {
+    "id": "tram-seilbahn-rigiblick",
+    "name": "Tram/Bus Seilbahn Rigiblick (9, 10, 33)",
+    "cat": "transport",
+    "lat": 47.385913,
+    "lon": 8.548368,
+    "address": "Universitätstrasse (Talstation Seilbahn Rigiblick), 8006 Zürich",
+    "walk_min": 6,
+    "desc_de": "Knoten an der Universitätstrasse beim Rigiplatz: Tram 10 in 12 Minuten nach Oerlikon (Bahnhof Ost) und in 10 Minuten zum Bahnhofplatz/HB, Tram 9, Bus 33 und die Talstation der Seilbahn Rigiblick (alle 6 Minuten hinauf zum Zürichberg).",
+    "desc_en": "Hub on Universitätstrasse by Rigiplatz: tram 10 reaches Oerlikon (Bahnhof Ost) in 12 minutes and Bahnhofplatz/HB in 10 minutes; also tram 9, bus 33 and the valley station of the Rigiblick funicular (every 6 minutes up the Zürichberg).",
+    "url": "https://www.zvv.ch",
+    "tags": [
+      "public-transport",
+      "tram",
+      "bus",
+      "funicular",
+      "commute"
+    ],
+    "details": {
+      "lines": "Tram 9, 10; Bus 33; Standseilbahn 23",
+      "stop_id": 8591362,
+      "note": "Fahrplan Mo 9.11.2026: Tram 10 → Oerlikon Bahnhof Ost +12 Min., → Bahnhofplatz/HB +10 Min.; Seilbahn 07:30, 07:36, 07:42 … (alle 6 Min.).",
+      "sources": [
+        "https://transport.opendata.ch/v1/stationboard?id=8591362&datetime=2026-11-09%2007:30",
+        "https://transport.opendata.ch/v1/stationboard?id=8591362&datetime=2026-12-14%2007:30",
+        "https://transport.opendata.ch/v1/connections?from=8591362&to=8503006&date=2026-11-09&time=07:30",
+        "https://transport.opendata.ch/v1/connections?from=8591362&to=8503000&date=2026-11-09&time=07:30"
+      ],
+      "walk_m": 444,
+      "crow_m": 364,
+      "walk_method": "osrm"
+    },
+    "source": "https://transport.opendata.ch/v1/stationboard?id=8591362&datetime=2026-11-09%2007:30"
+  },
+  {
+    "id": "shop-migros-rigiplatz",
+    "name": "Migros Rigiplatz",
+    "cat": "shop",
+    "lat": 47.385993,
+    "lon": 8.548693,
+    "address": "Winterthurerstrasse 2–4, 8006 Zürich",
+    "walk_min": 6,
+    "desc_de": "Nächster grosser Supermarkt, rund 400 m von der Siedlung am Rigiplatz: Mo–Sa 7.30–21 Uhr (laut OSM), sonntags geschlossen.",
+    "desc_en": "Nearest large supermarket, about 400 m from the estate at Rigiplatz: Mon–Sat 7:30am–9pm (per OSM), closed Sundays.",
+    "url": "https://filialen.migros.ch/de/migros-supermarkt-zuerich-rigiplatz",
+    "tags": [
+      "groceries",
+      "supermarket",
+      "daily"
+    ],
+    "details": {
+      "hours": "Mo–Sa 7.30–21",
+      "operator": "Migros",
+      "sources": [
+        "https://filialen.migros.ch/de/migros-supermarkt-zuerich-rigiplatz",
+        "https://www.openstreetmap.org/node/4827131028"
+      ],
+      "walk_m": 458,
+      "crow_m": 377,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.openstreetmap.org/node/4827131028"
+  },
+  {
+    "id": "tram-ottikerstrasse",
+    "name": "Tram Ottikerstrasse (7)",
+    "cat": "transport",
+    "lat": 47.385189,
+    "lon": 8.542412,
+    "address": "Weinbergstrasse / Ottikerstrasse, 8006 Zürich",
+    "walk_min": 6,
+    "desc_de": "Tram 7 an der Weinbergstrasse: in 8–9 Minuten an der Bahnhofstrasse/HB (ab Dezember laut Fahrplan 6 Minuten), Richtung Norden via Schaffhauserplatz und Milchbuck nach Stettbach; ab 13.12.2026 auch Tram 15.",
+    "desc_en": "Tram 7 on Weinbergstrasse: 8–9 minutes to Bahnhofstrasse/HB (6 minutes in the December timetable), northbound via Schaffhauserplatz and Milchbuck to Stettbach; tram 15 too from 13 Dec 2026.",
+    "url": "https://www.zvv.ch",
+    "tags": [
+      "public-transport",
+      "tram",
+      "commute"
+    ],
+    "details": {
+      "lines": "Tram 7 (ab 13.12.2026 zusätzlich Tram 15)",
+      "stop_id": 8591298,
+      "note": "Fahrplan Mo 9.11.2026: Verbindungen Ottikerstrasse → Zürich HB 8–9 Min. (Tram 7); 14.12.2026: Tram 7 → Bahnhofstrasse/HB +6 Min.",
+      "sources": [
+        "https://transport.opendata.ch/v1/stationboard?id=8591298&datetime=2026-11-09%2007:30",
+        "https://transport.opendata.ch/v1/stationboard?id=8591298&datetime=2026-12-14%2007:30",
+        "https://transport.opendata.ch/v1/connections?from=8591298&to=8503006&date=2026-11-09&time=07:30",
+        "https://transport.opendata.ch/v1/connections?from=8591298&to=8503000&date=2026-11-09&time=07:30"
+      ],
+      "walk_m": 486,
+      "crow_m": 366,
+      "walk_method": "osrm"
+    },
+    "source": "https://transport.opendata.ch/v1/stationboard?id=8591298&datetime=2026-11-09%2007:30"
+  },
+  {
+    "id": "food-kafi-seilbahn-rigiblick",
+    "name": "Kafi Seilbahn Rigiblick (Bäckerei Stocker)",
+    "cat": "food",
+    "lat": 47.385386,
+    "lon": 8.548251,
+    "address": "Universitätstrasse 115, 8006 Zürich",
+    "walk_min": 7,
+    "desc_de": "Café der Traditionsbäckerei Stocker direkt bei der Talstation der Seilbahn Rigiblick – Gipfeli und Kaffee vor der Fahrt auf den Zürichberg, an sieben Tagen offen (Mo–Fr 6.15–19, Sa 7–18, So 7.30–18 Uhr).",
+    "desc_en": "Café of the long-established Stocker bakery right by the Rigiblick funicular's valley station – croissants and coffee before riding up the Zürichberg, open seven days (Mon–Fri 6:15am–7pm, Sat 7am–6pm, Sun 7:30am–6pm).",
+    "url": "https://gipfeli.ch/standorte/standortkafiseilbahnrigiblick/",
+    "tags": [
+      "cafe",
+      "bakery",
+      "breakfast",
+      "open-sunday"
+    ],
+    "details": {
+      "hours": "Mo–Fr 6.15–19, Sa 7–18, So 7.30–18",
+      "operator": "Bäckerei Conditorei Stocker",
+      "sources": [
+        "https://gipfeli.ch/standorte/standortkafiseilbahnrigiblick/",
+        "https://www.openstreetmap.org/node/2121176772"
+      ],
+      "walk_m": 490,
+      "crow_m": 399,
+      "walk_method": "osrm"
+    },
+    "source": "https://gipfeli.ch/standorte/standortkafiseilbahnrigiblick/"
+  },
+  {
+    "id": "share-zueri-velo-rigiplatz",
+    "name": "Züri Velo Station Rigiplatz",
+    "cat": "sharing",
+    "lat": 47.384906,
+    "lon": 8.547901,
+    "address": "Rigiplatz, 8006 Zürich",
+    "walk_min": 7,
+    "desc_de": "Züri-Velo-Station am Rigiplatz bei der Talstation der Seilbahn Rigiblick, rund 430 m von der Siedlung – praktisch für die Fahrt bergab in die Stadt.",
+    "desc_en": "Züri Velo station at Rigiplatz by the Rigiblick funicular's valley station, about 430 m from the estate – handy for riding downhill into town.",
+    "url": "https://www.publibike.ch/",
+    "tags": [
+      "sharing",
+      "bike-sharing",
+      "e-bike"
+    ],
+    "details": {
+      "operator": "PubliBike / Velospot (Netz «Züri Velo»)",
+      "note": "sharedmobility.ch 5.11.2026: vier Velospot-Velos an diesem Standort.",
+      "sources": [
+        "https://www.openstreetmap.org/node/11002386390",
+        "https://api.sharedmobility.ch/v1/sharedmobility/identify?Geometry=8.544738,47.388078&Tolerance=700&offset=0&geometryFormat=esrijson&filters=ch.bfe.sharedmobility.provider.id=velospot"
+      ],
+      "walk_m": 502,
+      "crow_m": 426,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.openstreetmap.org/node/11002386390"
+  },
+  {
+    "id": "comm-mobiler-recyclinghof-rigiplatz",
+    "name": "Mobiler Recyclinghof Rigiplatz",
+    "cat": "community",
+    "lat": 47.3849277,
+    "lon": 8.5477367,
+    "address": "Rigiplatz, 8006 Zürich",
+    "walk_min": 7,
+    "desc_de": "Der städtische Mobile Recyclinghof (Nachfolger des Cargo-Trams) hält regelmässig am Rigiplatz – nächster Termin Do 12.11.2026 (Tramdepot Irchel: Mi 25.11.2026): kostenlose, autofreie Abgabe von Sperrgut, Metall, Elektrogeräten u. a. (max. 40 kg, 2,5 m), mit Tauschplatz und Reparaturberatung; Handwagen gegen Ausweis.",
+    "desc_en": "The city's mobile recycling centre (successor of the Cargo-Tram) stops regularly at Rigiplatz – next date Thu 12 Nov 2026 (Tramdepot Irchel: Wed 25 Nov 2026): free, car-free drop-off of bulky waste, metal, electrical appliances etc. (max. 40 kg, 2.5 m), with a swap table and repair advice; hand carts on loan against ID.",
+    "url": "https://www.stadt-zuerich.ch/de/umwelt-und-energie/entsorgung/wo-und-wann-entsorgen/mobiler-recyclinghof.html",
+    "tags": [
+      "recycling",
+      "free",
+      "swap",
+      "repair",
+      "car-free"
+    ],
+    "details": {
+      "when": "2026 am Rigiplatz: 23.1., 27.2., 7.4., 18.5., 24.6., 3.9., 8.10., 12.11.; Termine 2027 werden im Dezember publiziert",
+      "operator": "ERZ Entsorgung + Recycling Zürich",
+      "note": "Pin = Rigiplatz (genauer Standplatz siehe Stadtplan-Link der Stadt). Anlieferung mit dem Auto verboten.",
+      "sources": [
+        "https://www.stadt-zuerich.ch/de/umwelt-und-energie/entsorgung/wo-und-wann-entsorgen/mobiler-recyclinghof.html",
+        "https://data.stadt-zuerich.ch/dataset/entsorgungskalender_mobiler_recyclinghof/download/mobiler_recyclinghof_2026.csv",
+        "https://nominatim.openstreetmap.org/search?q=Rigiplatz,+Z%C3%BCrich&format=json"
+      ],
+      "walk_m": 504,
+      "crow_m": 417,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.stadt-zuerich.ch/de/umwelt-und-energie/entsorgung/wo-und-wann-entsorgen/mobiler-recyclinghof.html",
+    "approx": true
+  },
+  {
+    "id": "food-osteria-otto",
+    "name": "Osteria OTTO",
+    "cat": "food",
+    "lat": 47.39018,
+    "lon": 8.540065,
+    "address": "Riedtlistrasse 2, 8006 Zürich",
+    "walk_min": 7,
+    "desc_de": "Moderne Osteria wenige Schritte vom Schaffhauserplatz mit täglich hausgemachter Pasta und saisonalen Gerichten, gedacht als Ort für Nachbarn, Freunde und Familien; Di 18–23.30, Mi/Do 11.30–14 und 18.30–23.30, Fr/Sa 18–23.30 Uhr.",
+    "desc_en": "Modern osteria a few steps from Schaffhauserplatz with pasta made fresh every day and seasonal dishes, meant as a place for neighbours, friends and families; Tue 6–11:30pm, Wed/Thu 11:30am–2pm and 6:30–11:30pm, Fri/Sat 6–11:30pm.",
+    "url": "https://www.osteria-otto.ch",
+    "tags": [
+      "restaurant",
+      "italian",
+      "pasta",
+      "lunch"
+    ],
+    "details": {
+      "hours": "Di 18–23.30; Mi & Do 11.30–14 / 18.30–23.30; Fr & Sa 18–23.30",
+      "sources": [
+        "https://www.osteria-otto.ch",
+        "https://www.openstreetmap.org/node/792593919"
+      ],
+      "walk_m": 513,
+      "crow_m": 422,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.osteria-otto.ch"
+  },
+  {
+    "id": "food-zum-alten-loewen",
+    "name": "Zum Alten Löwen",
+    "cat": "food",
+    "lat": 47.38498,
+    "lon": 8.548247,
+    "address": "Universitätstrasse 111, 8006 Zürich",
+    "walk_min": 7,
+    "desc_de": "Quartierbeiz am Rigiplatz, die ohne Convenience-Produkte kocht (alle Fonds und Saucen hausgemacht) und auf regionale, saisonale Küche setzt; Mittagsmenüs Mo–Fr 11.30–13.45 Uhr, Take-away auf telefonische Bestellung.",
+    "desc_en": "Neighbourhood restaurant at Rigiplatz that cooks without convenience products (all stocks and sauces home-made) and focuses on regional, seasonal food; lunch menus Mon–Fri 11:30am–1:45pm, take-away by phone order.",
+    "url": "https://www.altenloewen.ch/",
+    "tags": [
+      "restaurant",
+      "lunch",
+      "local",
+      "seasonal"
+    ],
+    "details": {
+      "hours": "Mittag Mo–Fr 11.30–13.45 (Samstagmittag geschlossen); Abendzeiten siehe Website",
+      "note": "OSM: Di–Fr 11.30–14 und 18–23.30, Sa 18–23.30, So/Mo zu – weicht bei Montag von der Website ab.",
+      "sources": [
+        "https://www.altenloewen.ch/",
+        "https://www.openstreetmap.org/node/105506327"
+      ],
+      "walk_m": 535,
+      "crow_m": 434,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.altenloewen.ch/"
+  },
+  {
+    "id": "food-baeckerei-stocker-weinbergstrasse",
+    "name": "Bäckerei Conditorei Stocker (Hauptsitz)",
+    "cat": "food",
+    "lat": 47.384588,
+    "lon": 8.542758,
+    "address": "Weinbergstrasse 93, 8006 Zürich",
+    "walk_min": 7,
+    "desc_de": "Familienbäckerei mit Geschichte seit 1904 und Hauptsitz an der Weinbergstrasse, bekannt für Gipfeli, Torten und Apéro-Catering; Laden Mo–Fr 6–18.30 und Sa 6.30–13 Uhr.",
+    "desc_en": "Family bakery with a history going back to 1904 and its head shop on Weinbergstrasse, known for croissants, cakes and party catering; shop open Mon–Fri 6am–6:30pm and Sat 6:30am–1pm.",
+    "url": "https://gipfeli.ch/standorte/standortweinbergstrasse93/",
+    "tags": [
+      "bakery",
+      "local",
+      "cakes"
+    ],
+    "details": {
+      "hours": "Mo–Fr 6–18.30, Sa 6.30–13",
+      "operator": "Bäckerei Conditorei Stocker",
+      "sources": [
+        "https://gipfeli.ch/standorte/standortweinbergstrasse93/",
+        "https://www.openstreetmap.org/node/792593911"
+      ],
+      "walk_m": 544,
+      "crow_m": 416,
+      "walk_method": "osrm"
+    },
+    "source": "https://gipfeli.ch/standorte/standortweinbergstrasse93/"
+  },
+  {
+    "id": "hist-beckenhof",
+    "name": "Landsitz Beckenhof",
+    "cat": "history",
+    "lat": 47.38495,
+    "lon": 8.541,
+    "address": "Beckenhofstrasse, 8006 Zürich",
+    "walk_min": 7,
+    "desc_de": "Ehemaliger patrizischer Landsitz in Unterstrass (Lehenhaus um 1650, kleines Herrenhaus 1706, grosses Herrenhaus 1740) mit Park; die Stadt kaufte das Areal 1924, um es vor der Überbauung zu retten, 1927–2012 war hier das Pestalozzianum. Das Ensemble steht im kantonalen Denkmalinventar, der Garten ist öffentlich.",
+    "desc_en": "Former patrician country estate in Unterstrass (farmhouse c. 1650, small manor 1706, large manor 1740) with a park; the city bought the site in 1924 to save it from development, and the Pestalozzianum was housed here 1927–2012. The ensemble is on the cantonal heritage inventory; the garden is open to the public.",
+    "url": "https://de.wikipedia.org/wiki/Beckenhof_(Z%C3%BCrich)",
+    "tags": [
+      "history",
+      "listed",
+      "baroque",
+      "garden"
+    ],
+    "details": {
+      "note": "Gebäude heute Büros, nicht öffentlich; Tramhaltestelle Beckenhof (Tram 7, 11, 14). Pin = Wikipedia-Koordinate.",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Beckenhof_(Z%C3%BCrich)",
+        "https://www.openstreetmap.org/way/12993481"
+      ],
+      "walk_m": 549,
+      "crow_m": 447,
+      "walk_method": "osrm"
+    },
+    "source": "https://de.wikipedia.org/wiki/Beckenhof_(Z%C3%BCrich)"
+  },
+  {
+    "id": "comm-qv-oberstrass",
+    "name": "Quartierverein Oberstrass (QVO)",
+    "cat": "community",
+    "lat": 47.384648,
+    "lon": 8.548045,
+    "address": "Rigiplatz, 8006 Zürich (Postadresse: Quartierverein Oberstrass, 8000 Zürich)",
+    "walk_min": 7,
+    "desc_de": "Seit 1897 aktiver Quartierverein mit rund 600 Mitgliedern, der Oberstrass gegenüber der Stadt vertritt und Anlässe organisiert: Räbeliechtliumzug am Fr 6.11.2026 (19 Uhr, ab Pausenplatz Schulhaus Scherr), Glühwein-Apéro beim Weihnachtsbaum am Rigiplatz (Sa 19.12.2026, 12–15 Uhr), Oberstrass Määrt im Sommer und die Gratis-App «Oberstrassweg» mit drei Quartierrundgängen (DE/EN).",
+    "desc_en": "Neighbourhood association active since 1897 with around 600 members, representing Oberstrass towards the city and organising events: turnip-lantern parade on Fri 6 Nov 2026 (7pm, from the Scherr school playground), mulled-wine aperitif at the Rigiplatz Christmas tree (Sat 19 Dec 2026, noon–3pm), the Oberstrass Määrt in summer and the free 'Oberstrassweg' app with three neighbourhood walks (DE/EN).",
+    "url": "https://www.qvo.ch/",
+    "tags": [
+      "community",
+      "events",
+      "family",
+      "walks"
+    ],
+    "details": {
+      "when": "Räbeliechtliumzug 6.11.2026 19–20; Glühwein-Apéro 19.12.2026 12–15; Kirchturmbeleuchtung im Advent",
+      "operator": "Quartierverein Oberstrass",
+      "note": "Kein Vereinslokal; Pin = Rigiplatz (Weihnachtsbaum/Glühwein-Apéro). Mitgliederbeitrag CHF 30 Einzel, CHF 50 Familie.",
+      "sources": [
+        "https://www.qvo.ch/",
+        "https://www.qvo.ch/ueber-uns/",
+        "https://www.qvo.ch/agenda/raebeliechtliumzug/",
+        "https://www.qvo.ch/agenda/gluehwein-apero/",
+        "https://www.qvo.ch/oberstrass-weg/",
+        "https://www.qvo.ch/anmeldung-marktstand/"
+      ],
+      "walk_m": 549,
+      "crow_m": 455,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.qvo.ch/",
+    "approx": true
+  },
+  {
+    "id": "tram-kronenstrasse",
+    "name": "Tram Kronenstrasse (bis 12.12.2026: 17, 50, 51; danach 11, 14)",
+    "cat": "transport",
+    "lat": 47.388261,
+    "lon": 8.539205,
+    "address": "Schaffhauserstrasse / Kronenstrasse, 8006 Zürich",
+    "walk_min": 7,
+    "desc_de": "Tramachse Schaffhauserstrasse: Bis 12.12.2026 fahren wegen der Bahnhofquai-Baustelle die Bau-Linien 50 (in 9 Minuten direkt zum Bahnhof Oerlikon) und 51 (10 Minuten bis Oerlikon Bahnhof Ost) sowie Tram 17, alle in 6 Minuten zum Sihlquai/HB; ab dem Fahrplanwechsel am 13.12.2026 übernehmen wieder Tram 11 (9 Minuten bis Bahnhof Oerlikon) und 14, beide in 5 Minuten am Bahnhofquai/HB.",
+    "desc_en": "Tram axis on Schaffhauserstrasse: until 12 Dec 2026 the temporary construction lines 50 (9 minutes direct to Oerlikon station) and 51 (10 minutes to Oerlikon Bahnhof Ost) plus tram 17 run here, all 6 minutes to Sihlquai/HB; from the timetable change on 13 Dec 2026 trams 11 (9 minutes to Oerlikon station) and 14 return, both 5 minutes to Bahnhofquai/HB.",
+    "url": "https://www.zvv.ch",
+    "tags": [
+      "public-transport",
+      "tram",
+      "commute",
+      "oerlikon"
+    ],
+    "details": {
+      "lines": "bis 12.12.2026: Tram 17, 50, 51 (Bau-Linien wegen Bahnhofquai); ab 13.12.2026: Tram 11, 14",
+      "stop_id": 8591237,
+      "note": "Fahrplan Mo 9.11.2026: T50 → Zürich Oerlikon, Bahnhof +9 Min.; T51 → Oerlikon Bahnhof Ost +10; T17/T50/T51 → Sihlquai/HB +6. Mo 14.12.2026: T11 → Zürich Oerlikon, Bahnhof +9, → Bahnhofquai/HB +5; T14 → Oerlikon Bahnhof Ost +10, → Bahnhofquai/HB +5. QVO: Linien 4, 11, 13, 14, 17 fahren ab 13.12.2026 wieder über den Bahnhofquai, Bau-Linien 50/51 werden eingestellt.",
+      "sources": [
+        "https://transport.opendata.ch/v1/stationboard?id=8591237&datetime=2026-11-09%2007:30",
+        "https://transport.opendata.ch/v1/stationboard?id=8591237&datetime=2026-12-14%2007:30",
+        "https://transport.opendata.ch/v1/connections?from=8591237&to=8503006&date=2026-11-09&time=07:30",
+        "https://transport.opendata.ch/v1/connections?from=8591237&to=8503000&date=2026-11-09&time=07:30",
+        "https://www.qvo.ch/verlaengerung-des-trams-der-linie-10-bis-enge-erst-ab-mai-2027/"
+      ],
+      "walk_m": 558,
+      "crow_m": 417,
+      "walk_method": "osrm"
+    },
+    "source": "https://transport.opendata.ch/v1/stationboard?id=8591237&datetime=2026-11-09%2007:30"
+  },
+  {
+    "id": "shop-evas-apples",
+    "name": "Eva's Apples (veganer Laden)",
+    "cat": "shop",
+    "lat": 47.391462,
+    "lon": 8.539184,
+    "address": "Weinbergstrasse 168, 8006 Zürich",
+    "walk_min": 8,
+    "desc_de": "Veganer Laden beim Schaffhauserplatz mit Lebensmitteln, Kosmetik und veganen Schuhen (auch Onlineshop); Di–Fr 10.30–18.30, Sa 9–17 Uhr.",
+    "desc_en": "Vegan shop near Schaffhauserplatz with groceries, cosmetics and vegan shoes (also an online shop); Tue–Fri 10:30am–6:30pm, Sat 9am–5pm.",
+    "url": "https://www.evas-apples.ch/",
+    "tags": [
+      "groceries",
+      "vegan",
+      "organic"
+    ],
+    "details": {
+      "hours": "Di–Fr 10.30–18.30, Sa 9–17",
+      "sources": [
+        "https://www.evas-apples.ch/kontakt",
+        "https://www.openstreetmap.org/node/6398550479"
+      ],
+      "walk_m": 619,
+      "crow_m": 562,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.evas-apples.ch/kontakt"
+  },
+  {
+    "id": "market-oberstrass-maeaert",
+    "name": "Oberstrass Määrt",
+    "cat": "market",
+    "lat": 47.3841,
+    "lon": 8.5467,
+    "address": "Platz bei Kirche und Schulhaus Oberstrass (Stapferstrasse), 8006 Zürich",
+    "walk_min": 8,
+    "desc_de": "Jährlicher Quartiermarkt des Quartiervereins Oberstrass: Jeden Sommer wird der Platz rund um Kirche und Schulhaus Oberstrass zum bunten Markt mit Ständen, Grill und Määrtlauf für Gross und Klein; die Standanmeldung für 2027 ist offen.",
+    "desc_en": "Annual neighbourhood market of the Oberstrass association: every summer the square around the Oberstrass church and school turns into a colourful market with stalls, a grill and a market run for young and old; stall registration for 2027 is open.",
+    "url": "https://www.qvo.ch/event-dienstleistung/oberstrass-maert/",
+    "tags": [
+      "market",
+      "community",
+      "annual",
+      "family"
+    ],
+    "details": {
+      "when": "jährlich im Sommer (Datum 2027 noch nicht publiziert)",
+      "operator": "Quartierverein Oberstrass",
+      "note": "Standmiete CHF 100 (Verkauf) bzw. CHF 200 (Verpflegung), Mietstand mit Dach +CHF 85.",
+      "sources": [
+        "https://www.qvo.ch/event-dienstleistung/oberstrass-maert/",
+        "https://www.qvo.ch/anmeldung-marktstand/",
+        "https://www.qvo.ch/events-dienstleistungen/"
+      ],
+      "walk_m": 636,
+      "crow_m": 466,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.qvo.ch/event-dienstleistung/oberstrass-maert/",
+    "approx": true
+  },
+  {
+    "id": "hist-kirche-oberstrass",
+    "name": "Kirche Oberstrass (1910)",
+    "cat": "history",
+    "lat": 47.38391,
+    "lon": 8.546811,
+    "address": "Stapferstrasse 58, 8006 Zürich",
+    "walk_min": 9,
+    "desc_de": "Reformierte Kirche von Pfleghard & Haefeli, 1908–1910 erbaut und am 6. März 1910 eingeweiht; schon 1734/35 stand hier ein Bethaus. Nach einem Brand im Jahr 2000 sorgfältig renoviert – im Advent leuchtet der Kirchturm, eine vom Quartierverein 1998 begründete Tradition.",
+    "desc_en": "Reformed church by Pfleghard & Haefeli, built 1908–1910 and consecrated on 6 March 1910; a prayer house stood here as early as 1734/35. Carefully restored after a fire in 2000 – in Advent the tower is lit up, a tradition started by the neighbourhood association in 1998.",
+    "url": "https://reformiert-zuerich.ch/kirchgemeinde/kirchen/kirche-oberstrass/",
+    "tags": [
+      "history",
+      "church",
+      "architecture",
+      "listed"
+    ],
+    "details": {
+      "sources": [
+        "https://de.wikipedia.org/wiki/Kirche_Oberstrass",
+        "https://reformiert-zuerich.ch/kirchgemeinde/kirchen/kirche-oberstrass/",
+        "https://www.qvo.ch/event-dienstleistung/weihnachtsbaum-rigiplatz/",
+        "https://www.openstreetmap.org/way/108517666"
+      ],
+      "walk_m": 640,
+      "crow_m": 489,
+      "walk_method": "osrm"
+    },
+    "source": "https://de.wikipedia.org/wiki/Kirche_Oberstrass"
+  },
+  {
+    "id": "shop-post-oberstrass",
+    "name": "Post Zürich 33 Oberstrass",
+    "cat": "shop",
+    "lat": 47.384077,
+    "lon": 8.548471,
+    "address": "Universitätstrasse 102, 8006 Zürich",
+    "walk_min": 9,
+    "desc_de": "Nächste Poststelle, beim Rigiplatz rund 550 m von der Siedlung: Pakete, Einzahlungen und Abholungen Mo–Fr 9–18 und Sa 9–12 Uhr (laut OSM); eine zweite Filiale liegt am Schaffhauserplatz (Hofwiesenstrasse 3).",
+    "desc_en": "Nearest post office, at Rigiplatz about 550 m from the estate: parcels, payments and pick-ups Mon–Fri 9am–6pm and Sat 9am–noon (per OSM); a second branch is at Schaffhauserplatz (Hofwiesenstrasse 3).",
+    "url": "https://www.post.ch/",
+    "tags": [
+      "post",
+      "services",
+      "daily"
+    ],
+    "details": {
+      "hours": "Mo–Fr 9–18, Sa 9–12",
+      "operator": "Die Post",
+      "sources": [
+        "https://www.openstreetmap.org/node/119800303",
+        "https://www.openstreetmap.org/node/4840731943",
+        "https://nominatim.openstreetmap.org/search?q=Universit%C3%A4tstrasse+102,+8006+Z%C3%BCrich&format=json"
+      ],
+      "walk_m": 641,
+      "crow_m": 526,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.openstreetmap.org/node/119800303"
+  },
+  {
+    "id": "shop-coop-universitaetstrasse",
+    "name": "Coop Universitätstrasse",
+    "cat": "shop",
+    "lat": 47.383821,
+    "lon": 8.548079,
+    "address": "Universitätstrasse 101, 8006 Zürich",
+    "walk_min": 9,
+    "desc_de": "Coop-Supermarkt an der Universitätstrasse oberhalb des Rigiplatzes, rund 550 m entfernt; Mo–Sa 7.30–21 Uhr (laut OSM).",
+    "desc_en": "Coop supermarket on Universitätstrasse just above Rigiplatz, about 550 m away; Mon–Sat 7:30am–9pm (per OSM).",
+    "url": "https://www.openstreetmap.org/node/4361991158",
+    "tags": [
+      "groceries",
+      "supermarket",
+      "daily"
+    ],
+    "details": {
+      "hours": "Mo–Sa 7.30–21",
+      "operator": "Coop",
+      "note": "Öffnungszeiten nur via OSM geprüft (coop.ch blockiert automatische Abrufe).",
+      "sources": [
+        "https://www.openstreetmap.org/node/4361991158"
+      ],
+      "walk_m": 650,
+      "crow_m": 536,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.openstreetmap.org/node/4361991158"
+  },
+  {
+    "id": "food-cafe-am-platz",
+    "name": "Cafe am Platz",
+    "cat": "food",
+    "lat": 47.391194,
+    "lon": 8.538448,
+    "address": "Schaffhauserplatz, 8006 Zürich",
+    "walk_min": 9,
+    "desc_de": "Kleine Specialty-Coffee-Bar direkt an der Bushaltestelle 33 am Schaffhauserplatz (Filterkaffee, Cold Brew, Matcha) – Mo–Fr 7–11.30 und 12–15, Sa 9–11.30 und 12–16 Uhr.",
+    "desc_en": "Small specialty-coffee bar right at the bus 33 stop on Schaffhauserplatz (filter coffee, cold brew, matcha) – Mon–Fri 7–11:30am and noon–3pm, Sat 9–11:30am and noon–4pm.",
+    "url": "https://www.cafeamplatz.ch/",
+    "tags": [
+      "cafe",
+      "coffee",
+      "to-go"
+    ],
+    "details": {
+      "hours": "Mo–Fr 7–11.30 / 12–15; Sa 9–11.30 / 12–16",
+      "sources": [
+        "https://www.cafeamplatz.ch/",
+        "https://www.openstreetmap.org/node/4053473355"
+      ],
+      "walk_m": 662,
+      "crow_m": 587,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.cafeamplatz.ch/"
+  },
+  {
+    "id": "tram-schaffhauserplatz",
+    "name": "Schaffhauserplatz (Tram 7, 11, 14, 15; Bus 33)",
+    "cat": "transport",
+    "lat": 47.39163,
+    "lon": 8.538711,
+    "address": "Schaffhauserplatz, 8006/8057 Zürich",
+    "walk_min": 9,
+    "desc_de": "Quartierzentrum von Unterstrass und wichtigster Umsteigeknoten: Ab 13.12.2026 fährt Tram 11 in 7 Minuten direkt zum Bahnhof Oerlikon und Tram 14 in 9 Minuten nach Oerlikon Bahnhof Ost, zum Hauptbahnhof sind es mit Tram 7, 11 oder 14 rund 6–8 Minuten (bis 12.12.2026 übernehmen die Bau-Linien 50/51 und Tram 17).",
+    "desc_en": "Unterstrass's neighbourhood centre and main interchange: from 13 Dec 2026 tram 11 reaches Oerlikon station in 7 minutes and tram 14 Oerlikon Bahnhof Ost in 9 minutes, while trams 7, 11 or 14 take about 6–8 minutes to the main station (until 12 Dec 2026 the temporary lines 50/51 and tram 17 cover these routes).",
+    "url": "https://www.zvv.ch",
+    "tags": [
+      "public-transport",
+      "tram",
+      "bus",
+      "hub",
+      "commute",
+      "oerlikon"
+    ],
+    "details": {
+      "lines": "Tram 7, Bus 33; bis 12.12.2026 zusätzlich Tram 17, 50, 51; ab 13.12.2026 Tram 11, 14, 15",
+      "stop_id": 8591335,
+      "note": "Fahrplan Mo 9.11.2026: T50 → Zürich Oerlikon, Bahnhof +7 Min., T51 → Oerlikon Bahnhof Ost +9, HB 7–9 Min. (T7/T17/T50/T51). Mo 14.12.2026: T11 → Zürich Oerlikon, Bahnhof +7, T14 → Oerlikon Bahnhof Ost +9, T7 → Bahnhofstrasse/HB +8, T11 → Bahnhofquai/HB +6.",
+      "sources": [
+        "https://transport.opendata.ch/v1/stationboard?id=8591335&datetime=2026-11-09%2007:30",
+        "https://transport.opendata.ch/v1/stationboard?id=8591335&datetime=2026-12-14%2007:30",
+        "https://transport.opendata.ch/v1/connections?from=8591335&to=8503006&date=2026-11-09&time=07:30",
+        "https://transport.opendata.ch/v1/connections?from=8591335&to=8503000&date=2026-11-09&time=07:30",
+        "https://www.qvo.ch/verlaengerung-des-trams-der-linie-10-bis-enge-erst-ab-mai-2027/"
+      ],
+      "walk_m": 668,
+      "crow_m": 602,
+      "walk_method": "osrm"
+    },
+    "source": "https://transport.opendata.ch/v1/stationboard?id=8591335&datetime=2026-11-09%2007:30"
+  },
+  {
+    "id": "hist-linde-oberstrass",
+    "name": "Zunfthaus Linde Oberstrass",
+    "cat": "history",
+    "lat": 47.38345,
+    "lon": 8.54795,
+    "address": "Universitätstrasse 91, 8006 Zürich",
+    "walk_min": 9,
+    "desc_de": "Traditionsgasthof mit Hausbrauerei am Rigiplatz: Im Januar 1897 wurde hier im «Saale des Gasthofes zur Linde» der Quartierverein Oberstrass gegründet (damals 80 Mitglieder) – schon an der ersten Sitzung ging es um Verkehrsfragen. Das Zunfthaus war zuletzt wegen einer sanften Renovation geschlossen (Wiedereröffnung laut Website «Anfang Herbst»).",
+    "desc_en": "Traditional inn with its own brewery at Rigiplatz: in January 1897, the Oberstrass neighbourhood association was founded in the 'hall of the Gasthof zur Linde' (80 members at the time) – traffic was already on the agenda at the first meeting. The guild house was recently closed for a gentle renovation (reopening 'early autumn' according to its website).",
+    "url": "https://linde-oberstrass.ch/",
+    "tags": [
+      "history",
+      "inn",
+      "brewery",
+      "community"
+    ],
+    "details": {
+      "status": "Renovation – Wiedereröffnung «Anfang Herbst» angekündigt, Stand 5.11.2026 nicht bestätigt",
+      "sources": [
+        "https://www.qvo.ch/ueber-uns/",
+        "https://linde-oberstrass.ch/",
+        "https://www.openstreetmap.org/way/97234512"
+      ],
+      "walk_m": 674,
+      "crow_m": 569,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.qvo.ch/ueber-uns/"
+  },
+  {
+    "id": "food-hausammann-universitaetstrasse",
+    "name": "Bäckerei-Café Hausammann (Zopf-Beck)",
+    "cat": "food",
+    "lat": 47.383288,
+    "lon": 8.548393,
+    "address": "Universitätstrasse 88, 8006 Zürich",
+    "walk_min": 10,
+    "desc_de": "Bäckerei, Conditorei und Café-Bar am Fuss des Zürichbergs mit Sofa, Zeitungen und Mittagstisch, an 363 Tagen im Jahr offen (Mo–Fr 6–19, Sa 6–17, So 8–17 Uhr).",
+    "desc_en": "Bakery, patisserie and café bar at the foot of the Zürichberg with a sofa, newspapers and lunch menu, open 363 days a year (Mon–Fri 6am–7pm, Sat 6am–5pm, Sun 8am–5pm).",
+    "url": "https://www.zopfbeck.ch/fil.uni.html",
+    "tags": [
+      "bakery",
+      "cafe",
+      "lunch",
+      "open-sunday"
+    ],
+    "details": {
+      "hours": "Mo–Fr 6–19, Sa 6–17, So 8–17",
+      "operator": "Bäckerei Hausammann (Zopf-Beck)",
+      "sources": [
+        "https://www.zopfbeck.ch/fil.uni.html",
+        "https://www.openstreetmap.org/node/943875479"
+      ],
+      "walk_m": 717,
+      "crow_m": 600,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.zopfbeck.ch/fil.uni.html"
+  },
+  {
+    "id": "food-cafe-unterstrass",
+    "name": "Café Unterstrass (Walter Buchmann)",
+    "cat": "food",
+    "lat": 47.392174,
+    "lon": 8.53861,
+    "address": "Hofwiesenstrasse 2, 8057 Zürich",
+    "walk_min": 10,
+    "desc_de": "Café und Bäckerei am Schaffhauserplatz mit museumscafé-inspirierter Einrichtung, grossen Bogenfenstern mit Bergsicht und Aussensitzplätzen – Zmorge, Zmittag und Kuchen; Mo–Fr 6.30–18, Sa 7–16 Uhr.",
+    "desc_en": "Café and bakery at Schaffhauserplatz with museum-café style interior, big arched windows with mountain views and outdoor seating – breakfast, lunch and cake; Mon–Fri 6:30am–6pm, Sat 7am–4pm.",
+    "url": "https://www.walterbuchmann.ch/unterstrass",
+    "tags": [
+      "cafe",
+      "bakery",
+      "breakfast",
+      "lunch"
+    ],
+    "details": {
+      "hours": "Mo–Fr 6.30–18, Sa 7–16 (So laut OSM 8–16)",
+      "operator": "Walter Buchmann AG",
+      "sources": [
+        "https://www.walterbuchmann.ch/unterstrass",
+        "https://www.openstreetmap.org/node/866541138",
+        "https://nominatim.openstreetmap.org/search?q=Hofwiesenstrasse+2,+8057+Z%C3%BCrich&format=json"
+      ],
+      "walk_m": 720,
+      "crow_m": 648,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.walterbuchmann.ch/unterstrass"
+  },
+  {
+    "id": "comm-pfarrei-bruder-klaus",
+    "name": "Katholische Pfarrei Bruder Klaus",
+    "cat": "community",
+    "lat": 47.3942,
+    "lon": 8.544502,
+    "address": "Milchbuckstrasse 75, 8057 Zürich",
+    "walk_min": 10,
+    "desc_de": "Katholische Pfarrei für Unter- und Oberstrass und das Irchel-Gebiet (rund 3200 Mitglieder) mit Kirche von 1933 an der Verzweigung Winterthurer-/Milchbuckstrasse; Pfarreisaal, Cafeteria und Gruppenräume sind mietbar, dazu KinderKirche, «Fiire mit de Chliine», Seniorenarbeit und Sozialdienst.",
+    "desc_en": "Catholic parish for Unterstrass, Oberstrass and the Irchel area (around 3,200 members) with a church of 1933 at the Winterthurerstrasse/Milchbuckstrasse fork; parish hall, cafeteria and group rooms can be rented, plus children's church, services for toddlers, work with seniors and a social service.",
+    "url": "https://bruderklaus-zh.ch/home.html",
+    "tags": [
+      "community",
+      "church",
+      "family",
+      "seniors",
+      "rental-space"
+    ],
+    "details": {
+      "note": "Kirchgemeindeversammlung am So 15.11.2026.",
+      "sources": [
+        "https://bruderklaus-zh.ch/home.html",
+        "https://www.openstreetmap.org/way/94545227"
+      ],
+      "walk_m": 762,
+      "crow_m": 681,
+      "walk_method": "osrm"
+    },
+    "source": "https://bruderklaus-zh.ch/home.html"
+  },
+  {
+    "id": "shop-migros-schaffhauserplatz",
+    "name": "Migros Schaffhauserplatz",
+    "cat": "shop",
+    "lat": 47.392553,
+    "lon": 8.538428,
+    "address": "Schaffhauserstrasse 75, 8057 Zürich",
+    "walk_min": 10,
+    "desc_de": "Migros-Supermarkt am Schaffhauserplatz, dem Einkaufszentrum von Unterstrass mit Post, Bäckereien und Cafés rundherum; Mo–Sa 7.30–21 Uhr (laut OSM).",
+    "desc_en": "Migros supermarket at Schaffhauserplatz, Unterstrass's shopping hub with a post office, bakeries and cafés around it; Mon–Sat 7:30am–9pm (per OSM).",
+    "url": "https://filialen.migros.ch/de/migros-supermarkt-zuerich-schaffhauserplatz",
+    "tags": [
+      "groceries",
+      "supermarket",
+      "daily"
+    ],
+    "details": {
+      "hours": "Mo–Sa 7.30–21",
+      "operator": "Migros",
+      "sources": [
+        "https://filialen.migros.ch/de/migros-supermarkt-zuerich-schaffhauserplatz",
+        "https://www.openstreetmap.org/node/321361643"
+      ],
+      "walk_m": 770,
+      "crow_m": 688,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.openstreetmap.org/node/321361643"
+  },
+  {
+    "id": "hist-pauluskirche-eggenschwyler",
+    "name": "Pauluskirche und Eggenschwyler-Zoo",
+    "cat": "history",
+    "lat": 47.394179,
+    "lon": 8.543277,
+    "address": "Milchbuckstrasse 61, 8057 Zürich",
+    "walk_min": 11,
+    "desc_de": "Die Pauluskirche (Martin Risch und August Arter, 1932–1934) mit dem grössten Geläut des Kantons Zürich gilt als eines der frühesten kirchlichen Gemeindezentren der Schweiz; sie steht auf dem Gelände der Menagerie des Löwenbildhauers Urs Eggenschwyler (1849–1923), der auf dem Milchbuck Löwen, Bären und Panther hielt. Zusammen mit der wenige Schritte entfernten katholischen Kirche Bruder Klaus (1933) bildet sie die «Zwillingskirchen» an der Milchbuckstrasse.",
+    "desc_en": "St Paul's church (Martin Risch and August Arter, 1932–1934), with the largest peal of bells in the canton, is considered one of Switzerland's earliest church community centres; it stands on the site of the menagerie of lion sculptor Urs Eggenschwyler (1849–1923), who kept lions, bears and panthers on the Milchbuck. Together with the Catholic Bruder Klaus church (1933) a few steps away it forms the 'twin churches' on Milchbuckstrasse.",
+    "url": "https://de.wikipedia.org/wiki/Pauluskirche_(Z%C3%BCrich)",
+    "tags": [
+      "history",
+      "church",
+      "architecture",
+      "story"
+    ],
+    "details": {
+      "note": "Eggenschwylerweg (benannt 1925) verbindet Langmauerstrasse und Im eisernen Zeit. Siebenstimmiges Geläut von Rüetschi (1933), 17'496 kg.",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Pauluskirche_(Z%C3%BCrich)",
+        "https://www.unterstrass.ch/historisches/urs-eggenschwyler/",
+        "https://www.unterstrass.ch/historisches/das-quartier-unterstrass/",
+        "https://www.openstreetmap.org/way/30243676"
+      ],
+      "walk_m": 827,
+      "crow_m": 687,
+      "walk_method": "osrm"
+    },
+    "source": "https://de.wikipedia.org/wiki/Pauluskirche_(Z%C3%BCrich)"
+  },
+  {
+    "id": "market-wochenmarkt-milchbuck",
+    "name": "Wochenmarkt Milchbuck",
+    "cat": "market",
+    "lat": 47.395173,
+    "lon": 8.540382,
+    "address": "Milchbuckstrasse, 8057 Zürich",
+    "walk_min": 13,
+    "desc_de": "Städtischer Lebensmittelmarkt jeden Dienstag und Freitag 6–11 Uhr, rund 900 m von der Siedlung, laut Platzzuweisung der Zürcher Märkte u. a. mit Ständen für Bio-Gemüse, Früchte, Käse und Brot, Stauden und Kräuter, Pilze und Olivenöl; kein Markt am Fr 25.12.2026 und Fr 1.1.2027.",
+    "desc_en": "City food market every Tuesday and Friday 6–11am, about 900 m from the estate, with stalls (per the Zürcher Märkte allocation list) including organic vegetables, fruit, cheese and bread, plants and herbs, mushrooms and olive oil; no market on Fri 25 Dec 2026 and Fri 1 Jan 2027.",
+    "url": "https://www.stadt-zuerich.ch/de/stadtleben/veranstaltungen-und-bewilligungen/gewerbe-und-maerkte/maerkte/lebensmittelmaerkte.html",
+    "tags": [
+      "market",
+      "local",
+      "organic",
+      "weekly"
+    ],
+    "details": {
+      "hours": "Di und Fr 6–11",
+      "operator": "Stadt Zürich (Stadtpolizei, Marktwesen)",
+      "sources": [
+        "https://www.stadt-zuerich.ch/de/stadtleben/veranstaltungen-und-bewilligungen/gewerbe-und-maerkte/maerkte/lebensmittelmaerkte.html",
+        "https://www.zuercher-maerkte.ch/zusatz.php?Lang=de&SeiteID=Maerkte&SeiteIDNr=5",
+        "https://www.openstreetmap.org/node/5291538867"
+      ],
+      "walk_m": 942,
+      "crow_m": 854,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.stadt-zuerich.ch/de/stadtleben/veranstaltungen-und-bewilligungen/gewerbe-und-maerkte/maerkte/lebensmittelmaerkte.html"
+  },
+  {
+    "id": "sport-freestyle-kornhausbruecke",
+    "name": "Freestyleanlage Kornhausbrücke",
+    "cat": "sport",
+    "lat": 47.386309,
+    "lon": 8.534439,
+    "address": "Wasserwerkstrasse (unter der Kornhausbrücke), 8037 Zürich",
+    "walk_min": 13,
+    "desc_de": "Städtische Freestyle- und Skateanlage unter der Kornhausbrücke an der Wasserwerkstrasse, rund 800 m von der Siedlung, eine von acht städtischen Freestyle-Anlagen.",
+    "desc_en": "City freestyle and skate facility under Kornhausbrücke on Wasserwerkstrasse, about 800 m from the estate, one of eight city freestyle facilities.",
+    "url": "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/sport-und-badeanlagen/freestyle.html",
+    "tags": [
+      "sport",
+      "skate",
+      "free",
+      "outdoor",
+      "youth"
+    ],
+    "details": {
+      "operator": "Stadt Zürich, Sportamt (Geodatensatz ska1393)",
+      "sources": [
+        "https://www.ogd.stadt-zuerich.ch/wfs/geoportal/Sport?SERVICE=WFS&REQUEST=GetFeature&VERSION=1.1.0&TYPENAME=poi_skateranlage_view&outputFormat=GeoJSON&srsName=EPSG:4326"
+      ],
+      "walk_m": 994,
+      "crow_m": 800,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.ogd.stadt-zuerich.ch/wfs/geoportal/Sport?SERVICE=WFS&REQUEST=GetFeature&VERSION=1.1.0&TYPENAME=poi_skateranlage_view&outputFormat=GeoJSON&srsName=EPSG:4326"
+  },
+  {
+    "id": "shop-coop-milchbuck",
+    "name": "Coop Milchbuck",
+    "cat": "shop",
+    "lat": 47.395725,
+    "lon": 8.540471,
+    "address": "Milchbuckstrasse 1–5, 8057 Zürich",
+    "walk_min": 14,
+    "desc_de": "Coop-Supermarkt am Milchbuck, praktisch kombinierbar mit dem Wochenmarkt (Di/Fr) gleich nebenan; Mo–Sa 7.30–21 Uhr (laut OSM).",
+    "desc_en": "Coop supermarket at Milchbuck, handy to combine with the weekly market (Tue/Fri) right next door; Mon–Sat 7:30am–9pm (per OSM).",
+    "url": "https://www.openstreetmap.org/node/321361788",
+    "tags": [
+      "groceries",
+      "supermarket"
+    ],
+    "details": {
+      "hours": "Mo–Sa 7.30–21",
+      "operator": "Coop",
+      "note": "Öffnungszeiten nur via OSM geprüft.",
+      "sources": [
+        "https://www.openstreetmap.org/node/321361788"
+      ],
+      "walk_m": 1021,
+      "crow_m": 909,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.openstreetmap.org/node/321361788"
+  },
+  {
+    "id": "food-restaurant-rigiblick",
+    "name": "Restaurant Rigiblick",
+    "cat": "food",
+    "lat": 47.388357,
+    "lon": 8.553299,
+    "address": "Germaniastrasse 99, 8044 Zürich",
+    "walk_min": 14,
+    "desc_de": "Restaurant mit Aussicht bei der Bergstation der Seilbahn Rigiblick, mit regional-saisonaler Wirtshausküche und Genussmenü; seit Januar 2025 unter neuen Gastgebern, Mo/Di Ruhetag – mit dem Theater Rigiblick gibt es eine Dinner-Theater-Kombi.",
+    "desc_en": "Restaurant with a view at the Rigiblick funicular's top station, serving regional, seasonal inn classics and a tasting menu; under new hosts since January 2025, closed Mon/Tue – there is a dinner-and-theatre combo with Theater Rigiblick.",
+    "url": "https://www.restaurantrigiblick.ch/",
+    "tags": [
+      "restaurant",
+      "view",
+      "zuerichberg",
+      "terrace"
+    ],
+    "details": {
+      "hours": "Mo/Di Ruhetag; Mi–So geöffnet (Website nennt Mi–Sa 12–22, So 12–21 bzw. Mi–Fr 17–23 – vorab prüfen)",
+      "sources": [
+        "https://www.restaurantrigiblick.ch/",
+        "https://www.theater-rigiblick.ch/",
+        "https://www.openstreetmap.org/node/4889986286"
+      ],
+      "walk_m": 1068,
+      "crow_m": 645,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.restaurantrigiblick.ch/"
+  },
+  {
+    "id": "cult-theater-rigiblick",
+    "name": "Theater Rigiblick",
+    "cat": "culture",
+    "lat": 47.388144,
+    "lon": 8.553528,
+    "address": "Germaniastrasse 99, 8044 Zürich",
+    "walk_min": 15,
+    "desc_de": "Musiktheater mit 200 Plätzen im ehemaligen, denkmalpflegerisch inventarisierten Kurhaus Rigiblick (erbaut 1900) – «das einzige Zürcher Theater mit eigenem Standseilbahn-Anschluss», rund 250 Vorstellungen im Jahr wie «Goethes Faust» oder Pink-Floyd-Abende.",
+    "desc_en": "200-seat music theatre in the former Kurhaus Rigiblick (built 1900, on the heritage inventory) – 'the only Zurich theatre with its own funicular connection', with around 250 shows a year such as 'Goethe's Faust' or Pink Floyd evenings.",
+    "url": "https://www.theater-rigiblick.ch/",
+    "tags": [
+      "theatre",
+      "music",
+      "culture",
+      "zuerichberg"
+    ],
+    "details": {
+      "operator": "Verein Theater Rigiblick",
+      "note": "Dinner-Theater-Kombi mit dem Restaurant Rigiblick (Di–So, 3-Gang-Menü CHF 69 plus Ticket).",
+      "sources": [
+        "https://www.theater-rigiblick.ch/",
+        "https://de.wikipedia.org/wiki/Theater_Rigiblick",
+        "https://www.openstreetmap.org/node/364415408"
+      ],
+      "walk_m": 1095,
+      "crow_m": 662,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.theater-rigiblick.ch/"
+  },
+  {
+    "id": "seilbahn-rigiblick",
+    "name": "Seilbahn Rigiblick (Standseilbahn, Linie 23)",
+    "cat": "transport",
+    "lat": 47.38733,
+    "lon": 8.553417,
+    "address": "Bergstation Rigiblick, Germaniastrasse, 8044 Zürich",
+    "walk_min": 15,
+    "desc_de": "Standseilbahn der VBZ von der Universitätstrasse hinauf zum Rigiblick am Zürichberg (Zwischenhalte Goldauerstrasse, Hadlaubstrasse, Germaniastrasse), seit 4. April 1901 in Betrieb, 1979 als erste vollautomatische konzessionierte Seilbahn der Schweiz erneuert und bis Sommer 2025 mit zwei neuen Garaventa-Wagen modernisiert; sie fährt alle 6 Minuten, oben Bus 39 Richtung Zoo.",
+    "desc_en": "VBZ funicular from Universitätstrasse up to Rigiblick on the Zürichberg (intermediate stops Goldauerstrasse, Hadlaubstrasse, Germaniastrasse), running since 4 April 1901, rebuilt in 1979 as Switzerland's first fully automatic licensed funicular and modernised with two new Garaventa cars by summer 2025; it runs every 6 minutes, with bus 39 to the Zoo at the top.",
+    "url": "https://de.wikipedia.org/wiki/Seilbahn_Rigiblick",
+    "tags": [
+      "public-transport",
+      "funicular",
+      "history",
+      "zuerichberg",
+      "view"
+    ],
+    "details": {
+      "lines": "Standseilbahn 23; Bus 39 (Rigiblick)",
+      "stop_id": 8530473,
+      "note": "Rund 600'000 Fahrgäste pro Jahr (Wikipedia). Fahrplan Mo 9.11.2026 ab Talstation: 07:30, 07:36, 07:42 … Pin = Bergstation Rigiblick; Talstation = Haltestelle «Seilbahn Rigiblick».",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Seilbahn_Rigiblick",
+        "https://transport.opendata.ch/v1/stationboard?id=8530473&datetime=2026-11-09%2007:30",
+        "https://transport.opendata.ch/v1/stationboard?id=8591362&datetime=2026-11-09%2007:30",
+        "https://www.openstreetmap.org/relation/53797"
+      ],
+      "walk_m": 1121,
+      "crow_m": 659,
+      "walk_method": "osrm"
+    },
+    "source": "https://de.wikipedia.org/wiki/Seilbahn_Rigiblick"
+  },
+  {
+    "id": "sport-beachvolleyball-oberer-letten",
+    "name": "Beachvolleyball Oberer Letten",
+    "cat": "sport",
+    "lat": 47.386,
+    "lon": 8.534804,
+    "address": "Lettenareal, 8037 Zürich",
+    "walk_min": 16,
+    "desc_de": "Städtische Beachvolleyballfelder auf dem Lettenareal am Limmatufer, rund 800 m von der Siedlung; laut Sportamt jederzeit zugänglich.",
+    "desc_en": "City beach-volleyball courts on the Letten grounds by the Limmat, about 800 m from the estate; according to the sports office accessible at any time.",
+    "url": "https://www.sportamt.ch/beachsport",
+    "tags": [
+      "sport",
+      "beachvolleyball",
+      "free",
+      "outdoor"
+    ],
+    "details": {
+      "operator": "Stadt Zürich, Sportamt (Geodatensatz bvb1652)",
+      "sources": [
+        "https://www.ogd.stadt-zuerich.ch/wfs/geoportal/Sport?SERVICE=WFS&REQUEST=GetFeature&VERSION=1.1.0&TYPENAME=poi_beachvolleyball_view&outputFormat=GeoJSON&srsName=EPSG:4326"
+      ],
+      "walk_m": 1190,
+      "crow_m": 783,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.ogd.stadt-zuerich.ch/wfs/geoportal/Sport?SERVICE=WFS&REQUEST=GetFeature&VERSION=1.1.0&TYPENAME=poi_beachvolleyball_view&outputFormat=GeoJSON&srsName=EPSG:4326"
+  },
+  {
+    "id": "tram-milchbuck",
+    "name": "Milchbuck (Tram 7, 9, 10, 14; Bus 69, 72, 83)",
+    "cat": "transport",
+    "lat": 47.39779,
+    "lon": 8.541775,
+    "address": "Milchbuck, 8057 Zürich",
+    "walk_min": 17,
+    "desc_de": "Grosser Knoten am Milchbuck: Tram 10 (und bis 12.12. Tram 51, danach Tram 14) fährt in 6 Minuten nach Oerlikon Bahnhof Ost, Busse 69, 72 und 83 Richtung ETH Hönggerberg, Bucheggplatz und Altstetten; hier findet auch der städtische Wochenmarkt statt.",
+    "desc_en": "Major hub at Milchbuck: tram 10 (and until 12 Dec tram 51, then tram 14) reaches Oerlikon Bahnhof Ost in 6 minutes, buses 69, 72 and 83 head for ETH Hönggerberg, Bucheggplatz and Altstetten; the city's weekly market is held here too.",
+    "url": "https://www.zvv.ch",
+    "tags": [
+      "public-transport",
+      "tram",
+      "bus",
+      "hub",
+      "commute"
+    ],
+    "details": {
+      "lines": "Tram 7, 9, 10, 51 (bis 12.12.2026) bzw. 14 (ab 13.12.2026); Bus 69, 72, 83",
+      "stop_id": 8591276,
+      "note": "Fahrplan Mo 9.11.2026: T10/T51 → Oerlikon Bahnhof Ost +6 Min.; T51 → Sihlquai/HB +10; T7 → Bahnhofstrasse/HB +12; Bus 69 alle 5 Min.",
+      "sources": [
+        "https://transport.opendata.ch/v1/stationboard?id=8591276&datetime=2026-11-09%2007:30",
+        "https://transport.opendata.ch/v1/stationboard?id=8591276&datetime=2026-12-14%2007:30",
+        "https://transport.opendata.ch/v1/connections?from=8591276&to=8503006&date=2026-11-09&time=07:30",
+        "https://transport.opendata.ch/v1/connections?from=8591276&to=8503000&date=2026-11-09&time=07:30"
+      ],
+      "walk_m": 1283,
+      "crow_m": 1103,
+      "walk_method": "osrm"
+    },
+    "source": "https://transport.opendata.ch/v1/stationboard?id=8591276&datetime=2026-11-09%2007:30"
+  },
+  {
+    "id": "cult-kino-capitol",
+    "name": "Kino Capitol (blue Cinema)",
+    "cat": "culture",
+    "lat": 47.377875,
+    "lon": 8.544113,
+    "address": "Weinbergstrasse 9, 8001 Zürich",
+    "walk_min": 17,
+    "desc_de": "Nächstes grosses Kino, beim Central an der Weinbergstrasse – sechs Säle der blue-Cinema-Kette, mit Tram 7 ab Röslistrasse/Ottikerstrasse in wenigen Minuten erreichbar.",
+    "desc_en": "Nearest large cinema, by Central on Weinbergstrasse – six screens of the blue Cinema chain, a few minutes away by tram 7 from Röslistrasse/Ottikerstrasse.",
+    "url": "https://www.bluecinema.ch/de/kinos-und-infos/kinos/capitol/",
+    "tags": [
+      "cinema",
+      "culture"
+    ],
+    "details": {
+      "operator": "KITAG Kino-Theater AG (blue Cinema)",
+      "note": "Anzahl Säle laut OSM.",
+      "sources": [
+        "https://www.bluecinema.ch/de/kinos-und-infos/kinos/capitol/",
+        "https://www.openstreetmap.org/node/1028113949"
+      ],
+      "walk_m": 1296,
+      "crow_m": 1135,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.bluecinema.ch/de/kinos-und-infos/kinos/capitol/"
+  },
+  {
+    "id": "sport-finnenbahn-irchel",
+    "name": "Finnenbahn Irchel",
+    "cat": "sport",
+    "lat": 47.398718,
+    "lon": 8.545645,
+    "address": "Irchelpark (Start beim Sportplatz), 8057 Zürich",
+    "walk_min": 17,
+    "desc_de": "Weiche Holzschnitzel-Laufbahn (Finnenbahn) im Irchelpark – gelenkschonendes Joggen rund 17 Gehminuten von der Siedlung; die Stadt Zürich zählt insgesamt acht Finnenbahnen und sechs Vitaparcours.",
+    "desc_en": "Soft woodchip running loop ('Finnenbahn') in Irchelpark – joint-friendly jogging about 17 minutes' walk from the estate; Zurich has eight such tracks and six fitness trails in total.",
+    "url": "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/sport-und-badeanlagen/laufen.html",
+    "tags": [
+      "sport",
+      "running",
+      "free",
+      "outdoor"
+    ],
+    "details": {
+      "note": "Pin = Startpunkt laut OSM (node 13377602511); Strecke OSM way 52039411 / relation 19953402.",
+      "sources": [
+        "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/sport-und-badeanlagen/laufen.html",
+        "https://www.openstreetmap.org/relation/19953402",
+        "https://www.openstreetmap.org/node/13377602511"
+      ],
+      "walk_m": 1309,
+      "crow_m": 1185,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.openstreetmap.org/relation/19953402",
+    "approx": true
+  },
+  {
+    "id": "sport-street-workout-irchelpark",
+    "name": "Street-Workout / Zürifit Irchelpark",
+    "cat": "sport",
+    "lat": 47.399257,
+    "lon": 8.54537,
+    "address": "Irchelpark, 8057 Zürich",
+    "walk_min": 18,
+    "desc_de": "Frei zugängliche Outdoor-Fitnessanlage (Street-Workout) im Irchelpark, rund 1,2 km nördlich der Siedlung – rund um die Uhr nutzbar und gut mit einer Runde auf der Finnenbahn kombinierbar.",
+    "desc_en": "Freely accessible outdoor fitness (street-workout) station in Irchelpark, about 1.2 km north of the estate – usable around the clock and easy to combine with a lap on the woodchip running track.",
+    "url": "http://www.asvz.ch",
+    "tags": [
+      "sport",
+      "free",
+      "outdoor",
+      "fitness"
+    ],
+    "details": {
+      "operator": "Stadt Zürich / ASVZ (laut städtischem Geodatensatz Zürifit, poi_id zfa8465)",
+      "sources": [
+        "https://www.ogd.stadt-zuerich.ch/wfs/geoportal/Sport?SERVICE=WFS&REQUEST=GetFeature&VERSION=1.1.0&TYPENAME=poi_zuerifit_view&outputFormat=GeoJSON&srsName=EPSG:4326",
+        "https://www.openstreetmap.org/way/998769528"
+      ],
+      "walk_m": 1372,
+      "crow_m": 1244,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.ogd.stadt-zuerich.ch/wfs/geoportal/Sport?SERVICE=WFS&REQUEST=GetFeature&VERSION=1.1.0&TYPENAME=poi_zuerifit_view&outputFormat=GeoJSON&srsName=EPSG:4326"
+  },
+  {
+    "id": "hist-krattenturm",
+    "name": "Standort Krattenturm",
+    "cat": "history",
+    "lat": 47.391986,
+    "lon": 8.556854,
+    "address": "Wald am Zürichberg (oberhalb Letzigraben), 8044 Zürich",
+    "walk_min": 19,
+    "desc_de": "Hier stand Mitte des 14. Jahrhunderts ein Wehr- und Signalturm der Zürcher Stadtverteidigung am oberen Ende des Letzigrabens, der im Alten Zürichkrieg am 30. April 1444 zerstört wurde; erhalten ist nichts, doch eine Infotafel erinnert daran und der Turm prangt bis heute im Oberstrasser Quartierwappen.",
+    "desc_en": "In the mid-14th century a defensive and signal tower of Zurich's outer defences stood here at the top of the Letzigraben; it was destroyed in the Old Zurich War on 30 April 1444. Nothing survives, but an information board marks the site and the tower still features in Oberstrass's coat of arms.",
+    "url": "https://de.wikipedia.org/wiki/Krattenturm",
+    "tags": [
+      "history",
+      "medieval",
+      "forest",
+      "walk"
+    ],
+    "details": {
+      "sources": [
+        "https://de.wikipedia.org/wiki/Krattenturm",
+        "https://www.openstreetmap.org/node/897548693"
+      ],
+      "walk_m": 1398,
+      "crow_m": 1010,
+      "walk_method": "osrm"
+    },
+    "source": "https://de.wikipedia.org/wiki/Krattenturm"
+  },
+  {
+    "id": "bahnhof-wipkingen",
+    "name": "Bahnhof Zürich Wipkingen (S24; Bus 33, 46)",
+    "cat": "transport",
+    "lat": 47.393041,
+    "lon": 8.529378,
+    "address": "Bahnhof Wipkingen, 8037 Zürich",
+    "walk_min": 19,
+    "desc_de": "Nächster S-Bahnhof: Die S24 fährt jede halbe Stunde in 4 Minuten nach Zürich Oerlikon und in 5 Minuten zum Hauptbahnhof; Bus 33 hält am Bahnhof (direkt ab Scheuchzerstrasse) und Bus 46 fährt alle 4 Minuten zum Bahnhofquai/HB.",
+    "desc_en": "Nearest S-Bahn station: the S24 runs every half hour, 4 minutes to Zürich Oerlikon and 5 minutes to the main station; bus 33 stops here (direct from Scheuchzerstrasse) and bus 46 runs every 4 minutes to Bahnhofquai/HB.",
+    "url": "https://www.zvv.ch",
+    "tags": [
+      "public-transport",
+      "train",
+      "s-bahn",
+      "commute",
+      "oerlikon"
+    ],
+    "details": {
+      "lines": "S24; Bus 33, 46 (Haltestelle Wipkingen, Bahnhof)",
+      "stop_id": 8503015,
+      "note": "Fahrplan Mo 9.11.2026: S24 07:41 → Zürich HB 07:46 (5 Min.), 07:47 → Zürich Oerlikon 07:51 (4 Min.); Bus 46 ab «Wipkingen, Bahnhof» (8591066) → Bahnhofquai/HB +8 Min.",
+      "sources": [
+        "https://transport.opendata.ch/v1/stationboard?id=8503015&datetime=2026-11-09%2007:30",
+        "https://transport.opendata.ch/v1/stationboard?id=8503015&datetime=2026-12-14%2007:30",
+        "https://transport.opendata.ch/v1/connections?from=8503015&to=8503006&date=2026-11-09&time=07:30",
+        "https://transport.opendata.ch/v1/connections?from=8503015&to=8503000&date=2026-11-09&time=07:30",
+        "https://transport.opendata.ch/v1/stationboard?id=8591066&datetime=2026-11-09%2007:30"
+      ],
+      "walk_m": 1451,
+      "crow_m": 1281,
+      "walk_method": "osrm"
+    },
+    "source": "https://transport.opendata.ch/v1/stationboard?id=8503015&datetime=2026-11-09%2007:30"
+  },
+  {
+    "id": "zuerich-hb",
+    "name": "Zürich Hauptbahnhof",
+    "cat": "transport",
+    "lat": 47.378176,
+    "lon": 8.540212,
+    "address": "Bahnhofplatz, 8001 Zürich",
+    "walk_min": 20,
+    "desc_de": "Der Hauptbahnhof liegt nur gut einen Kilometer südlich der Siedlung: zu Fuss rund 20 Minuten bergab, mit Tram 7 ab Röslistrasse in 7 Minuten oder mit Tram 10 ab Kinkelstrasse in 11 Minuten; von hier S-Bahn, Fernverkehr und Flughafenzüge.",
+    "desc_en": "The main station is only just over a kilometre south of the estate: about 20 minutes downhill on foot, 7 minutes by tram 7 from Röslistrasse or 11 minutes by tram 10 from Kinkelstrasse; S-Bahn, long-distance and airport trains from here.",
+    "url": "https://www.sbb.ch",
+    "tags": [
+      "public-transport",
+      "train",
+      "hub",
+      "commute"
+    ],
+    "details": {
+      "lines": "S-Bahn, IC/IR/RE, EC; Tram 3, 4, 6, 7, 10, 11, 13, 14, 17 u. a.",
+      "stop_id": 8503000,
+      "note": "Fahrzeiten aus transport.opendata.ch (Mo 9.11.2026, 07:30): Röslistrasse → Zürich HB 10 Min. inkl. Fussweg; Kinkelstrasse → Zürich HB 14 Min.",
+      "sources": [
+        "https://transport.opendata.ch/v1/connections?from=8591324&to=8503000&date=2026-11-09&time=07:30",
+        "https://transport.opendata.ch/v1/connections?from=8591229&to=8503000&date=2026-11-09&time=07:30",
+        "https://transport.opendata.ch/v1/locations?query=Zürich+Wipkingen&type=station"
+      ],
+      "walk_m": 1503,
+      "crow_m": 1153,
+      "walk_method": "osrm"
+    },
+    "source": "https://transport.opendata.ch/v1/connections?from=8591324&to=8503000&date=2026-11-09&time=07:30"
+  },
+  {
+    "id": "cult-landesmuseum",
+    "name": "Landesmuseum Zürich",
+    "cat": "culture",
+    "lat": 47.379241,
+    "lon": 8.54015,
+    "address": "Museumstrasse 2, 8001 Zürich",
+    "walk_min": 20,
+    "desc_de": "Schweizerisches Nationalmuseum zur Kultur und Geschichte der Schweiz beim Hauptbahnhof, gut einen Kilometer von der Siedlung; Di–So 10–17 Uhr, Montag geschlossen.",
+    "desc_en": "Swiss National Museum of Swiss culture and history next to the main station, just over a kilometre from the estate; Tue–Sun 10am–5pm, closed Mondays.",
+    "url": "https://www.landesmuseum.ch/",
+    "tags": [
+      "museum",
+      "history",
+      "culture"
+    ],
+    "details": {
+      "hours": "Di–So 10–17, Mo zu (Bibliothek Di–Fr 10–18)",
+      "operator": "Schweizerisches Nationalmuseum",
+      "sources": [
+        "https://www.landesmuseum.ch/",
+        "https://www.openstreetmap.org/relation/4281153"
+      ],
+      "walk_m": 1510,
+      "crow_m": 1042,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.landesmuseum.ch/"
+  },
+  {
+    "id": "sport-rasensportanlage-steinkluppe",
+    "name": "Rasensportanlage Steinkluppe",
+    "cat": "sport",
+    "lat": 47.400129,
+    "lon": 8.541719,
+    "address": "Anna-Heer-Strasse 23, 8057 Zürich",
+    "walk_min": 21,
+    "desc_de": "Städtische Fussballanlage in Unterstrass mit zwei Kunstrasenfeldern (100 × 64 m beleuchtet und 45 × 22 m), sechs Garderoben und Cafeteria, betrieben vom FC Unterstrass; freie Termine im Sportplatzmanager des Sportamts.",
+    "desc_en": "Municipal football ground in Unterstrass with two artificial-turf pitches (100 × 64 m floodlit and 45 × 22 m), six changing rooms and a cafeteria, run by FC Unterstrass; free slots are published in the sports office's booking tool.",
+    "url": "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/sport-und-badeanlagen/rasensportanlagen/steinkluppe.html",
+    "tags": [
+      "sport",
+      "football",
+      "club"
+    ],
+    "details": {
+      "operator": "Stadt Zürich, Sportamt; Verein: FC Unterstrass",
+      "note": "Keine Parkplätze vorhanden.",
+      "sources": [
+        "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/sport-und-badeanlagen/rasensportanlagen/steinkluppe.html",
+        "https://www.ogd.stadt-zuerich.ch/wfs/geoportal/Sport?SERVICE=WFS&REQUEST=GetFeature&VERSION=1.1.0&TYPENAME=poi_fussballplatz_view&outputFormat=GeoJSON&srsName=EPSG:4326"
+      ],
+      "walk_m": 1597,
+      "crow_m": 1359,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/sport-und-badeanlagen/rasensportanlagen/steinkluppe.html"
+  },
+  {
+    "id": "comm-repair-cafe-buchegg",
+    "name": "Repair Café GZ Buchegg",
+    "cat": "community",
+    "lat": 47.399052,
+    "lon": 8.534701,
+    "address": "Bucheggstrasse 93, 8057 Zürich",
+    "walk_min": 23,
+    "desc_de": "Ehrenamtliche Reparaturexpertinnen und -experten helfen bei Elektrogeräten, Textilien, Velos, Holz und Spielzeug – jeweils am GZ-Sonntag am ersten Sonntag des Monats (ausser Januar, August und Schulferien), mit Kaffee und Kuchen; nächster Termin So 6.12.2026, danach 7.2.2027.",
+    "desc_en": "Volunteer repair experts help with electrical appliances, textiles, bikes, wood and toys – on the community centre's first-Sunday-of-the-month 'GZ Sunday' (except January, August and school holidays), with coffee and cake; next date Sun 6 Dec 2026, then 7 Feb 2027.",
+    "url": "https://www.repair-cafe.ch/repaircafe/repair-cafe-buchegg/",
+    "tags": [
+      "repair",
+      "sustainability",
+      "volunteer",
+      "free",
+      "community"
+    ],
+    "details": {
+      "when": "1. Sonntag im Monat (GZ-Sonntag); 6.12.2026, 7.2., 7.3., 4.4., 2.5., 6.6., 4.7.2027",
+      "operator": "Gemeinschaftszentrum Buchegg (seit August 2016, mit Baugenossenschaft Freiblick)",
+      "sources": [
+        "https://www.repair-cafe.ch/repaircafe/repair-cafe-buchegg/",
+        "https://www.openstreetmap.org/node/5174433237"
+      ],
+      "walk_m": 1688,
+      "crow_m": 1435,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.repair-cafe.ch/repaircafe/repair-cafe-buchegg/"
+  },
+  {
+    "id": "market-markthalle-viadukt",
+    "name": "Markthalle im Viadukt",
+    "cat": "market",
+    "lat": 47.387752,
+    "lon": 8.526217,
+    "address": "Limmatstrasse 231 (Im Viadukt), 8005 Zürich",
+    "walk_min": 23,
+    "desc_de": "Gedeckte Markthalle unter den Bögen des Wipkinger Eisenbahnviadukts mit Bäckerei, Käse, Metzgerei und weiteren Frischprodukten, Mo–Sa 9–20 Uhr; Sonntagsverkäufe am 29.11., 6.12. und 20.12.2026 (11–18 Uhr), geschlossen am 25./26.12.2026.",
+    "desc_en": "Covered market hall under the arches of the Wipkingen railway viaduct with a bakery, cheese, butcher and other fresh food, Mon–Sat 9am–8pm; Sunday openings on 29 Nov, 6 Dec and 20 Dec 2026 (11am–6pm), closed 25/26 Dec 2026.",
+    "url": "https://im-viadukt.ch/",
+    "tags": [
+      "market",
+      "food-hall",
+      "local"
+    ],
+    "details": {
+      "hours": "Mo–Sa 9–20 (St. Jakob Beck Mo–Fr ab 7, Sa ab 8)",
+      "operator": "Im Viadukt",
+      "sources": [
+        "https://im-viadukt.ch/infos",
+        "https://www.openstreetmap.org/way/39607099"
+      ],
+      "walk_m": 1705,
+      "crow_m": 1395,
+      "walk_method": "osrm"
+    },
+    "source": "https://im-viadukt.ch/infos"
+  },
+  {
+    "id": "shop-zuercher-brockenhaus",
+    "name": "Zürcher Brockenhaus",
+    "cat": "shop",
+    "lat": 47.381557,
+    "lon": 8.531035,
+    "address": "Neugasse 11, 8005 Zürich",
+    "walk_min": 23,
+    "desc_de": "Ältestes Brockenhaus der Stadt (seit 1904) im Kreis 5 – Secondhand-Warenhaus mit Webshop und Gratis-Abholdienst; Mo–Fr 10–18.30, Sa 10–16 Uhr, Weihnachtsausstellung ab Sa 7.11.2026.",
+    "desc_en": "The city's oldest second-hand store (since 1904) in Kreis 5, with a web shop and a free pick-up service; Mon–Fri 10am–6:30pm, Sat 10am–4pm, Christmas display from Sat 7 Nov 2026.",
+    "url": "https://www.zuercher-brockenhaus.ch/",
+    "tags": [
+      "second-hand",
+      "brocki",
+      "furniture",
+      "sustainability"
+    ],
+    "details": {
+      "hours": "Mo–Fr 10–18.30, Sa 10–16",
+      "sources": [
+        "https://www.zuercher-brockenhaus.ch/",
+        "https://www.openstreetmap.org/node/3657239918"
+      ],
+      "walk_m": 1737,
+      "crow_m": 1261,
+      "walk_method": "osrm"
+    },
+    "source": "https://www.zuercher-brockenhaus.ch/"
+  },
+  {
+    "id": "sport-pumptrack-steinkluppe",
+    "name": "Pumptrack Steinkluppe",
+    "cat": "sport",
+    "lat": 47.401157,
+    "lon": 8.539501,
+    "address": "Steinkluppe, 8057 Zürich",
+    "walk_min": 25,
+    "desc_de": "Öffentlicher Pumptrack (Wellen-Rundkurs) der Stadt Zürich bei der Rasensportanlage Steinkluppe, rund 1,5 km nördlich der Siedlung.",
+    "desc_en": "Public city pump track (rolling loop) next to the Steinkluppe sports ground, about 1.5 km north of the estate.",
+    "url": "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/sport-und-badeanlagen/biken.html#weitere_bike-anlagen",
+    "tags": [
+      "sport",
+      "bike",
+      "free",
+      "outdoor"
+    ],
+    "details": {
+      "operator": "Stadt Zürich, Sportamt (Geodatensatz bp14405)",
+      "sources": [
+        "https://www.ogd.stadt-zuerich.ch/wfs/geoportal/Sport?SERVICE=WFS&REQUEST=GetFeature&VERSION=1.1.0&TYPENAME=poi_bikepark_view&outputFormat=GeoJSON&srsName=EPSG:4326",
+        "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/sport-und-badeanlagen/biken.html#weitere_bike-anlagen"
+      ],
+      "walk_m": 1842,
+      "crow_m": 1507,
+      "walk_method": "osrm",
+      "off_board": true
+    },
+    "source": "https://www.ogd.stadt-zuerich.ch/wfs/geoportal/Sport?SERVICE=WFS&REQUEST=GetFeature&VERSION=1.1.0&TYPENAME=poi_bikepark_view&outputFormat=GeoJSON&srsName=EPSG:4326"
+  },
+  {
+    "id": "market-stadthausanlage",
+    "name": "Wochenmarkt Stadthausanlage (beim Bürkliplatz)",
+    "cat": "market",
+    "lat": 47.367308,
+    "lon": 8.54076,
+    "address": "Stadthausanlage, 8001 Zürich",
+    "walk_min": 36,
+    "desc_de": "Grösster städtischer Lebensmittelmarkt der Innenstadt, jeden Dienstag und Freitag 6–11 Uhr beim Bürkliplatz; vom Riedtli mit Tram 7 ab Röslistrasse in 11 Minuten bis Paradeplatz und von dort wenige Gehminuten. Kein Markt am 25.12.2026 und 1.1.2027.",
+    "desc_en": "The city centre's big municipal food market, every Tuesday and Friday 6–11am near Bürkliplatz; from Riedtli 11 minutes by tram 7 from Röslistrasse to Paradeplatz, then a few minutes on foot. No market on 25 Dec 2026 and 1 Jan 2027.",
+    "url": "https://www.stadt-zuerich.ch/de/stadtleben/veranstaltungen-und-bewilligungen/gewerbe-und-maerkte/maerkte/lebensmittelmaerkte.html",
+    "tags": [
+      "market",
+      "weekly",
+      "city-centre"
+    ],
+    "details": {
+      "hours": "Di und Fr 6–11",
+      "operator": "Stadt Zürich",
+      "sources": [
+        "https://www.stadt-zuerich.ch/de/stadtleben/veranstaltungen-und-bewilligungen/gewerbe-und-maerkte/maerkte/lebensmittelmaerkte.html",
+        "https://nominatim.openstreetmap.org/search?q=Stadthausanlage,+Z%C3%BCrich&format=json"
+      ],
+      "walk_m": 2727,
+      "crow_m": 2329,
+      "walk_method": "osrm",
+      "off_board": true
+    },
+    "source": "https://www.stadt-zuerich.ch/de/stadtleben/veranstaltungen-und-bewilligungen/gewerbe-und-maerkte/maerkte/lebensmittelmaerkte.html"
+  },
+  {
+    "id": "sport-vitaparcours-fluntern",
+    "name": "Vitaparcours Zürich Fluntern",
+    "cat": "sport",
+    "lat": 47.38256,
+    "lon": 8.576152,
+    "address": "Allmend Fluntern (Zürichberg), 8044 Zürich",
+    "walk_min": 44,
+    "desc_de": "Klassischer Vitaparcours mit Übungsposten im Wald des Zürichbergs (OSM-Startdatum 1968), daneben die städtische Sport-Garderobe Fluntern – rund 2,4 km Luftlinie von der Siedlung.",
+    "desc_en": "Classic fitness trail with exercise stations in the Zürichberg forest (OSM start date 1968), next to the city's Fluntern sports changing room – about 2.4 km from the estate as the crow flies.",
+    "url": "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/sport-und-badeanlagen/laufen.html",
+    "tags": [
+      "sport",
+      "running",
+      "fitness",
+      "forest",
+      "free"
+    ],
+    "details": {
+      "note": "Pin = Start laut OSM (node 5327481310); Sport-Garderobe Fluntern laut städtischem Geodatensatz (sg2913).",
+      "sources": [
+        "https://www.openstreetmap.org/relation/11480335",
+        "https://www.openstreetmap.org/node/5327481310",
+        "https://www.ogd.stadt-zuerich.ch/wfs/geoportal/Sport?SERVICE=WFS&REQUEST=GetFeature&VERSION=1.1.0&TYPENAME=poi_sportgarderobe_view&outputFormat=GeoJSON&srsName=EPSG:4326",
+        "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/sport-und-badeanlagen/laufen.html"
+      ],
+      "walk_m": 3336,
+      "crow_m": 2443,
+      "walk_method": "osrm",
+      "off_board": true
+    },
+    "source": "https://www.openstreetmap.org/relation/11480335",
+    "approx": true
+  },
+  {
+    "id": "sport-dolder-eisbahn",
+    "name": "Dolder Eisbahn",
+    "cat": "sport",
+    "lat": 47.375609,
+    "lon": 8.576846,
+    "address": "Adlisbergstrasse 36, 8044 Zürich",
+    "walk_min": 45,
+    "desc_de": "Eisbahn beim Dolder am Zürichberg, eine der vier im städtischen Sport-Geodatensatz geführten Eisbahnen (rund 2,8 km Luftlinie); Saison und Publikumszeiten beim Betreiber Dolder Sports.",
+    "desc_en": "Ice rink at the Dolder on the Zürichberg, one of four rinks listed in the city's sports geodata (about 2.8 km as the crow flies); season and public skating times from the operator Dolder Sports.",
+    "url": "https://www.doldersports.com/winter-front-page",
+    "tags": [
+      "sport",
+      "ice-skating",
+      "winter",
+      "outdoor"
+    ],
+    "details": {
+      "note": "Saisondaten nicht verifiziert (Website des Betreibers beim Abruf nicht erreichbar).",
+      "sources": [
+        "https://www.ogd.stadt-zuerich.ch/wfs/geoportal/Sport?SERVICE=WFS&REQUEST=GetFeature&VERSION=1.1.0&TYPENAME=poi_eisbahn_view&outputFormat=GeoJSON&srsName=EPSG:4326"
+      ],
+      "walk_m": 3353,
+      "crow_m": 2787,
+      "walk_method": "osrm",
+      "off_board": true
+    },
+    "source": "https://www.ogd.stadt-zuerich.ch/wfs/geoportal/Sport?SERVICE=WFS&REQUEST=GetFeature&VERSION=1.1.0&TYPENAME=poi_eisbahn_view&outputFormat=GeoJSON&srsName=EPSG:4326"
+  }
+]

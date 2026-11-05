@@ -1,0 +1,49 @@
+[
+ {
+  "id": "kita-morgen-pendeln", "icon": "commute",
+  "n_de": "Kita-Morgen & Arbeitsweg nach Oerlikon", "n_en": "Kita morning & commute to Oerlikon",
+  "sum_de": "Das Kind in die Kita mitten in der Siedlung bringen, dann drei Minuten zum Tram an der Kinkelstrasse: Tram 10 fährt in 11 Minuten an den Bahnhof Oerlikon.",
+  "sum_en": "Drop the child at the Kita in the middle of the estate, then three minutes to the tram at Kinkelstrasse: tram 10 reaches Oerlikon station in 11 minutes.",
+  "legs": [
+   { "mode": "foot", "to": "kita-riedtli-stolzestrasse", "de": "Eine Minute durch die Siedlung zur Kita an der Stolzestrasse.", "en": "One minute through the estate to the Kita on Stolzestrasse." },
+   { "mode": "foot", "to": "tram-kinkelstrasse", "de": "Zur Tramhaltestelle Kinkelstrasse an der Winterthurerstrasse; Tram 9 und 10 fahren tagsüber etwa alle 7 bis 8 Minuten.", "en": "To the Kinkelstrasse tram stop on Winterthurerstrasse; trams 9 and 10 run about every 7 to 8 minutes during the day." },
+   { "mode": "bus", "line": "10", "min": 3, "to": "tram-milchbuck", "de": "Tram 10 Richtung Flughafen bis Milchbuck (3 Min.) und weiter bis Bahnhof Oerlikon Ost, insgesamt 11 Minuten. Mit dem Velo sind es etwa 10 Minuten.", "en": "Tram 10 towards the airport to Milchbuck (3 min) and on to Oerlikon station east, 11 minutes in all. By bike it takes about 10 minutes." }
+  ]
+ },
+ {
+  "id": "samstag-im-quartier", "icon": "basket",
+  "n_de": "Samstag im Quartier: Laden, Bibliothek, Beckenhof", "n_en": "Saturday in the quarter: shop, library, Beckenhof",
+  "sum_de": "Regionale Lebensmittel am Rigiplatz, Bilderbücher in der Bibliothek Unterstrass, der Spielplatz im barocken Beckenhof-Park und zum Schluss das GZ Schindlergut.",
+  "sum_en": "Regional food at Rigiplatz, picture books at the Unterstrass library, the playground in the baroque Beckenhof park and finally the Schindlergut community centre.",
+  "legs": [
+   { "mode": "foot", "to": "shop-nah-und-fein", "de": "Zum Quartierladen am Rigiplatz (Sa 9–16 Uhr): saisonale Lebensmittel direkt von Produzenten aus der Region.", "en": "To the neighbourhood shop at Rigiplatz (Sat 9am–4pm): seasonal food straight from regional producers." },
+   { "mode": "foot", "to": "pbz-unterstrass", "de": "Zur PBZ Bibliothek Unterstrass (Sa 10–14 Uhr) mit rotem Sofa, Bilderbüchern und Tonies.", "en": "To the Unterstrass library (Sat 10am–2pm) with its red sofa, picture books and Tonies." },
+   { "mode": "foot", "to": "spielplatz-beckenhof", "de": "Zum Kleinkinderspielplatz im historischen Beckenhof-Park, 2026 erneuert.", "en": "To the toddler playground in the historic Beckenhof park, renewed in 2026." },
+   { "mode": "foot", "to": "gz-schindlergut", "de": "Hinunter ins GZ Schindlergut mit Park, Kafi und Programm für kleine Kinder.", "en": "Down to the Schindlergut community centre with its park, café and programme for small children." },
+   { "mode": "foot", "to": "@home", "de": "Zurück ins Riedtli.", "en": "Back to Riedtli." }
+  ]
+ },
+ {
+  "id": "gruene-runde-kinderwagen", "icon": "tree",
+  "n_de": "Grüne Runde mit dem Kinderwagen: Stolzewiese bis Irchelpark", "n_en": "Green loop with a pram: Stolzewiese to Irchelpark",
+  "sum_de": "Vom grössten Spielplatz gleich nebenan über die ruhige Möhrlianlage in den Irchelpark, den grössten Park der Stadt, mit See, Wiesen und Sandspielplatz.",
+  "sum_en": "From the big playground next door via the quiet Möhrlianlage to Irchelpark, the city's largest park, with a lake, meadows and a sand playground.",
+  "legs": [
+   { "mode": "foot", "to": "spielplatz-stolzewiese", "de": "Drei Minuten zur Stolzewiese, dem grössten Spielplatz in der Nähe, mit Wasserspiel und dem Quartiercafé Stolzehüsli.", "en": "Three minutes to Stolzewiese, the biggest playground nearby, with water play and the Stolzehüsli café." },
+   { "mode": "foot", "to": "spielplatz-moehrlianlage", "de": "Weiter zur Möhrlianlage, einem ruhigen Spielplatz für Kinder bis 5 Jahre.", "en": "On to the Möhrlianlage, a quiet playground for children up to 5." },
+   { "mode": "foot", "to": "spielplatz-irchelpark", "de": "Hinauf in den Irchelpark: 32 Hektaren mit Allmendsee, Wiesen und Feuerstellen.", "en": "Up into Irchelpark: 32 hectares with a lake, meadows and fire pits." },
+   { "mode": "foot", "to": "@home", "de": "Zurück ins Riedtli.", "en": "Back to Riedtli." }
+  ]
+ },
+ {
+  "id": "rigiblick-zuerichberg", "icon": "history",
+  "n_de": "Hinauf zum Rigiblick: Seilbahn, Spielplatz, Aussicht", "n_en": "Up to Rigiblick: funicular, playground, view",
+  "sum_de": "Zur Talstation der Seilbahn Rigiblick, hinauf an den Waldrand des Zürichbergs mit Spielplatz, Theater und Aussicht über die Stadt; von dort führt ein Familienweg zum Zoo.",
+  "sum_en": "To the Rigiblick funicular, up to the edge of the Zürichberg forest with a playground, a theatre and a view over the city; from there a family trail leads to the zoo.",
+  "legs": [
+   { "mode": "foot", "to": "tram-seilbahn-rigiblick", "de": "Sechs Minuten zur Talstation der Seilbahn Rigiblick am Rigiplatz.", "en": "Six minutes to the Rigiblick funicular at Rigiplatz." },
+   { "mode": "foot", "to": "spielplatz-rigiblick", "de": "Mit der Seilbahn (Linie 23, etwa alle 6 Minuten) oder zu Fuss hinauf zur Bergstation mit Spielplatz.", "en": "By funicular (line 23, about every 6 minutes) or on foot up to the top station and its playground." },
+   { "mode": "foot", "to": "natur-familienweg-rigiblick-zoo", "de": "Am Theater Rigiblick vorbei zum Start des Familienwegs durch den Zürichbergwald zum Zoo.", "en": "Past the Rigiblick theatre to the start of the family trail through the Zürichberg forest to the zoo." }
+  ]
+ }
+]

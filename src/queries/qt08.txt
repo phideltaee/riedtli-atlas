@@ -1,0 +1,1 @@
+[out:json][timeout:180];(way["building"](47.38880,8.52510,47.39549,8.53492);relation["building"]["type"="multipolygon"](47.38880,8.52510,47.39549,8.53492);way["building:part"](47.38880,8.52510,47.39549,8.53492););out geom tags;

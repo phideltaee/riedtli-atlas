@@ -1,0 +1,12 @@
+[out:json][timeout:120];
+(
+  node["natural"="tree"](around:2000,47.38880,8.54474);
+  node["amenity"="recycling"](around:2000,47.38880,8.54474);
+  way["amenity"="recycling"](around:2000,47.38880,8.54474);
+  node["public_transport"="platform"](around:2000,47.38880,8.54474);
+  node["highway"="bus_stop"](around:2000,47.38880,8.54474);
+  node["railway"="tram_stop"](around:2000,47.38880,8.54474);
+  node["railway"="station"](around:2300,47.38880,8.54474);
+  node["amenity"~"^(bicycle_rental|car_sharing|drinking_water)$"](around:2000,47.38880,8.54474);
+);
+out tags center;

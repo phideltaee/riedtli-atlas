@@ -1,0 +1,2777 @@
+[
+ {
+  "id": "kita-riedtli-stolzestrasse",
+  "name": "KiTa Riedtli",
+  "cat": "kita",
+  "lat": 47.387788,
+  "lon": 8.545397,
+  "address": "Stolzestrasse 23, 8006 Zürich",
+  "walk_min": 1,
+  "desc_de": "Eltern-Verein-Kita in zwei umgebauten Wohnungen der Siedlung Riedtli: zwei altersgemischte Gruppen à 11 Kinder ab 14 Wochen, Mo–Fr 7:30–18:00; Eltern helfen 10–12 Mal pro Jahr mit (Mittagstisch, Wäsche). Ganzer Tag CHF 172 (bis 17 Mt.) bzw. CHF 133 (ab 18 Mt.); ein Teil der Plätze ist subventioniert.",
+  "desc_en": "Parent-run Kita in two converted flats of the Riedtli estate: two mixed-age groups of 11 children from 14 weeks, Mon–Fri 7:30–18:00; parents help 10–12 times a year (lunch, laundry). Full day CHF 172 (up to 17 months) or CHF 133 (from 18 months); some places are subsidised.",
+  "url": "https://www.kita-riedtli.ch/",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "on-site",
+   "parent-run",
+   "purzelbaum",
+   "toddler"
+  ],
+  "details": {
+   "operator": "Verein KiTa Riedtli (gegründet 1986 als Elterninitiative «Riedtli-Chindsgi», seit 2003 Kita)",
+   "ages": "ab 14 Wochen bis Kindergarteneintritt; 2 altersgemischte Gruppen à 11 Kinder",
+   "hours": "Mo–Fr 07:30–18:00; Betriebsferien KW 32–33, zwischen Weihnachten und Neujahr und an Feiertagen geschlossen",
+   "price": "Ganzer Tag CHF 172 (bis 17 Mt.) / CHF 133 (ab 18 Mt.); Vormittag mit Mittagessen CHF 120 / 95; Nachmittag CHF 86 / 64 (Taxordnung ab 1.5.2026). Mindestens 2 ganze Tage pro Woche. Vereinsbeitrag CHF 100/Jahr (Alleinerziehende CHF 70).",
+   "subsidised": true,
+   "subsidised_note": "Kita-Website: «Ein Teil der Plätze wird subventioniert»; Antrag für Eltern mit Wohnsitz Stadt Zürich und zusammen >100 % Erwerbspensum bzw. Alleinerziehende in Arbeit/Ausbildung.",
+   "waitlist": "Warteliste per Anmeldeformular; Website (Nov. 2026): «Zur Zeit haben wir keine Plätze frei».",
+   "nature": "Nutzt die Grünflächen, Sandkästen und Spielplätze der Siedlung; dienstags Waldnachmittag mit der Seilbahn Rigiblick; Ausflüge in Irchelpark, GZ Buchegg, Zoo; freitags Turnen im Saal der ref. Kirche Unterstrass.",
+   "food": "Eigene Köchin, saisonal/möglichst bio oder regional.",
+   "purzelbaum": true,
+   "phone": "+41 44 361 92 44",
+   "email": "info@kita-riedtli.ch",
+   "note": "Die Stadt nennt im Raumprogramm der Wohnsiedlung Riedtli «1 Kindertagesstätte».",
+   "sources": [
+    "https://www.kita-riedtli.ch/",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette",
+    "https://www.stadt-zuerich.ch/de/planen-und-bauen/portfolio/bauten-anlagen/wohnbauten/wohnsiedlung-riedtli.html"
+   ],
+   "city_poi_id": "kk152",
+   "crow_m": 59
+  },
+  "source": "https://www.kita-riedtli.ch/"
+ },
+ {
+  "id": "kita-kibiz-oberstrass-winterthurerstrasse",
+  "name": "Kita KiBiZ Oberstrass",
+  "cat": "kita",
+  "lat": 47.389276,
+  "lon": 8.545997,
+  "address": "Winterthurerstrasse 63, 8006 Zürich",
+  "walk_min": 3,
+  "desc_de": "Kita am Rand der Siedlung Riedtli, Mo–Fr 7:30–18:30, pädagogisch an Montessori orientiert («Hilf mir, es selbst zu tun»). Ab 19 Monaten CHF 125.60 pro Tag (Monatspauschale, Faktor 4,333), jüngere Kinder höher; subventionierte Plätze vorhanden.",
+  "desc_en": "Kita at the edge of the Riedtli estate, Mon–Fri 7:30–18:30, Montessori-inspired ('help me to do it myself'). From 19 months CHF 125.60 per day (monthly flat rate, factor 4.333), younger children cost more; subsidised places available.",
+  "url": "https://oberstrass.kitakibiz.ch/",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "montessori",
+   "nearest"
+  ],
+  "details": {
+   "operator": "KiBiZ Kinderbetreuung (Kita KiBiZ Oberstrass)",
+   "hours": "Mo–Fr 07:30–18:30",
+   "price": "Ab 19 Mt.: 1 Tag/Woche CHF 572/Monat (CHF 132/Tag), ab 2 Tagen CHF 125.60/Tag (5 Tage CHF 2'721.30/Monat); halber Tag mit Essen CHF 87.60. Bis 18 Mt.: 1 Tag/Woche CHF 674.95/Monat, 5 Tage CHF 3'211.15/Monat. Depot CHF 500, Eingewöhnungspauschale CHF 250.",
+   "subsidised": true,
+   "subsidised_note": "Stadt Zürich: «Bietet subventionierte Plätze an.»",
+   "phone": "+41 44 364 40 40",
+   "email": "info.oberstrass@kitakibiz.ch",
+   "sources": [
+    "https://oberstrass.kitakibiz.ch/",
+    "https://oberstrass.kitakibiz.ch/kita-tarife-kosten/",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk3744",
+   "crow_m": 163
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+ },
+ {
+  "id": "kita-baerlis-granitweg",
+  "name": "KITA BÄRLIS Granitweg",
+  "cat": "kita",
+  "lat": 47.386015,
+  "lon": 8.542711,
+  "address": "Granitweg 6, 8006 Zürich",
+  "walk_min": 5,
+  "desc_de": "Purzelbaum-Kita mit langen Öffnungszeiten (Mo, Di, Mi, Fr 7:00–19:00, Do bis 21:30); Hauptsprache Deutsch/Schweizerdeutsch, eigene Wald- und Naturgruppe mit Waldhütte, wöchentlicher Ausflugstag und täglich frisch gekochtes Bio-Essen. Subventionierte Plätze; Tarife nicht online.",
+  "desc_en": "Purzelbaum Kita with long opening hours (Mon, Tue, Wed, Fri 7:00–19:00, Thu until 21:30); main language German/Swiss German, own forest and nature group with a forest hut, a weekly all-day outing and freshly cooked organic meals. Subsidised places; fees not published online.",
+  "url": "https://www.baerlis.ch/kita-baerlis-granitweg-6/",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "long-hours",
+   "forest-group",
+   "purzelbaum"
+  ],
+  "details": {
+   "operator": "KITA BÄRLIS (2 Standorte im Kreis 6)",
+   "hours": "Mo, Di, Mi, Fr 07:00–19:00; Do 07:00–21:30",
+   "languages": "Deutsch/Schweizerdeutsch (bilinguale DE/EN-Begleitung wird für die Bärlis-Gruppe allgemein beworben)",
+   "nature": "Eigene Wald- und Naturgruppe mit Waldhütte; einmal pro Woche ganztägiger «Weltentdecker-Tag»; Schwimmen, Turnhalle, Yoga.",
+   "price_note": "Keine Tarife auf der Website publiziert (Nov. 2026).",
+   "subsidised": true,
+   "purzelbaum": true,
+   "phone": "+41 44 544 21 31",
+   "email": "info@baerlis.ch",
+   "note": "Exklusive Parkplätze zum Bringen/Abholen; Tramhaltestelle in der Nähe.",
+   "sources": [
+    "https://www.baerlis.ch/kita-baerlis-granitweg-6/",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk5278",
+   "crow_m": 276
+  },
+  "source": "https://www.baerlis.ch/kita-baerlis-granitweg-6/"
+ },
+ {
+  "id": "kita-villa-baerlis-im-eisernen-zeit",
+  "name": "VILLA BÄRLIS",
+  "cat": "kita",
+  "lat": 47.392252,
+  "lon": 8.541397,
+  "address": "Im Eisernen Zeit 31, 8057 Zürich",
+  "walk_min": 9,
+  "desc_de": "Zweisprachige Kita (Deutsch–Englisch im Alltag gelebt) in einer Villa mit eigenem Garten in ruhigem, verkehrsberuhigtem Wohnquartier; für Babys und Kleinkinder, Mo, Di, Mi, Fr 7:00–19:00, Do bis 21:30. Subventionierte Plätze, Purzelbaum-Kita.",
+  "desc_en": "Bilingual Kita (German–English used in everyday life) in a villa with its own garden in a quiet, traffic-calmed residential street; for babies and toddlers, Mon, Tue, Wed, Fri 7:00–19:00, Thu until 21:30. Subsidised places, Purzelbaum Kita.",
+  "url": "https://www.baerlis.ch/villa-baerlis-im-eisernen-zeit-31/",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "bilingual",
+   "garden",
+   "long-hours",
+   "purzelbaum"
+  ],
+  "details": {
+   "operator": "KITA BÄRLIS",
+   "hours": "Mo, Di, Mi, Fr 07:00–19:00; Do 07:00–21:30",
+   "languages": "Deutsch und Englisch",
+   "nature": "Eigener Garten; Wald- und Naturgruppe mit Waldhütte (alle Bärlis-Standorte).",
+   "price_note": "Keine Tarife auf der Website publiziert (Nov. 2026).",
+   "subsidised": true,
+   "purzelbaum": true,
+   "phone": "+41 44 554 21 31",
+   "email": "info@baerlis.ch",
+   "sources": [
+    "https://www.baerlis.ch/villa-baerlis-im-eisernen-zeit-31/",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk7138",
+   "crow_m": 528
+  },
+  "source": "https://www.baerlis.ch/villa-baerlis-im-eisernen-zeit-31/"
+ },
+ {
+  "id": "kita-pop-e-poppa-weinberg",
+  "name": "pop e poppa Weinberg",
+  "cat": "kita",
+  "lat": 47.388709,
+  "lon": 8.540303,
+  "address": "Weinbergstrasse 137/139, 8006 Zürich",
+  "walk_min": 6,
+  "desc_de": "Kita in einer denkmalgeschützten Jugendstilvilla nahe Schaffhauserplatz, Tramhalt Röslistrasse vor der Tür; drei Gruppen, ab 3 Monaten bis Kindergarteneintritt, Mo–Fr 7:00–18:30, täglich draussen. Subventionierte Plätze; Preise nicht online.",
+  "desc_en": "Kita in a listed Art Nouveau villa near Schaffhauserplatz, Röslistrasse tram stop at the door; three groups, from 3 months to kindergarten entry, Mon–Fri 7:00–18:30, outdoors every day. Subsidised places; prices not published online.",
+  "url": "https://www.popepoppa.ch/weinberg",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "villa",
+   "babies"
+  ],
+  "details": {
+   "operator": "pop e poppa",
+   "ages": "3 Monate bis Kindergarteneintritt; 3 Gruppen",
+   "hours": "Mo–Fr 07:00–18:30; kurze Schliessung über Weihnachten/Neujahr",
+   "subsidised": true,
+   "phone": "+41 79 307 66 11",
+   "email": "weinberg@popepoppa.ch",
+   "sources": [
+    "https://www.popepoppa.ch/weinberg",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk4818",
+   "crow_m": 341
+  },
+  "source": "https://www.popepoppa.ch/weinberg"
+ },
+ {
+  "id": "kita-pop-e-poppa-beckenhof",
+  "name": "pop e poppa Beckenhof",
+  "cat": "kita",
+  "lat": 47.382876,
+  "lon": 8.541746,
+  "address": "Beckenhofstrasse 6, 8006 Zürich",
+  "walk_min": 11,
+  "desc_de": "Grössere pop-e-poppa-Kita mit 48 Plätzen für Kinder ab 3 Monaten bis Schuleintritt, wenige Schritte vom Beckenhof-Park. Subventionierte Plätze laut Stadt.",
+  "desc_en": "Larger pop e poppa Kita with 48 places for children from 3 months to school entry, a few steps from Beckenhof park. Subsidised places according to the city.",
+  "url": "https://www.popepoppa.ch/beckenhof",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised"
+  ],
+  "details": {
+   "operator": "pop e poppa",
+   "ages": "3 Monate bis Schuleintritt; 48 Plätze",
+   "subsidised": true,
+   "phone": "+41 78 637 66 11",
+   "sources": [
+    "https://www.popepoppa.ch/beckenhof",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk6718",
+   "crow_m": 621
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+ },
+ {
+  "id": "kita-akidemy-rigiplatz",
+  "name": "Akidemy KiTa Rigiplatz",
+  "cat": "kita",
+  "lat": 47.385584,
+  "lon": 8.548199,
+  "address": "Culmannstrasse 99 (Rigiplatz), 8006 Zürich",
+  "walk_min": 7,
+  "desc_de": "Bilinguale Kita (Deutsch/Englisch) direkt am Rigiplatz für Kinder ab 4 Monaten bis Kindergarten, altersgemischte Gruppen, Mo–Fr 7:00–18:30; eigener Garten, Pre-K-Gruppe ab 3 Jahren. Subventionierte Plätze.",
+  "desc_en": "Bilingual Kita (German/English) right on Rigiplatz for children from 4 months to kindergarten, mixed-age groups, Mon–Fri 7:00–18:30; own garden, pre-K group from age 3. Subsidised places.",
+  "url": "https://www.akidemy.ch/standorte/zuerich-rigiplatz/",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "bilingual",
+   "english",
+   "garden"
+  ],
+  "details": {
+   "operator": "Akidemy (mehrere Standorte Zürich und Umgebung)",
+   "ages": "ab 4 Monaten bis Kindergarten/Vorschulalter; Pre-K-Gruppe ab 3 Jahren",
+   "hours": "Mo–Fr 07:00–18:30",
+   "languages": "Deutsch und Englisch",
+   "nature": "Täglich Spaziergänge, Spielplatzbesuch oder Spielen im eigenen Garten.",
+   "subsidised": true,
+   "phone": "+41 44 501 02 60",
+   "email": "info@akidemy.ch",
+   "sources": [
+    "https://www.akidemy.ch/standorte/zuerich-rigiplatz/",
+    "https://www.akidemy.ch/",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk12761",
+   "crow_m": 381
+  },
+  "source": "https://www.akidemy.ch/standorte/zuerich-rigiplatz/"
+ },
+ {
+  "id": "kita-mini-wolken-stampfenbachstrasse",
+  "name": "Kita Mini Wolken",
+  "cat": "kita",
+  "lat": 47.387738,
+  "lon": 8.53933,
+  "address": "Stampfenbachstrasse 161, 8006 Zürich",
+  "walk_min": 7,
+  "desc_de": "Kleine Kita an der Stampfenbachstrasse, im städtischen Kita-Verzeichnis mit subventionierten Plätzen geführt (Eintrag aktualisiert April 2026). Keine eigene Website; Auskunft per Telefon oder E-Mail.",
+  "desc_en": "Small Kita on Stampfenbachstrasse, listed in the city Kita register with subsidised places (entry updated April 2026). No website of its own; information by phone or e-mail.",
+  "url": "https://www.stadt-zuerich.ch/kinderbetreuung",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised"
+  ],
+  "details": {
+   "subsidised": true,
+   "phone": "+41 78 880 32 32",
+   "email": "Kinderminiwolken@gmx.ch",
+   "note": "Nur über die städtischen Kita-Daten verifiziert; Öffnungszeiten, Alter und Preise nicht publiziert.",
+   "city_poi_id": "kk16106",
+   "crow_m": 409
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+ },
+ {
+  "id": "kita-cha-cha-cha-schaffhauserstrasse",
+  "name": "KITA cha cha cha Schaffhauserstrasse",
+  "cat": "kita",
+  "lat": 47.389889,
+  "lon": 8.539228,
+  "address": "Schaffhauserstrasse 26, 8006 Zürich",
+  "walk_min": 8,
+  "desc_de": "Kita nahe Schaffhauserplatz, im städtischen Kita-Verzeichnis mit subventionierten Plätzen geführt. Die Website kita-chachacha.com war im November 2026 nicht erreichbar – Betrieb und Konditionen telefonisch prüfen.",
+  "desc_en": "Kita near Schaffhauserplatz, listed in the city Kita register with subsidised places. The website kita-chachacha.com was not reachable in November 2026 – check operation and terms by phone.",
+  "url": "https://www.stadt-zuerich.ch/kinderbetreuung",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "check-status"
+  ],
+  "details": {
+   "operator": "KITA cha cha cha (2 Standorte im Kreis 6)",
+   "subsidised": true,
+   "phone": "+41 44 350 23 15",
+   "email": "office@kita-chachacha.com",
+   "status": "Website http://www.kita-chachacha.com/schaffhauserstrasse lieferte am 5.11.2026 HTTP 404/500; Eintrag in den Stadtdaten mit Stand Dez. 2024.",
+   "city_poi_id": "kk2721",
+   "crow_m": 461
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+ },
+ {
+  "id": "kita-wundersterne-letzistrasse",
+  "name": "Kita Wundersterne",
+  "cat": "kita",
+  "lat": 47.392062,
+  "lon": 8.547142,
+  "address": "Letzistrasse 21, 8006 Zürich",
+  "walk_min": 8,
+  "desc_de": "Kita an der Letzistrasse nördlich der Siedlung, im städtischen Kita-Verzeichnis mit subventionierten Plätzen (Eintrag aktualisiert Nov. 2025). Website nicht erreichbar – Details telefonisch.",
+  "desc_en": "Kita on Letzistrasse north of the estate, listed in the city Kita register with subsidised places (entry updated Nov 2025). Website not reachable – ask by phone.",
+  "url": "https://www.stadt-zuerich.ch/kinderbetreuung",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "check-status"
+  ],
+  "details": {
+   "subsidised": true,
+   "phone": "+41 78 960 07 81",
+   "email": "info@kita-wundersterne.ch",
+   "note": "Die Stadtdaten führen an derselben Adresse noch «Kita Blumenwiese Letzi» (Stand Dez. 2024); die Blumenwiese-Website nennt den Standort nicht mehr – wahrscheinlich übernommen, nicht bestätigt.",
+   "status": "kita-wundersterne.ch lieferte am 5.11.2026 HTTP 403/500.",
+   "city_poi_id": "kk12771",
+   "crow_m": 479
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+ },
+ {
+  "id": "kita-dayschool-beckenhof-waltersbachstrasse",
+  "name": "Dayschool Beckenhof",
+  "cat": "kita",
+  "lat": 47.383598,
+  "lon": 8.541429,
+  "address": "Waltersbachstrasse 4, 8006 Zürich",
+  "walk_min": 10,
+  "desc_de": "Dreisprachige Kita (Deutsch, Englisch, Französisch) mit integriertem Privatkindergarten, Mo–Fr 7:00–18:30, Late Care bis 20:00. Tagestarif CHF 150 (bis 19 Mt.) bzw. CHF 135 (darüber), einmalige Einschreibegebühr CHF 750; subventionierte Plätze.",
+  "desc_en": "Trilingual Kita (German, English, French) with an integrated private kindergarten, Mon–Fri 7:00–18:30, late care until 20:00. Daily rate CHF 150 (up to 19 months) or CHF 135 (older), one-off enrolment fee CHF 750; subsidised places.",
+  "url": "https://dayschool.ch/tarife/",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "trilingual",
+   "english",
+   "french",
+   "long-hours"
+  ],
+  "details": {
+   "operator": "Dayschool (Standorte Zürich Beckenhof und Meilen)",
+   "hours": "Mo–Fr 07:00–18:30; Late Care bis 20:00",
+   "languages": "Deutsch, Englisch, Französisch",
+   "price": "Pro Tag: bis 19 Mt. CHF 150 (140 bei 5 Tagen/Woche), über 19 Mt. CHF 135 (130 bei 5 Tagen); Kindergarten kurz (08:35–16:30) CHF 100, lang (07:00–18:30) CHF 125. Einschreibe-/Eingewöhnungsgebühr CHF 750, Depot 1 Monatspauschale, Geschwisterrabatt 10 %.",
+   "subsidised": true,
+   "phone": "+41 44 557 13 31",
+   "email": "beckenhof@dayschool.ch",
+   "note": "Die Stadtdaten führen auch «Dayschool Stampfenbach» (Stampfenbachstrasse 85); dayschool.ch nennt nur noch Beckenhof und Meilen – deshalb nicht aufgenommen.",
+   "sources": [
+    "https://dayschool.ch/tarife/",
+    "https://www.dayschool.ch/",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk238",
+   "crow_m": 557
+  },
+  "source": "https://dayschool.ch/tarife/"
+ },
+ {
+  "id": "kita-globegarden-kreis-6-im-eisernen-zeit",
+  "name": "globegarden Kreis 6",
+  "cat": "kita",
+  "lat": 47.393026,
+  "lon": 8.5423,
+  "address": "Im Eisernen Zeit 51, 8006 Zürich",
+  "walk_min": 10,
+  "desc_de": "Quartierkita in einer Kindervilla mit eigenem Garten zwischen Schaffhauserplatz und Irchel, zweisprachiges Bildungskonzept (mit Englisch); Gruppen Infants & Toddlers, Twos und Pre-K, offen 7:00–19:00, Notfallbetreuung bis 21:00. Subventionierte Plätze.",
+  "desc_en": "Neighbourhood Kita in a children's villa with its own garden between Schaffhauserplatz and Irchel, bilingual curriculum (with English); Infants & Toddlers, Twos and Pre-K groups, open 7:00–19:00, emergency care until 21:00. Subsidised places.",
+  "url": "https://www.globegarden.ch/locations/kreis-6",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "bilingual",
+   "garden",
+   "long-hours"
+  ],
+  "details": {
+   "operator": "Globegarden GmbH",
+   "ages": "Babys bis Vorschulalter (Gruppen Infants & Toddlers, Twos, Pre-K)",
+   "hours": "07:00–19:00; Notfallbetreuung bis 21:00",
+   "languages": "Zweisprachiges Bildungskonzept (Deutsch/Englisch)",
+   "price_note": "Tarife nicht auf der Standortseite publiziert.",
+   "subsidised": true,
+   "phone": "+41 44 536 55 32",
+   "email": "info@globegarden.org",
+   "sources": [
+    "https://www.globegarden.ch/locations/kreis-6",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk4106",
+   "crow_m": 580
+  },
+  "source": "https://www.globegarden.ch/locations/kreis-6"
+ },
+ {
+  "id": "kita-schiguna-kronenwiese-nordstrasse",
+  "name": "Krippe Schiguna Kronenwiese",
+  "cat": "kita",
+  "lat": 47.387674,
+  "lon": 8.536573,
+  "address": "Nordstrasse 79 (Kronenwiese), 8006 Zürich",
+  "walk_min": 11,
+  "desc_de": "Aus einer Eltern-Spielgruppe des Quartiervereins Treffpunkt Schindlergut entstandene Krippe mit 25 Plätzen in der Siedlung Kronenwiese, Mo–Fr 7:00–18:00, ab dem 3. Lebensmonat bis Kindergarten in altersgemischter Gruppe. Vertrag mit dem Sozialdepartement, subventionierte Plätze.",
+  "desc_en": "Nursery with 25 places in the Kronenwiese estate that grew out of a parents' playgroup of the Treffpunkt Schindlergut association, Mon–Fri 7:00–18:00, from 3 months to kindergarten in a mixed-age group. Contract with the city social department, subsidised places.",
+  "url": "https://www.schiguna.ch/",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "parent-run"
+  ],
+  "details": {
+   "operator": "Verein Kinderkrippe Schiguna (2. Standort Tobeleggweg 9 mit 10 Plätzen)",
+   "ages": "ab vollendetem 3. Lebensmonat bis Kindergarteneintritt; Kinder unter 18 Mt. zählen 1,5 Plätze",
+   "hours": "Mo–Fr 07:00–18:00",
+   "places": "25 Krippenplätze (Kronenwiese)",
+   "price_note": "Monatspauschale nach vereinbarten Tagen; Privattarife auf Anfrage (info@schiguna.ch).",
+   "subsidised": true,
+   "email": "info@schiguna.ch",
+   "sources": [
+    "https://www.schiguna.ch/",
+    "http://www.schiguna.ch/info/",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk5165",
+   "crow_m": 616
+  },
+  "source": "https://www.schiguna.ch/"
+ },
+ {
+  "id": "kita-blumenwiese-winkelriedstrasse",
+  "name": "Kinderkrippe Blumenwiese Winkelried",
+  "cat": "kita",
+  "lat": 47.384266,
+  "lon": 8.551562,
+  "address": "Winkelriedstrasse 35, 8006 Zürich",
+  "walk_min": 12,
+  "desc_de": "Kinderkrippe mit Montessori-Ausrichtung oberhalb des Rigiplatzes, Mo–Fr 7:00–18:30; Tarif inklusive aller Mahlzeiten, Milchpulver und Windeln, keine Anmeldegebühr, Einzeltage möglich. 1 Tag/Woche CHF 651 (bis 24 Mt.) bzw. CHF 567 pro Monat; subventionierte Plätze sehr begehrt.",
+  "desc_en": "Montessori-oriented nursery above Rigiplatz, Mon–Fri 7:00–18:30; fee includes all meals, formula and nappies, no registration fee, single days possible. One day a week CHF 651 (up to 24 months) or CHF 567 per month; subsidised places in high demand.",
+  "url": "https://kitablumenwiese.ch/tarife-kita/",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "montessori",
+   "nappies-included"
+  ],
+  "details": {
+   "operator": "Kita Blumenwiese (auch Montessori-Kindergarten Rigistrasse 25)",
+   "hours": "Mo–Fr 07:00–18:30; Sa/So und Feiertage geschlossen",
+   "price": "Monatstarif ganze Tage (Faktor 4,20): 1 Tag/Woche CHF 651 (bis 24 Mt.) / 567 (ab 25 Mt.), 5 Tage CHF 3'255 / 2'835; halbe Tage ab CHF 283.50/Monat.",
+   "subsidised": true,
+   "phone": "+41 43 233 88 49",
+   "email": "info@kitablumenwiese.ch",
+   "sources": [
+    "https://kitablumenwiese.ch/tarife-kita/",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk3418",
+   "crow_m": 666
+  },
+  "source": "https://kitablumenwiese.ch/tarife-kita/"
+ },
+ {
+  "id": "kita-kikri-eth-zentrum-clausiusstrasse",
+  "name": "Kinderkrippe KIKRI ETH Zentrum",
+  "cat": "kita",
+  "lat": 47.381516,
+  "lon": 8.54475,
+  "address": "Clausiusstrasse 72, 8006 Zürich",
+  "walk_min": 13,
+  "desc_de": "Traditionsreiche Kinderkrippe im Hochschulquartier (seit 1972) für Kinder ab 4 Monaten bis zum Kindergartenalter in altersgemischten Gruppen; Teil der ETH-Kinderbetreuung. Subventionierte Plätze und Purzelbaum-Kita laut Stadt; Vergabekriterien auf der Website prüfen.",
+  "desc_en": "Long-established nursery in the university quarter (since 1972) for children from 4 months to kindergarten age in mixed-age groups; part of ETH childcare. Subsidised places and Purzelbaum Kita according to the city; check the allocation criteria on the website.",
+  "url": "https://www.kikri.ethz.ch/",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "university",
+   "purzelbaum"
+  ],
+  "details": {
+   "operator": "Stiftung Kinderkrippen KIKRI (ETH-Kinderbetreuung)",
+   "ages": "ab 4 Monaten bis Kindergartenalter",
+   "subsidised": true,
+   "purzelbaum": true,
+   "phone": "+41 44 632 48 38",
+   "email": "kikri-zentrum@kikri.ethz.ch",
+   "note": "Ob Plätze bevorzugt an ETH-Angehörige gehen, ist auf der Startseite nicht angegeben (Platzsuche-Seite prüfen).",
+   "sources": [
+    "https://www.kikri.ethz.ch/",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk129",
+   "crow_m": 730
+  },
+  "source": "https://www.kikri.ethz.ch/"
+ },
+ {
+  "id": "kita-kihz-sumatra",
+  "name": "kihz Sumatra",
+  "cat": "kita",
+  "lat": 47.381773,
+  "lon": 8.543206,
+  "address": "Sumatrastrasse 30, 8006 Zürich",
+  "walk_min": 12,
+  "desc_de": "Kita der Kinderbetreuung im Hochschulraum Zürich (kihz) beim Hochschulquartier; laut Stadt mit subventionierten Plätzen und Purzelbaum-Kita. Details auf der kihz-Website (lädt nur mit JavaScript).",
+  "desc_en": "Kita of the Zürich university childcare organisation (kihz) near the university quarter; according to the city it has subsidised places and is a Purzelbaum Kita. Details on the kihz website (JavaScript only).",
+  "url": "https://www.kihz.uzh.ch/de/kitas/kihz-sumatra.html",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "university",
+   "purzelbaum"
+  ],
+  "details": {
+   "operator": "kihz – Kinderbetreuung im Hochschulraum Zürich",
+   "subsidised": true,
+   "purzelbaum": true,
+   "phone": "+41 44 634 56 69",
+   "email": "sumatra@kihz.ethz.ch",
+   "note": "Nur über die Stadtdaten verifiziert; Vergabe evtl. mit Vorrang für Hochschulangehörige (nicht bestätigt).",
+   "city_poi_id": "kk4858",
+   "crow_m": 711
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+ },
+ {
+  "id": "kita-kimi-central-imfeldstrasse",
+  "name": "KiMi Central",
+  "cat": "kita",
+  "lat": 47.388518,
+  "lon": 8.534842,
+  "address": "Imfeldstrasse 11, 8037 Zürich",
+  "walk_min": 13,
+  "desc_de": "Kita der KIMI Krippen AG am Fuss des Letten-Quartiers, laut Stadt mit subventionierten Plätzen. Auf kimikrippen.ch war keine Standortseite auffindbar – Konditionen bei KiMi erfragen.",
+  "desc_en": "Kita of KIMI Krippen AG at the foot of the Letten area, with subsidised places according to the city. No location page could be found on kimikrippen.ch – ask KiMi for terms.",
+  "url": "https://www.kimikrippen.ch/",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "check-status"
+  ],
+  "details": {
+   "operator": "KIMI Krippen AG",
+   "subsidised": true,
+   "phone": "+41 44 350 12 50",
+   "email": "imfeld@kimikrippen.ch",
+   "note": "Stadtdaten Stand Dez. 2024; KiMi-Standortsuche lieferte keinen Treffer (Nov. 2026), Standort in KiMi-Stelleninseraten als «Central» genannt.",
+   "city_poi_id": "kk112",
+   "crow_m": 747
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+ },
+ {
+  "id": "kita-baeraetatze-scheuchzerstrasse",
+  "name": "Chinderhuus Bärätatze",
+  "cat": "kita",
+  "lat": 47.39481,
+  "lon": 8.54194,
+  "address": "Scheuchzerstrasse 189, 8057 Zürich",
+  "walk_min": 13,
+  "desc_de": "Kita mit Säuglingsgruppe (bis ca. 2 Jahre), altersgemischter Gruppe ab 2 Jahren und Waldgruppe ab 3 Jahren, Mo–Fr 7:00–18:30, ganzjährig offen (eine Woche Weihnachtsferien). Ganzer Tag CHF 140 inkl. Mittagessen; dem städtischen Subventionsmodell angeschlossen.",
+  "desc_en": "Kita with a baby group (up to about 2 years), a mixed-age group from 2 and a forest group from 3, Mon–Fri 7:00–18:30, open all year (one week Christmas closure). Full day CHF 140 incl. lunch; part of the city subsidy scheme.",
+  "url": "https://www.baeraetatze.ch/",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "forest-group",
+   "babies"
+  ],
+  "details": {
+   "operator": "Chinderhuus Bärätatze",
+   "ages": "Säuglingsgruppe bis ca. 2 J.; altersgemischte Gruppe ab 2 J.; Waldgruppe ab 3 J.; Waldspielgruppe; Mittagshort für ältere Kinder",
+   "hours": "Mo–Fr 07:00–18:30 (bringen bis 8:45, abholen ab 17:00); Betriebsferien 1 Woche Weihnachten–Neujahr, Feiertage, Freitag nach Auffahrt",
+   "price": "Ganzer Tag 7:00–18:30 inkl. Essen CHF 140 (1×/Woche CHF 3'640 pro Semester); 6 Std. inkl. Essen CHF 96; 5 Std. ohne Essen CHF 75.",
+   "subsidised": true,
+   "phone": "+41 44 361 06 06",
+   "sources": [
+    "https://www.baeraetatze.ch/",
+    "https://www.baeraetatze.ch/die-krippe/oeffnungszeiten/",
+    "https://www.baeraetatze.ch/angebot/preise-betreuungsvarianten/",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk1434",
+   "crow_m": 778
+  },
+  "source": "https://www.baeraetatze.ch/"
+ },
+ {
+  "id": "kita-murmel-scheuchzerstrasse",
+  "name": "Kinderkrippe Murmel",
+  "cat": "kita",
+  "lat": 47.394957,
+  "lon": 8.542579,
+  "address": "Scheuchzerstrasse 186, 8057 Zürich",
+  "walk_min": 14,
+  "desc_de": "Eine der ältesten Krippen im Quartier, Mo–Fr 7:00–18:30, nutzt Irchelpark und Wald rege. Ganzer Tag CHF 160 (bis 18 Mt.) bzw. CHF 140 (ab 19 Mt.), halber Tag mit Essen CHF 115/100; subventionierte Plätze.",
+  "desc_en": "One of the oldest nurseries in the neighbourhood, Mon–Fri 7:00–18:30, makes much use of Irchelpark and the forest. Full day CHF 160 (up to 18 months) or CHF 140 (from 19 months), half day with lunch CHF 115/100; subsidised places.",
+  "url": "https://kita-murmel.ch/",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "nature"
+  ],
+  "details": {
+   "operator": "KiTa Murmel GmbH",
+   "hours": "Mo–Fr 07:00–18:30; Bringen 7:00–8:45, Abholen 16:30–18:30 (Zwischenzeiten 11:30–12:00, 13:30–14:00); geschlossen 1 Sommerferienwoche, Weihnachten–Neujahr, Feiertage",
+   "price": "Halber Tag CHF 80/70, halber Tag mit Essen CHF 115/100, ganzer Tag mit Essen CHF 160/140 (bis 18 Mt. / ab 19 Mt.).",
+   "subsidised": true,
+   "phone": "+41 44 362 64 84",
+   "email": "info@kita-murmel.ch",
+   "sources": [
+    "https://kita-murmel.ch/",
+    "https://kita-murmel.ch/angebot",
+    "https://kita-murmel.ch/preise",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk2836",
+   "crow_m": 782
+  },
+  "source": "https://kita-murmel.ch/"
+ },
+ {
+  "id": "kita-cilia-seminarstrasse",
+  "name": "Krippe Cilia",
+  "cat": "kita",
+  "lat": 47.392881,
+  "lon": 8.53676,
+  "address": "Seminarstrasse 28, 8006 Zürich",
+  "walk_min": 14,
+  "desc_de": "Kita beim Schaffhauserplatz mit zwei Baby- und zwei Kindergruppen und frühem Start: offen 6:30–18:30. Seit 24 Jahren in Betrieb, Eltern-App; subventionierte Plätze laut Stadt.",
+  "desc_en": "Kita near Schaffhauserplatz with two baby and two toddler groups and an early start: open 6:30–18:30. Running for 24 years, parent app; subsidised places according to the city.",
+  "url": "https://www.cilia.ch/",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "early-opening",
+   "babies"
+  ],
+  "details": {
+   "operator": "Krippe Cilia GmbH",
+   "hours": "06:30–18:30",
+   "groups": "2 Babygruppen, 2 Kindergruppen",
+   "subsidised": true,
+   "phone": "+41 77 525 17 08",
+   "email": "info@cilia.ch",
+   "sources": [
+    "https://www.cilia.ch/",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk13301",
+   "crow_m": 804
+  },
+  "source": "https://www.cilia.ch/"
+ },
+ {
+  "id": "kita-gfz-10-roetel",
+  "name": "GFZ Kita 10 Rötel",
+  "cat": "kita",
+  "lat": 47.392487,
+  "lon": 8.534646,
+  "address": "Rötelstrasse 53, 8037 Zürich",
+  "walk_min": 16,
+  "desc_de": "Kita der gemeinnützigen Stiftung GFZ in einem zweistöckigen Bungalow beim Schaffhauserplatz, mit geschütztem Innenhof (Bobbycar, Trotti) und parkähnlichem Garten; 35,5 Plätze in drei altersgemischten Gruppen ab 3 Monaten, Mo–Fr 7:00–18:30. Subventionierte Plätze; Vollkosten 1 Tag/Woche CHF 700 (bis 24 Mt.) bzw. CHF 620 pro Monat.",
+  "desc_en": "Kita of the non-profit GFZ foundation in a two-storey bungalow by Schaffhauserplatz, with a sheltered courtyard (ride-ons, scooters) and a park-like garden; 35.5 places in three mixed-age groups from 3 months, Mon–Fri 7:00–18:30. Subsidised places; full cost one day a week CHF 700 (up to 24 months) or CHF 620 per month.",
+  "url": "https://gfz-zh.ch/kita/kita-10-roetel/",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "garden",
+   "non-profit",
+   "inclusive"
+  ],
+  "details": {
+   "operator": "Stiftung GFZ (Gemeinnütziger Frauenverein Zürich)",
+   "ages": "ab 3 Monaten bis Kindergarteneintritt; 35,5 Plätze, 3 altersgemischte Gruppen",
+   "hours": "Mo–Fr 07:00–18:30",
+   "price": "GFZ-Tarifblatt (verlinkt als «Tarife 2026 und 2027»): 1 Tag/Woche CHF 700 / 620 pro Monat, 5 Tage CHF 3'300 / 2'900 (Spalten vermutlich bis 24 Mt. / ab 25 Mt.); Einzeltag CHF 175 / 155.",
+   "subsidised": true,
+   "inclusion": "Heilpädagogische Fachbegleitung; Kinder mit besonderen Bedürfnissen willkommen.",
+   "phone": "+41 44 368 55 37",
+   "email": "info@gfz-zh.ch",
+   "sources": [
+    "https://gfz-zh.ch/kita/kita-10-roetel/",
+    "https://gfz-zh.ch/app/uploads/2024/09/Kita_Tarife_2025.pdf",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk053",
+   "crow_m": 904
+  },
+  "source": "https://gfz-zh.ch/kita/kita-10-roetel/"
+ },
+ {
+  "id": "kita-unsere-champions-limmatplatz",
+  "name": "Unsere Champions Kita Limmatplatz",
+  "cat": "kita",
+  "lat": 47.383879,
+  "lon": 8.533634,
+  "address": "Ackerstrasse 63, 8005 Zürich",
+  "walk_min": 17,
+  "desc_de": "Kita über mehrere Etagen am Limmatplatz für Kinder ab 3 Monaten bis Kindergarteneintritt, mit geschütztem Aussenspielplatz; Platzspitz-Park gleich in der Nähe. Tarife 2027 online, subventionierte Plätze (ohne Einschreibegebühr).",
+  "desc_en": "Kita on several floors at Limmatplatz for children from 3 months to kindergarten entry, with a sheltered outdoor playground; Platzspitz park close by. 2027 fees online, subsidised places (no enrolment fee).",
+  "url": "https://www.unsere-champions.ch/limmatplatz",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "outdoor-play"
+  ],
+  "details": {
+   "operator": "Unsere Champions",
+   "ages": "3 Monate bis Kindergarteneintritt",
+   "price_note": "Tarifliste 2027 auf der Standortseite (Ansätze zwischen CHF 68 und 157 je nach Alter/Betreuungsumfang); bei subventionierten Plätzen entfällt die Einschreibegebühr.",
+   "subsidised": true,
+   "phone": "+41 44 276 46 48",
+   "sources": [
+    "https://www.unsere-champions.ch/limmatplatz",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk059",
+   "crow_m": 958
+  },
+  "source": "https://www.unsere-champions.ch/limmatplatz"
+ },
+ {
+  "id": "kita-ringelrosen-roetelstrasse",
+  "name": "Kinderhaus Ringelrosen Rötelstrasse",
+  "cat": "kita",
+  "lat": 47.395657,
+  "lon": 8.532313,
+  "address": "Rötelstrasse 96, 8057 Zürich",
+  "walk_min": 22,
+  "desc_de": "Standort der Gruppen Chätzli, Blitz & Eichhörnli des Kinderhauses Ringelrosen (vier Standorte in Wipkingen/Unterstrass); Kinder von 3 Monaten bis 4,5 Jahren, ganzjährig 7:00–18:30 (ausser Weihnachten–Neujahr), grosser Garten. Subventionierte Plätze laut Stadt.",
+  "desc_en": "Site of the Chätzli, Blitz & Eichhörnli groups of Kinderhaus Ringelrosen (four sites in Wipkingen/Unterstrass); children from 3 months to 4.5 years, open all year 7:00–18:30 (except Christmas–New Year), large garden. Subsidised places according to the city.",
+  "url": "https://ringelrosen.ch/gruppen/chaetzli-und-blitz/",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "garden"
+  ],
+  "details": {
+   "operator": "Kinderhaus Ringelrosen",
+   "ages": "3 Monate bis 4,5 Jahre",
+   "hours": "ganzjährig 07:00–18:30, ausgenommen Weihnachten–Neujahr",
+   "languages": "Website DE/EN/FR; Betreuungssprache nicht angegeben",
+   "subsidised": true,
+   "phone": "+41 44 350 61 66",
+   "email": "info@ringelrosen.ch",
+   "sources": [
+    "https://www.ringelrosen.ch/",
+    "https://ringelrosen.ch/angebot/blockzeiten-und-preise/",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk155",
+   "crow_m": 1259
+  },
+  "source": "https://www.ringelrosen.ch/"
+ },
+ {
+  "id": "kita-irchelkrippe-buelachstrasse",
+  "name": "Irchelkrippe",
+  "cat": "kita",
+  "lat": 47.40136,
+  "lon": 8.547441,
+  "address": "Bülachstrasse 13, 8057 Zürich",
+  "walk_min": 26,
+  "desc_de": "Krippe am Nordrand des Irchelparks, laut Stadt mit subventionierten Plätzen; am gleichen Ort ein Hort des Irchelkindergartens. Details auf irchelkrippe.ch.",
+  "desc_en": "Nursery on the northern edge of Irchelpark, with subsidised places according to the city; an after-school club of the Irchel kindergarten at the same address. Details on irchelkrippe.ch.",
+  "url": "https://irchelkrippe.ch/",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "irchelpark"
+  ],
+  "details": {
+   "subsidised": true,
+   "phone": "+41 44 311 67 78",
+   "email": "krippenleitung@irchelkrippe.ch",
+   "note": "Adresse und Telefon auf der Startseite bestätigt; Alter, Zeiten und Preise nicht geprüft.",
+   "sources": [
+    "https://irchelkrippe.ch/",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk037",
+   "crow_m": 1491
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+ },
+ {
+  "id": "kita-gfz-6a-bgf-anna-heer-strasse",
+  "name": "GFZ Kita 6a BGF",
+  "cat": "kita",
+  "lat": 47.399429,
+  "lon": 8.540605,
+  "address": "Anna-Heer-Strasse 4, 8057 Zürich",
+  "walk_min": 23,
+  "desc_de": "GFZ-Kita «Unterstrass / Milchbuck» an der Anna-Heer-Strasse beim Irchel, laut Stadt mit subventionierten Plätzen; GFZ-Tarife wie Kita 10 Rötel.",
+  "desc_en": "GFZ Kita 'Unterstrass / Milchbuck' on Anna-Heer-Strasse near Irchel, with subsidised places according to the city; GFZ fees as for Kita 10 Rötel.",
+  "url": "https://gfz-zh.ch/kita/kita-6a-bgf/",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "non-profit"
+  ],
+  "details": {
+   "operator": "Stiftung GFZ",
+   "subsidised": true,
+   "phone": "+41 44 527 80 05",
+   "email": "kita6a-bgf@gfz-zh.ch",
+   "note": "Auf gfz-zh.ch als «GFZ Kita 6a BGF – Unterstrass / Milchbuck» gelistet; Standortdetails nicht geprüft.",
+   "sources": [
+    "https://gfz-zh.ch/kindertagesstaetten",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk7141",
+   "crow_m": 1300
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+ },
+ {
+  "id": "kita-buesi-wipkingen-roetelstrasse",
+  "name": "Kita Büsi Wipkingen",
+  "cat": "kita",
+  "lat": 47.393549,
+  "lon": 8.533595,
+  "address": "Rötelstrasse 69, 8037 Zürich",
+  "walk_min": 18,
+  "desc_de": "Kita an der Rötelstrasse, im städtischen Kita-Verzeichnis mit subventionierten Plätzen geführt. Website (kita-buesi.ch) blockierte den Abruf – Details telefonisch.",
+  "desc_en": "Kita on Rötelstrasse, listed in the city Kita register with subsidised places. Website (kita-buesi.ch) blocked access – ask by phone.",
+  "url": "https://www.stadt-zuerich.ch/kinderbetreuung",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised"
+  ],
+  "details": {
+   "subsidised": true,
+   "phone": "+41 76 330 93 65",
+   "email": "info@kita-buesi.ch",
+   "note": "Nur über die Stadtdaten verifiziert (Stand Dez. 2024).",
+   "city_poi_id": "kk13982",
+   "crow_m": 1036
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+ },
+ {
+  "id": "kita-magic-fish-hochstrasse",
+  "name": "KiTa Magic Fish",
+  "cat": "kita",
+  "lat": 47.37897,
+  "lon": 8.554126,
+  "address": "Hochstrasse 48, 8044 Zürich",
+  "walk_min": 21,
+  "desc_de": "Familiäre Kita mit einer Kindergruppe in Fluntern, mehrsprachiges Team (Deutsch, Französisch, Spanisch) für Kinder ab 3 Monaten bis Kindergarteneintritt, halbe und ganze Tage. Subventionierte Plätze laut Stadt.",
+  "desc_en": "Small, family-style Kita with one group in Fluntern, multilingual team (German, French, Spanish) for children from 3 months to kindergarten entry, half and full days. Subsidised places according to the city.",
+  "url": "https://kinderkrippemagicfish.ch/",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "trilingual",
+   "french",
+   "spanish"
+  ],
+  "details": {
+   "ages": "ab 3 Monaten bis Kindergarteneintritt",
+   "languages": "Deutsch, Französisch, Spanisch",
+   "subsidised": true,
+   "phone": "+41 43 244 91 80",
+   "email": "info@kinderkrippemagicfish.ch",
+   "note": "Tram 9/10 bis Haldenbachstrasse.",
+   "sources": [
+    "https://kinderkrippemagicfish.ch/",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk3560",
+   "crow_m": 1235
+  },
+  "source": "https://kinderkrippemagicfish.ch/"
+ },
+ {
+  "id": "kita-am-wasser-landenbergstrasse",
+  "name": "Kindertagesstätte am Wasser",
+  "cat": "kita",
+  "lat": 47.391945,
+  "lon": 8.528184,
+  "address": "Landenbergstrasse 10, 8037 Zürich",
+  "walk_min": 23,
+  "desc_de": "2003 von Eltern gegründete Kita in Wipkingen nahe der Limmat, mit hellen Räumen, Werkatelier und Garten. Subventionierte Plätze laut Stadt.",
+  "desc_en": "Kita in Wipkingen near the Limmat, founded by parents in 2003, with bright rooms, a craft workshop and a garden. Subsidised places according to the city.",
+  "url": "https://www.kitaamwasser.ch/",
+  "tags": [
+   "family",
+   "kita",
+   "subsidised",
+   "parent-run",
+   "garden"
+  ],
+  "details": {
+   "subsidised": true,
+   "phone": "+41 43 321 30 04",
+   "email": "info@kitaamwasser.ch",
+   "sources": [
+    "https://www.kitaamwasser.ch/",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk068",
+   "crow_m": 1318
+  },
+  "source": "https://www.kitaamwasser.ch/"
+ },
+ {
+  "id": "kindergarten-scheuchzerstrasse-riedtli",
+  "name": "Kindergärten Scheuchzerstrasse (Schule Riedtli)",
+  "cat": "kindergarten",
+  "lat": 47.388369,
+  "lon": 8.543936,
+  "address": "Scheuchzerstrasse 85, 8006 Zürich",
+  "walk_min": 1,
+  "desc_de": "Doppelkindergarten der Tagesschule Riedtli (Cluster Indigo) gleich bei der Siedlung, kaum 100 m von der Kinkelstrasse – der wahrscheinlich nächstgelegene Kindergarten. Zuteilung durch die Schule nach Wohnadresse.",
+  "desc_en": "Double kindergarten of the Riedtli day school (Cluster Indigo) right by the estate, barely 100 m from Kinkelstrasse – probably the nearest kindergarten. Placement by the school according to home address.",
+  "url": "https://www.stadt-zuerich.ch/schulen/de/riedtli/ueberuns/standorte/kindergaerten.html",
+  "tags": [
+   "family",
+   "kindergarten",
+   "city-run",
+   "tagesschule",
+   "nearest"
+  ],
+  "details": {
+   "operator": "Stadt Zürich, Schule Riedtli (Schulkreis Waidberg)",
+   "classes": "2 Kindergartenklassen (Scheuchzerstrasse 1 und 2)",
+   "phone": "+41 44 413 74 18 (KG 1), +41 44 413 74 37 (KG 2)",
+   "ages": "Kindergarten ab 4 Jahren",
+   "city_poi_ids": [
+    "ki431",
+    "ki051"
+   ],
+   "note": "Zuteilung durch die Schule nach Wohnadresse; Kindergarteneintritt im August nach dem 4. Geburtstag (Stichtag 31. Juli).",
+   "sources": [
+    "https://www.stadt-zuerich.ch/schulen/de/riedtli/ueberuns/standorte/kindergaerten.html",
+    "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+   ],
+   "city_poi_id": "ki051",
+   "crow_m": 69
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+ },
+ {
+  "id": "kindergarten-zanggerweg-riedtli",
+  "name": "Kindergärten Zanggerweg (Schule Riedtli)",
+  "cat": "kindergarten",
+  "lat": 47.390999,
+  "lon": 8.544178,
+  "address": "Zanggerweg 40, 8006 Zürich",
+  "walk_min": 6,
+  "desc_de": "Zweiter Doppelkindergarten der Tagesschule Riedtli (Cluster Violett) nördlich der Siedlung bei der Letzistrasse.",
+  "desc_en": "Second double kindergarten of the Riedtli day school (Cluster Violett) north of the estate near Letzistrasse.",
+  "url": "https://www.stadt-zuerich.ch/schulen/de/riedtli/ueberuns/standorte/kindergaerten.html",
+  "tags": [
+   "family",
+   "kindergarten",
+   "city-run",
+   "tagesschule"
+  ],
+  "details": {
+   "operator": "Stadt Zürich, Schule Riedtli (Schulkreis Waidberg)",
+   "classes": "2 Kindergartenklassen (Zanggerweg 1 und 2)",
+   "phone": "+41 44 413 74 36 (KG 1), +41 44 413 74 33 (KG 2)",
+   "ages": "Kindergarten ab 4 Jahren",
+   "city_poi_ids": [
+    "ki432",
+    "ki111"
+   ],
+   "note": "Zuteilung durch die Schule nach Wohnadresse; Kindergarteneintritt im August nach dem 4. Geburtstag (Stichtag 31. Juli).",
+   "sources": [
+    "https://www.stadt-zuerich.ch/schulen/de/riedtli/ueberuns/standorte/kindergaerten.html",
+    "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+   ],
+   "city_poi_id": "ki432",
+   "crow_m": 328
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+ },
+ {
+  "id": "kindergarten-turner",
+  "name": "Kindergarten Turner (Schule Weinberg-Turner)",
+  "cat": "kindergarten",
+  "lat": 47.388124,
+  "lon": 8.541633,
+  "address": "Turnerstrasse 51, 8006 Zürich",
+  "walk_min": 4,
+  "desc_de": "Kindergarten der Schule Weinberg-Turner beim Schulhaus Turner, rund 250 m westlich der Siedlung.",
+  "desc_en": "Kindergarten of the Weinberg-Turner school next to the Turner schoolhouse, about 250 m west of the estate.",
+  "url": "https://www.stadt-zuerich.ch/schulen/de/weinberg/ueberuns/standorte/kindergaerten.html",
+  "tags": [
+   "family",
+   "kindergarten",
+   "city-run"
+  ],
+  "details": {
+   "operator": "Stadt Zürich, Schule Weinberg-Turner (Schulkreis Waidberg)",
+   "phone": "+41 44 413 27 05",
+   "ages": "Kindergarten ab 4 Jahren",
+   "note": "Zuteilung durch die Schule nach Wohnadresse; Kindergarteneintritt im August nach dem 4. Geburtstag (Stichtag 31. Juli).",
+   "sources": [
+    "https://www.stadt-zuerich.ch/schulen/de/weinberg/ueberuns/standorte/kindergaerten.html",
+    "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+   ],
+   "city_poi_id": "ki524",
+   "crow_m": 234
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+ },
+ {
+  "id": "kindergarten-beckenhof",
+  "name": "Kindergarten Beckenhof (Schule Weinberg-Turner)",
+  "cat": "kindergarten",
+  "lat": 47.385424,
+  "lon": 8.541014,
+  "address": "Beckenhofstrasse 37, 8006 Zürich",
+  "walk_min": 7,
+  "desc_de": "Kindergarten der Schule Weinberg-Turner an der Beckenhofstrasse, neben dem 2026 erneuerten Beckenhof-Park.",
+  "desc_en": "Kindergarten of the Weinberg-Turner school on Beckenhofstrasse, next to Beckenhof park (renewed in 2026).",
+  "url": "https://www.stadt-zuerich.ch/schulen/de/weinberg/ueberuns/standorte/kindergaerten.html",
+  "tags": [
+   "family",
+   "kindergarten",
+   "city-run"
+  ],
+  "details": {
+   "operator": "Stadt Zürich, Schule Weinberg-Turner (Schulkreis Waidberg)",
+   "phone": "+41 44 413 74 51",
+   "ages": "Kindergarten ab 4 Jahren",
+   "note": "Zuteilung durch die Schule nach Wohnadresse; Kindergarteneintritt im August nach dem 4. Geburtstag (Stichtag 31. Juli).",
+   "sources": [
+    "https://www.stadt-zuerich.ch/schulen/de/weinberg/ueberuns/standorte/kindergaerten.html",
+    "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+   ],
+   "city_poi_id": "ki031",
+   "crow_m": 407
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+ },
+ {
+  "id": "kindergarten-kronenwiese",
+  "name": "Kindergärten Kronenwiese (Schule Weinberg-Turner)",
+  "cat": "kindergarten",
+  "lat": 47.387163,
+  "lon": 8.536389,
+  "address": "Kronenstrasse 19, 8006 Zürich",
+  "walk_min": 11,
+  "desc_de": "Zwei Kindergärten der Schule Weinberg-Turner in der städtischen Siedlung Kronenwiese, nahe GZ Schindlergut.",
+  "desc_en": "Two kindergartens of the Weinberg-Turner school in the city-owned Kronenwiese estate, near GZ Schindlergut.",
+  "url": "https://www.stadt-zuerich.ch/schulen/de/weinberg/ueberuns/standorte/kindergaerten.html",
+  "tags": [
+   "family",
+   "kindergarten",
+   "city-run"
+  ],
+  "details": {
+   "operator": "Stadt Zürich, Schule Weinberg-Turner (Schulkreis Waidberg)",
+   "classes": "Kronenwiese 1 und 2",
+   "phone": "+41 44 413 73 05 / +41 44 413 73 06",
+   "ages": "Kindergarten ab 4 Jahren",
+   "city_poi_ids": [
+    "ki328",
+    "ki334"
+   ],
+   "note": "Zuteilung durch die Schule nach Wohnadresse; Kindergarteneintritt im August nach dem 4. Geburtstag (Stichtag 31. Juli).",
+   "sources": [
+    "https://www.stadt-zuerich.ch/schulen/de/weinberg/ueberuns/standorte/kindergaerten.html",
+    "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+   ],
+   "city_poi_id": "ki328",
+   "crow_m": 637
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+ },
+ {
+  "id": "kindergarten-ottikerweg-scherr",
+  "name": "Kindergärten Ottikerweg (Schule Scherr)",
+  "cat": "kindergarten",
+  "lat": 47.386203,
+  "lon": 8.547665,
+  "address": "Ottikerweg 9, 8006 Zürich",
+  "walk_min": 5,
+  "desc_de": "Drei Kindergärten der Tagesschule Scherr an der Stolzewiese, rund 300 m südöstlich – mit dem grossen Stolzewiese-Spielplatz vor der Tür.",
+  "desc_en": "Three kindergartens of the Scherr day school at Stolzewiese, about 300 m south-east – with the big Stolzewiese playground on the doorstep.",
+  "url": "https://www.stadt-zuerich.ch/schulen/de/scherr/ueberuns/standorte/kindergaerten.html",
+  "tags": [
+   "family",
+   "kindergarten",
+   "city-run",
+   "tagesschule"
+  ],
+  "details": {
+   "operator": "Stadt Zürich, Schule Scherr (Schulkreis Waidberg)",
+   "classes": "Ottikerweg 1, 2 und 3",
+   "phone": "+41 44 413 74 24 / 74 45 / 74 46",
+   "ages": "Kindergarten ab 4 Jahren",
+   "city_poi_ids": [
+    "ki418",
+    "ki050",
+    "ki183"
+   ],
+   "note": "Zuteilung durch die Schule nach Wohnadresse; Kindergarteneintritt im August nach dem 4. Geburtstag (Stichtag 31. Juli).",
+   "sources": [
+    "https://www.stadt-zuerich.ch/schulen/de/scherr/ueberuns/standorte/kindergaerten.html",
+    "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+   ],
+   "city_poi_id": "ki418",
+   "crow_m": 303
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+ },
+ {
+  "id": "kindergarten-stapferstrasse-scherr",
+  "name": "Kindergarten Stapferstrasse (Schule Scherr)",
+  "cat": "kindergarten",
+  "lat": 47.385195,
+  "lon": 8.54626,
+  "address": "Stapferstrasse 45, 8006 Zürich",
+  "walk_min": 6,
+  "desc_de": "Vierter Kindergarten der Tagesschule Scherr, oberhalb des Rigiplatzes.",
+  "desc_en": "Fourth kindergarten of the Scherr day school, above Rigiplatz.",
+  "url": "https://www.stadt-zuerich.ch/schulen/de/scherr/ueberuns/standorte/kindergaerten.html",
+  "tags": [
+   "family",
+   "kindergarten",
+   "city-run",
+   "tagesschule"
+  ],
+  "details": {
+   "operator": "Stadt Zürich, Schule Scherr (Schulkreis Waidberg)",
+   "phone": "+41 44 413 74 68",
+   "ages": "Kindergarten ab 4 Jahren",
+   "note": "Zuteilung durch die Schule nach Wohnadresse; Kindergarteneintritt im August nach dem 4. Geburtstag (Stichtag 31. Juli).",
+   "sources": [
+    "https://www.stadt-zuerich.ch/schulen/de/scherr/ueberuns/standorte/kindergaerten.html",
+    "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+   ],
+   "city_poi_id": "ki518",
+   "crow_m": 340
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+ },
+ {
+  "id": "kindergarten-montessori-sonne-winkelriedstrasse",
+  "name": "Montessori Kindergarten Sonne (privat)",
+  "cat": "kindergarten",
+  "lat": 47.383329,
+  "lon": 8.548867,
+  "address": "Winkelriedstrasse 4, 8006 Zürich",
+  "walk_min": 11,
+  "desc_de": "Privater Montessori-Kindergarten oberhalb des Universitätsspitals, 7:15–18:15 Uhr, mit Wald- und Kulturtagen, Deutsch als Zweitsprache und Englischunterricht; Tarife inkl. 7 Wochen Ferienbetreuung. Kostenpflichtige Alternative zum Volksschul-Kindergarten.",
+  "desc_en": "Private Montessori kindergarten above the University Hospital, 7:15–18:15, with forest and culture days, German as a second language and English lessons; fees include 7 weeks of holiday care. A fee-paying alternative to the public kindergarten.",
+  "url": "https://kindergarten-montessori.ch/",
+  "tags": [
+   "family",
+   "kindergarten",
+   "private",
+   "montessori",
+   "english",
+   "forest-days"
+  ],
+  "details": {
+   "operator": "Sonne Montessori Kindergarten",
+   "hours": "07:15–18:15",
+   "phone": "+41 44 361 15 72",
+   "email": "info@kindergarten-montessori.ch",
+   "note": "Privatkindergarten (kein subventionierter Kita-Platz laut Stadtdaten).",
+   "sources": [
+    "https://kindergarten-montessori.ch/",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk9621",
+   "crow_m": 613
+  },
+  "source": "https://kindergarten-montessori.ch/"
+ },
+ {
+  "id": "kindergarten-montessori-blumenwiese-rigistrasse",
+  "name": "Montessori-Kindergarten Blumenwiese (privat)",
+  "cat": "kindergarten",
+  "lat": 47.385102,
+  "lon": 8.549712,
+  "address": "Rigistrasse 25, 8006 Zürich",
+  "walk_min": 9,
+  "desc_de": "Privater Montessori-Kindergarten der Kita Blumenwiese, lizenziert von der Assoziation Montessori Schweiz und von der Stadt als Privatkindergarten bewilligt; Mo–Fr 7:30–18:30. Am gleichen Ort führt die Stadt einen «Hort Blumenwiese» mit subventionierten Plätzen.",
+  "desc_en": "Private Montessori kindergarten of Kita Blumenwiese, licensed by the Swiss Montessori Association and approved by the city as a private kindergarten; Mon–Fri 7:30–18:30. The city lists a 'Hort Blumenwiese' with subsidised places at the same address.",
+  "url": "https://kitablumenwiese.ch/tarife-kiga/",
+  "tags": [
+   "family",
+   "kindergarten",
+   "private",
+   "montessori",
+   "subsidised"
+  ],
+  "details": {
+   "operator": "Kita Blumenwiese",
+   "hours": "Mo–Fr 07:30–18:30",
+   "phone": "+41 43 233 88 49",
+   "email": "info@kitablumenwiese.ch",
+   "sources": [
+    "https://kitablumenwiese.ch/tarife-kita/",
+    "https://data.stadt-zuerich.ch/dataset/geo_kindertagesstaette"
+   ],
+   "city_poi_id": "kk7200",
+   "crow_m": 500
+  },
+  "source": "https://kitablumenwiese.ch/"
+ },
+ {
+  "id": "schule-riedtli",
+  "name": "Tagesschule Riedtli",
+  "cat": "school",
+  "lat": 47.388814,
+  "lon": 8.542806,
+  "address": "Riedtlistrasse 41, 8006 Zürich",
+  "walk_min": 3,
+  "desc_de": "Primarschule gleich neben der Siedlung, seit 2025 im neuen Schulhaus und als Tagesschule geführt (Unterricht und Betreuung zusammen); rund zehn Regelklassen in jahrgangsgemischten Clustern plus drei Klassen der Heilpädagogischen Schule, Schulschwimmanlage auf dem Areal.",
+  "desc_en": "Primary school right next to the estate, in a new building since 2025 and run as a day school (lessons and care combined); about ten mainstream classes in mixed-age clusters plus three special-needs (HPS) classes, school pool on site.",
+  "url": "https://www.stadt-zuerich.ch/schulen/de/riedtli.html",
+  "tags": [
+   "family",
+   "school",
+   "primary",
+   "tagesschule",
+   "nearest"
+  ],
+  "details": {
+   "operator": "Stadt Zürich, Schulkreis Waidberg",
+   "phone": "+41 44 413 38 70",
+   "level": "Kindergarten (2 Doppelkindergärten) und Primarstufe",
+   "note": "Schulseite: «Im Schulhaus Riedtli werden ab dem Schuljahr 2025/2026 acht Klassen der Primarstufe in vier jahrgangsdurchmischten Clustern unterrichtet und betreut.» Zuteilung durch den Schulkreis nach Wohnadresse.",
+   "sources": [
+    "https://www.stadt-zuerich.ch/schulen/de/riedtli/ueberuns.html",
+    "https://www.stadt-zuerich.ch/schulen/de/riedtli/ueberuns/standorte/schulhaus.html",
+    "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+   ],
+   "city_poi_id": "vo292",
+   "crow_m": 167
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+ },
+ {
+  "id": "schulhaus-turner",
+  "name": "Schulhaus Turner (Schule Weinberg-Turner)",
+  "cat": "school",
+  "lat": 47.387832,
+  "lon": 8.541857,
+  "address": "Turnerstrasse 49, 8006 Zürich",
+  "walk_min": 4,
+  "desc_de": "Eines der zwei Schulhäuser der Schule Weinberg-Turner (rund 350 Kinder, 4 Kindergärten, 4 Horte, Turnhalle mit Aussenanlage), knapp 250 m westlich der Siedlung.",
+  "desc_en": "One of the two schoolhouses of the Weinberg-Turner school (about 350 children, 4 kindergartens, 4 after-school clubs, gym with outdoor area), just under 250 m west of the estate.",
+  "url": "https://www.stadt-zuerich.ch/schulen/de/weinberg.html",
+  "tags": [
+   "family",
+   "school",
+   "primary"
+  ],
+  "details": {
+   "operator": "Stadt Zürich, Schulkreis Waidberg",
+   "phone": "+41 44 413 27 00",
+   "sources": [
+    "https://www.stadt-zuerich.ch/schulen/de/weinberg/ueberuns/portrait.html",
+    "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+   ],
+   "city_poi_id": "vo309",
+   "crow_m": 219
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+ },
+ {
+  "id": "schulhaus-weinberg",
+  "name": "Schulhaus Weinberg (Schule Weinberg-Turner)",
+  "cat": "school",
+  "lat": 47.389276,
+  "lon": 8.539977,
+  "address": "Weinbergstrasse 143, 8006 Zürich",
+  "walk_min": 7,
+  "desc_de": "Zweites Schulhaus der Schule Weinberg-Turner an der Weinbergstrasse; Schulleitung und Elternrat (elternratweinbergturner.ch) für beide Häuser.",
+  "desc_en": "Second schoolhouse of the Weinberg-Turner school on Weinbergstrasse; one school management and parents' council (elternratweinbergturner.ch) for both buildings.",
+  "url": "https://www.stadt-zuerich.ch/schulen/de/weinberg.html",
+  "tags": [
+   "family",
+   "school",
+   "primary"
+  ],
+  "details": {
+   "operator": "Stadt Zürich, Schulkreis Waidberg",
+   "phone": "+41 44 413 27 27",
+   "sources": [
+    "https://www.stadt-zuerich.ch/schulen/de/weinberg/ueberuns.html",
+    "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+   ],
+   "city_poi_id": "vo004",
+   "crow_m": 382
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+ },
+ {
+  "id": "schule-scherr",
+  "name": "Tagesschule Scherr",
+  "cat": "school",
+  "lat": 47.384374,
+  "lon": 8.546609,
+  "address": "Stapferstrasse 54, 8006 Zürich",
+  "walk_min": 8,
+  "desc_de": "Öffentliche Primarschule in Oberstrass, seit August 2020 Tagesschule; vier Kindergärten, fünf Betreuungsstandorte und zwölf Primarklassen mit über 330 Kindern (Unterstufe im Altbau, Mittelstufe im Neubau).",
+  "desc_en": "Public primary school in Oberstrass, a day school since August 2020; four kindergartens, five care sites and twelve primary classes with over 330 children (lower grades in the old building, middle grades in the new one).",
+  "url": "https://www.stadt-zuerich.ch/schulen/de/scherr.html",
+  "tags": [
+   "family",
+   "school",
+   "primary",
+   "tagesschule"
+  ],
+  "details": {
+   "operator": "Stadt Zürich, Schulkreis Waidberg",
+   "phone": "+41 44 413 04 00",
+   "sources": [
+    "https://www.stadt-zuerich.ch/schulen/de/scherr/ueberuns/portrait.html",
+    "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+   ],
+   "city_poi_id": "vo300",
+   "crow_m": 435
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+ },
+ {
+  "id": "schule-milchbuck",
+  "name": "Schule Milchbuck",
+  "cat": "school",
+  "lat": 47.396081,
+  "lon": 8.538666,
+  "address": "Guggachstrasse 11, 8057 Zürich",
+  "walk_min": 17,
+  "desc_de": "Grosse Schuleinheit mit Kindergarten, Primar- und Sekundarstufe unter einem Dach (34 Klassen, ca. 730 Kinder und Jugendliche, davon 9 Sek-Klassen); Umweltschule. Nächstgelegene Sekundarschule im Schulkreis Waidberg.",
+  "desc_en": "Large school unit with kindergarten, primary and lower-secondary levels under one roof (34 classes, about 730 pupils, 9 of them secondary classes); 'environment school'. Nearest lower-secondary school in the Waidberg school district.",
+  "url": "https://www.stadt-zuerich.ch/schulen/de/milchbuck.html",
+  "tags": [
+   "family",
+   "school",
+   "primary",
+   "secondary"
+  ],
+  "details": {
+   "operator": "Stadt Zürich, Schulkreis Waidberg",
+   "phone": "+41 44 413 27 77",
+   "level": "6 KG-Klassen, 9 Unterstufe, 10 Mittelstufe, 9 Sekundarstufe (gemischte Abteilungen)",
+   "note": "Welche Sekundarschule zugeteilt wird, entscheidet der Schulkreis Waidberg; «nächstgelegen» bezieht sich nur auf die Stadtdaten im Umkreis.",
+   "sources": [
+    "https://www.stadt-zuerich.ch/schulen/de/milchbuck/ueberuns/portrait.html",
+    "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+   ],
+   "city_poi_id": "vo281",
+   "crow_m": 1000
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+ },
+ {
+  "id": "schule-hutten",
+  "name": "Tagesschule Hutten",
+  "cat": "school",
+  "lat": 47.3823,
+  "lon": 8.549011,
+  "address": "Huttenstrasse 14, 8006 Zürich",
+  "walk_min": 12,
+  "desc_de": "Primarschule im Hochschulquartier (Oberstrass), als Tagesschule geführt; Kindergarten-Pavillons an der Huttenstrasse 18.",
+  "desc_en": "Primary school in the university quarter (Oberstrass), run as a day school; kindergarten pavilions at Huttenstrasse 18.",
+  "url": "https://www.stadt-zuerich.ch/schulen/de/hutten.html",
+  "tags": [
+   "family",
+   "school",
+   "primary",
+   "tagesschule"
+  ],
+  "details": {
+   "operator": "Stadt Zürich, Schulkreis Waidberg",
+   "phone": "+41 44 413 21 99",
+   "sources": [
+    "https://www.stadt-zuerich.ch/schulen/de/hutten.html",
+    "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+   ],
+   "city_poi_id": "vo247",
+   "crow_m": 719
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_schulanlagen"
+ },
+ {
+  "id": "spielplatz-siedlung-riedtli",
+  "name": "Spielplätze in der Siedlung Riedtli",
+  "cat": "playground",
+  "lat": 47.388551,
+  "lon": 8.545939,
+  "address": "Wohnsiedlung Riedtli, zwischen Kinkel-, Scheuchzer-, Riedtli- und Stolzestrasse, 8006 Zürich",
+  "walk_min": 2,
+  "desc_de": "Die Gartenstadt-Siedlung hat laut Stadt Grünflächen, Kieswege, alte Bäume, Brunnen und Kinderspielplätze in den Höfen – Sandkasten und Schaukel direkt vor der Haustür. Siedlungsgrün, kein offizieller städtischer Spielplatz.",
+  "desc_en": "According to the city, the garden-city estate has lawns, gravel paths, old trees, fountains and children's playgrounds in its courtyards – sandpit and swing right outside the front door. Estate grounds, not an official city playground.",
+  "url": "https://www.stadt-zuerich.ch/de/planen-und-bauen/portfolio/bauten-anlagen/wohnbauten/wohnsiedlung-riedtli.html",
+  "tags": [
+   "family",
+   "playground",
+   "on-site",
+   "toddler",
+   "sandpit",
+   "nearest"
+  ],
+  "details": {
+   "operator": "Liegenschaften Stadt Zürich (Wohnsiedlung Riedtli)",
+   "access": "Siedlungsaussenraum der städtischen Wohnsiedlung; nicht im Verzeichnis der öffentlichen Spielplätze",
+   "equipment": "Kita Riedtli beschreibt «Grünflächen, schattenspendende Bäume, Sandkästen, Spielplätze, Schaukeln»",
+   "note": "Pin = OSM-Spielplatz-Knoten im Hof; die Siedlung hat mehrere Spielbereiche. Urban-Gardening-Initiative mit 11 gemeinschaftlichen Gartenkisten für Bewohnende.",
+   "sources": [
+    "https://www.stadt-zuerich.ch/de/planen-und-bauen/portfolio/bauten-anlagen/wohnbauten/wohnsiedlung-riedtli.html",
+    "https://www.openstreetmap.org/node/1099983200",
+    "https://www.kita-riedtli.ch/"
+   ],
+   "crow_m": 105
+  },
+  "source": "https://www.stadt-zuerich.ch/de/planen-und-bauen/portfolio/bauten-anlagen/wohnbauten/wohnsiedlung-riedtli.html",
+  "approx": true
+ },
+ {
+  "id": "spielplatz-stolzewiese",
+  "name": "Spielplatz Stolzewiese",
+  "cat": "playground",
+  "lat": 47.386733,
+  "lon": 8.54642,
+  "address": "Ottikerweg / Stolzestrasse, 8006 Zürich",
+  "walk_min": 3,
+  "desc_de": "Grösster Spielplatz in Gehdistanz (ca. 200 m): grosszügige Parkanlage mit Wasserspielbereich, Sand, Hang- und Röhrenrutsche, Kletteranlage, Brettschaukel und Federwippe, für 0–16 Jahre.",
+  "desc_en": "Biggest playground within walking distance (approx. 200 m): spacious park with a water-play area, sand, slope and tube slides, climbing frame, swings and spring rocker, for ages 0–16.",
+  "url": "https://www.stadt-zuerich.ch/spielplaetze",
+  "tags": [
+   "family",
+   "playground",
+   "water-play",
+   "toddler",
+   "sandpit",
+   "nearest"
+  ],
+  "details": {
+   "operator": "Grün Stadt Zürich",
+   "ages": "0–16 Jahre",
+   "equipment": "Balanciergerät, Sandbereich, Hangrutsche, Brettschaukel, geschlossene Rutsche, Reck, Federwippe, Kletteranlage mit Rutsche, Tischtennistisch; Spiel- und Liegewiese, Wasserspielbereich",
+   "phone": "+41 44 361 63 18",
+   "city_poi_id": "sp039",
+   "crow_m": 196
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_poi_oeffentliche_spielplaetze"
+ },
+ {
+  "id": "spielplatz-turnerstrasse",
+  "name": "Spielplatz Turnerstrasse",
+  "cat": "playground",
+  "lat": 47.388205,
+  "lon": 8.541812,
+  "address": "Turnerstrasse (beim Schulhaus Turner), 8006 Zürich",
+  "walk_min": 4,
+  "desc_de": "Öffentlicher Spielplatz an der Turnerstrasse mit Trampolin, Hüpftellern und Balanciergeräten, für 3–15 Jahre.",
+  "desc_en": "Public playground on Turnerstrasse with a trampoline, hopping plates and balancing equipment, for ages 3–15.",
+  "url": "https://www.stadt-zuerich.ch/spielplaetze",
+  "tags": [
+   "family",
+   "playground",
+   "trampoline"
+  ],
+  "details": {
+   "operator": "Stadt Zürich",
+   "ages": "3–15 Jahre",
+   "equipment": "Hüpfteller, Balanciergeräte, Trampolin",
+   "city_poi_id": "sp356",
+   "crow_m": 221
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_poi_oeffentliche_spielplaetze"
+ },
+ {
+  "id": "spielplatz-moehrlianlage",
+  "name": "Spielplatz Möhrlianlage",
+  "cat": "playground",
+  "lat": 47.390011,
+  "lon": 8.547005,
+  "address": "Möhrlistrasse / Schanzackerstrasse, 8006 Zürich",
+  "walk_min": 5,
+  "desc_de": "Kleine, ruhige Parkanlage mit Kleinkinderspielplatz (0–5 Jahre): Sandbereich, Federwippe, Brettschaukel – ideal für eine kurze Runde mit dem Zweijährigen.",
+  "desc_en": "Small, quiet park with a toddler playground (ages 0–5): sand area, spring rocker, swing – ideal for a short outing with a two-year-old.",
+  "url": "https://www.stadt-zuerich.ch/spielplaetze",
+  "tags": [
+   "family",
+   "playground",
+   "toddler",
+   "sandpit",
+   "quiet"
+  ],
+  "details": {
+   "operator": "Grün Stadt Zürich",
+   "ages": "0–5 Jahre",
+   "equipment": "Sandbereich, Federwippe, Brettschaukel, Tischtennistisch; Sandanlage, Kiesrasenfläche",
+   "phone": "+41 44 361 63 18",
+   "city_poi_id": "sp037",
+   "crow_m": 274
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_poi_oeffentliche_spielplaetze"
+ },
+ {
+  "id": "spielplatz-quartiertreff-unterstrass",
+  "name": "Spielplatz Quartiertreff Unterstrass",
+  "cat": "playground",
+  "lat": 47.388885,
+  "lon": 8.540747,
+  "address": "Langmauerstrasse 7, 8006 Zürich",
+  "walk_min": 5,
+  "desc_de": "Kleinkinderspielplatz (0–5 Jahre) beim Quartierhaus Kreis 6 mit Sandbereich, Brettschaukel, Federwippe und Rutsche.",
+  "desc_en": "Toddler playground (ages 0–5) at the Kreis 6 neighbourhood house with sand area, swing, spring rocker and slide.",
+  "url": "https://www.stadt-zuerich.ch/spielplaetze",
+  "tags": [
+   "family",
+   "playground",
+   "toddler",
+   "sandpit"
+  ],
+  "details": {
+   "operator": "Grün Stadt Zürich",
+   "ages": "0–5 Jahre",
+   "equipment": "Sandbereich, Brettschaukel, Federwippe, Rutsche",
+   "phone": "+41 44 361 63 18",
+   "city_poi_id": "sp118",
+   "crow_m": 314
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_poi_oeffentliche_spielplaetze"
+ },
+ {
+  "id": "spielplatz-beckenhof",
+  "name": "Spielplatz Beckenhof-Park",
+  "cat": "playground",
+  "lat": 47.385513,
+  "lon": 8.540422,
+  "address": "Stampfenbachstrasse 116–130, 8006 Zürich",
+  "walk_min": 7,
+  "desc_de": "Kleinkinderspielplatz im historischen Barockpark Beckenhof, 2026 erneuert: neue Geräte zu einer Spiellandschaft ergänzt, Röhrenrutsche und bestockte Böschung erhalten; Kleinkinderschaukel, Sand, Liegewiese unter alten Bäumen.",
+  "desc_en": "Toddler playground in the historic baroque Beckenhof park, renewed in 2026: new equipment added to form a play landscape, tube slide and wooded bank kept; baby swing, sand, lawn under old trees.",
+  "url": "https://www.stadt-zuerich.ch/beckenhof",
+  "tags": [
+   "family",
+   "playground",
+   "toddler",
+   "heritage-park",
+   "renewed-2026"
+  ],
+  "details": {
+   "operator": "Grün Stadt Zürich",
+   "ages": "0–5 Jahre",
+   "equipment": "Federwippe, Brettschaukel, Sandbereich, Rutsche, Kleinkinderschaukel; Spiel- und Liegewiese (Stadtdaten, vor der Erneuerung)",
+   "note": "Stadt: «Die Parkanlage Beckenhof ist ab sofort wieder vollständig nutzbar … der Spielplatz … erneuert»; Einweihung Mo 18. Mai (2026) durch den Quartierverein Unterstrass.",
+   "phone": "+41 44 361 63 18",
+   "sources": [
+    "https://www.stadt-zuerich.ch/beckenhof",
+    "https://data.stadt-zuerich.ch/dataset/geo_poi_oeffentliche_spielplaetze"
+   ],
+   "city_poi_id": "sp034",
+   "crow_m": 432
+  },
+  "source": "https://www.stadt-zuerich.ch/beckenhof"
+ },
+ {
+  "id": "spielplatz-milchbuckanlage",
+  "name": "Spielplatz Milchbuckanlage",
+  "cat": "playground",
+  "lat": 47.393761,
+  "lon": 8.544288,
+  "address": "Winterthurerstrasse / Milchbuckstrasse, 8057 Zürich",
+  "walk_min": 11,
+  "desc_de": "Kleine Parkanlage am Milchbuck mit Kleinkinderspielplatz (0–5 Jahre): Brettschaukel, Sand, Federwippe, Spielwiese.",
+  "desc_en": "Small park at Milchbuck with a toddler playground (ages 0–5): swing, sand, spring rocker, lawn.",
+  "url": "https://www.stadt-zuerich.ch/spielplaetze",
+  "tags": [
+   "family",
+   "playground",
+   "toddler",
+   "sandpit"
+  ],
+  "details": {
+   "operator": "Grün Stadt Zürich",
+   "ages": "0–5 Jahre",
+   "equipment": "Brettschaukel, Sandbereich, Federwippe; Spiel- und Liegewiese",
+   "phone": "+41 44 361 63 18",
+   "city_poi_id": "sp028",
+   "crow_m": 633
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_poi_oeffentliche_spielplaetze"
+ },
+ {
+  "id": "spielplatz-rigiblick",
+  "name": "Spielplatz Rigiblick",
+  "cat": "playground",
+  "lat": 47.388998,
+  "lon": 8.553194,
+  "address": "Germaniastrasse (bei Restaurant/Theater Rigiblick), 8044 Zürich",
+  "walk_min": 11,
+  "desc_de": "Kleiner Spielplatz mit Klettergerüst und Rutsche oben bei der Bergstation der Seilbahn Rigiblick, neben Restaurant und Theater Rigiblick – Startpunkt für den Zürichbergwald.",
+  "desc_en": "Small playground with a climbing frame and slide at the top station of the Rigiblick funicular, next to the Rigiblick restaurant and theatre – starting point for the Zürichberg forest.",
+  "url": "https://www.openstreetmap.org/node/3814475857",
+  "tags": [
+   "family",
+   "playground",
+   "viewpoint",
+   "funicular"
+  ],
+  "details": {
+   "equipment": "Klettergerüst, Rutsche (OSM, survey)",
+   "note": "Nicht im städtischen Spielplatzverzeichnis; Lage gemäss OpenStreetMap. Restaurant Rigiblick und Theater Rigiblick direkt daneben.",
+   "sources": [
+    "https://www.openstreetmap.org/node/3814475857",
+    "https://www.openstreetmap.org/node/4889986286"
+   ],
+   "crow_m": 645
+  },
+  "source": "https://www.openstreetmap.org/node/3814475857"
+ },
+ {
+  "id": "spielplatz-alfred-altherr-terrasse",
+  "name": "Spielplatz Alfred-Altherr-Terrasse",
+  "cat": "playground",
+  "lat": 47.395122,
+  "lon": 8.552384,
+  "address": "Strickhofstrasse, 8057 Zürich",
+  "walk_min": 17,
+  "desc_de": "Kleinkinderspielplatz (0–5 Jahre) mit Wasserspiel, Sand und Schaukeln an einem schönen Aussichtspunkt am Waldrand bei der Strickhofstrasse.",
+  "desc_en": "Toddler playground (ages 0–5) with water play, sand and swings at a lovely viewpoint on the forest edge by Strickhofstrasse.",
+  "url": "https://www.stadt-zuerich.ch/spielplaetze",
+  "tags": [
+   "family",
+   "playground",
+   "toddler",
+   "water-play",
+   "viewpoint",
+   "forest-edge"
+  ],
+  "details": {
+   "operator": "Grün Stadt Zürich",
+   "ages": "0–5 Jahre",
+   "equipment": "Brettschaukel, Kleinkinderschaukel, Wasserspiel, Sandbereich; Sandanlage, grosse Kiesrasenfläche",
+   "phone": "+41 44 361 63 18",
+   "city_poi_id": "sp036",
+   "crow_m": 972
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_poi_oeffentliche_spielplaetze"
+ },
+ {
+  "id": "spielplatz-siriuswiese",
+  "name": "Spielplatz Siriuswiese",
+  "cat": "playground",
+  "lat": 47.380795,
+  "lon": 8.552817,
+  "address": "Siriusstrasse / Hochstrasse, 8044 Zürich",
+  "walk_min": 18,
+  "desc_de": "Von der Stadt als «einzigartiger Quartierspielplatz» beschrieben: Sand mit Pumpen, Kletterturm, Rutsche, Korbschaukel und Federwippe, für 0–9 Jahre.",
+  "desc_en": "Described by the city as a 'unique neighbourhood playground': sand with pumps, climbing tower, slide, basket swing and spring rocker, for ages 0–9.",
+  "url": "https://www.stadt-zuerich.ch/spielplaetze",
+  "tags": [
+   "family",
+   "playground",
+   "water-play",
+   "sandpit"
+  ],
+  "details": {
+   "operator": "Grün Stadt Zürich",
+   "ages": "0–9 Jahre",
+   "equipment": "Sandbereich, Balanciergerät, Rutsche, Klettergerät, Brettschaukel, Federwippe, Korbschaukel, Kletterturm, Pumpen",
+   "phone": "+41 44 361 63 18",
+   "city_poi_id": "sp043",
+   "crow_m": 1013
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_poi_oeffentliche_spielplaetze"
+ },
+ {
+  "id": "spielplatz-irringersteig",
+  "name": "Spielplatz Irringersteig",
+  "cat": "playground",
+  "lat": 47.379543,
+  "lon": 8.551396,
+  "address": "Irringersteig, 8006 Zürich",
+  "walk_min": 19,
+  "desc_de": "Quartierspielplatz für 0–9 Jahre am Hang oberhalb des Universitätsspitals: Sandkasten, Seilanlage mit Rutsche, Kletter- und Balancierelemente, Spielwiese.",
+  "desc_en": "Neighbourhood playground for ages 0–9 on the slope above the University Hospital: sandpit, rope structure with slide, climbing and balancing elements, lawn.",
+  "url": "https://www.stadt-zuerich.ch/spielplaetze",
+  "tags": [
+   "family",
+   "playground",
+   "sandpit"
+  ],
+  "details": {
+   "operator": "Grün Stadt Zürich",
+   "ages": "0–9 Jahre",
+   "equipment": "Kletterelement, Sandkasten, Seilanlage mit Rutsche, Balanciergerät",
+   "phone": "+41 44 361 63 18",
+   "city_poi_id": "sp172",
+   "crow_m": 1073
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_poi_oeffentliche_spielplaetze"
+ },
+ {
+  "id": "spielplatz-irchelpark",
+  "name": "Spielplatz Irchelpark",
+  "cat": "playground",
+  "lat": 47.398028,
+  "lon": 8.544292,
+  "address": "Irchelpark (beim Allmendsee), 8057 Zürich",
+  "walk_min": 19,
+  "desc_de": "Sandspielplatz im Irchelpark unweit des Allmendsees – zusammen mit den weiten Wiesen des Parks das grosse Spielziel nördlich der Siedlung.",
+  "desc_en": "Sand playground in Irchelpark not far from the Allmendsee lake – together with the park's wide lawns, the big play destination north of the estate.",
+  "url": "https://www.openstreetmap.org/node/663381043",
+  "tags": [
+   "family",
+   "playground",
+   "sandpit",
+   "park"
+  ],
+  "details": {
+   "description_osm": "«Sand-Spielplatz für Kinder»",
+   "note": "Nicht im städtischen Spielplatzverzeichnis (Irchelpark gehört dem Kanton). Lage gemäss OpenStreetMap.",
+   "sources": [
+    "https://www.openstreetmap.org/node/663381043",
+    "https://www.openstreetmap.org/way/28774966"
+   ],
+   "crow_m": 1107
+  },
+  "source": "https://www.openstreetmap.org/node/663381043"
+ },
+ {
+  "id": "spielplatz-schloessliareal",
+  "name": "Spielplatz und Planschbecken Schlössliareal",
+  "cat": "playground",
+  "lat": 47.38195,
+  "lon": 8.558293,
+  "address": "Freudenbergstrasse 41, 8044 Zürich",
+  "walk_min": 21,
+  "desc_de": "Quartierspielplatz für 0–5 Jahre mit Planschbecken (gratis, je nach Wetter Mai–September), Brettschaukel, Hangrutsche, Sand und Spielwiese – der nächste Gratis-Planschplatz Richtung Zürichberg.",
+  "desc_en": "Neighbourhood playground for ages 0–5 with a paddling pool (free, May–September depending on weather), swing, slope slide, sand and lawn – the nearest free paddling spot towards Zürichberg.",
+  "url": "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/sport-und-badeanlagen/sommerbaeder/planschbecken.html",
+  "tags": [
+   "family",
+   "playground",
+   "paddling-pool",
+   "toddler",
+   "summer",
+   "free"
+  ],
+  "details": {
+   "operator": "Grün Stadt Zürich / Sportamt",
+   "ages": "0–5 Jahre",
+   "equipment": "Brettschaukel, Planschbecken, Hangrutsche, Sandbereich, Federwippe; Spiel- und Liegewiese",
+   "hours": "Planschbecken je nach Wetter Mai–September",
+   "city_paddling_pool_id": "pb3962",
+   "phone": "+41 44 361 63 18",
+   "sources": [
+    "https://data.stadt-zuerich.ch/dataset/geo_poi_oeffentliche_spielplaetze",
+    "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/sport-und-badeanlagen/sommerbaeder/planschbecken.html"
+   ],
+   "city_poi_id": "sp042",
+   "crow_m": 1227
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_poi_oeffentliche_spielplaetze"
+ },
+ {
+  "id": "spielplatz-birkenhof",
+  "name": "Spielplatz Wohnsiedlung Birkenhof",
+  "cat": "playground",
+  "lat": 47.395074,
+  "lon": 8.538705,
+  "address": "Wohnsiedlung Birkenhof (Zeppelinstrasse), 8057 Zürich",
+  "walk_min": 16,
+  "desc_de": "Im städtischen Verzeichnis als öffentlich geführter Siedlungsspielplatz (0–15 Jahre) mit Schaukel, Wippen, Balancierspiel und Sandkasten.",
+  "desc_en": "Estate playground listed by the city as public (ages 0–15) with swing, see-saws, balancing play and sandpit.",
+  "url": "https://www.stadt-zuerich.ch/spielplaetze",
+  "tags": [
+   "family",
+   "playground",
+   "sandpit"
+  ],
+  "details": {
+   "ages": "0–15 Jahre",
+   "equipment": "Schaukel, Balanciergerät, Wippen, Balancierspiel, Sandkasten",
+   "note": "Zweiter Teil «WS Birkenhof B» (sp353) mit Wippe und Balanciergerät gleich daneben.",
+   "city_poi_id": "sp352",
+   "crow_m": 901
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_poi_oeffentliche_spielplaetze"
+ },
+ {
+  "id": "spielplatz-klingenhof",
+  "name": "Spielplatz Klingenhof",
+  "cat": "playground",
+  "lat": 47.381945,
+  "lon": 8.532958,
+  "address": "Klingenstrasse / Josefstrasse 46, 8005 Zürich",
+  "walk_min": 19,
+  "desc_de": "Einmalige Kleinkinder-Spielanlage (0–5 Jahre) in einem Innenhof, eine ehemalige Bauruine, die als Spielplatz genutzt wird: Rotationsgerät, Federwippe, Sand, Hangrutsche.",
+  "desc_en": "Unique toddler play area (ages 0–5) in an inner courtyard, a former building ruin now used as a playground: spinner, spring rocker, sand, slope slide.",
+  "url": "https://www.stadt-zuerich.ch/spielplaetze",
+  "tags": [
+   "family",
+   "playground",
+   "toddler",
+   "unusual"
+  ],
+  "details": {
+   "operator": "Grün Stadt Zürich",
+   "ages": "0–5 Jahre",
+   "equipment": "Rotationsgerät, Federwippe, Sandbereich, Hangrutsche; Kiesplatz",
+   "phone": "+41 44 461 21 17",
+   "city_poi_id": "sp101",
+   "crow_m": 1119
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_poi_oeffentliche_spielplaetze"
+ },
+ {
+  "id": "spielplatz-landenberganlage",
+  "name": "Spielplatz Landenberganlage",
+  "cat": "playground",
+  "lat": 47.392096,
+  "lon": 8.527298,
+  "address": "Zeunerstrasse / Kyburgstrasse / Landenbergstrasse, 8037 Zürich",
+  "walk_min": 24,
+  "desc_de": "Grosszügige Parkanlage mit altem Baumbestand in Wipkingen, Spielplatz für 0–9 Jahre mit Kletteranlage und Rutsche, Sand, Federwippe und Schaukel.",
+  "desc_en": "Spacious park with old trees in Wipkingen, playground for ages 0–9 with climbing frame and slide, sand, spring rocker and swing.",
+  "url": "https://www.stadt-zuerich.ch/spielplaetze",
+  "tags": [
+   "family",
+   "playground",
+   "sandpit",
+   "park"
+  ],
+  "details": {
+   "operator": "Grün Stadt Zürich",
+   "ages": "0–9 Jahre",
+   "equipment": "Kletteranlage mit Rutsche, Sandbereich, Federwippe, Brettschaukel, Tischtennistisch; Spiel- und Liegewiese",
+   "phone": "+41 44 361 63 18",
+   "city_poi_id": "sp032",
+   "crow_m": 1387
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_poi_oeffentliche_spielplaetze"
+ },
+ {
+  "id": "park-schindlergut",
+  "name": "Schindlergut-Park",
+  "cat": "park",
+  "lat": 47.386324,
+  "lon": 8.536691,
+  "address": "Nordstrasse / Kronenstrasse, 8006 Zürich",
+  "walk_min": 11,
+  "desc_de": "Grosse Parkanlage mit altem Baumbestand und Aussicht, zwei Spielplätze (Korbschaukel, Kletteranlage mit Rutsche, Hängematte, Pflanzenlabyrinth beim GZ) und barrierefreiem WC; rund 650 m westlich.",
+  "desc_en": "Large park with old trees and views, two playgrounds (basket swing, climbing frame with slide, hammock, plant maze by the GZ) and an accessible toilet; about 650 m west.",
+  "url": "https://gz-zh.ch/gz-schindlergut/",
+  "tags": [
+   "family",
+   "park",
+   "playground",
+   "old-trees",
+   "toilet"
+  ],
+  "details": {
+   "operator": "Grün Stadt Zürich",
+   "city_playground_ids": [
+    "sp033a",
+    "sp033b"
+   ],
+   "equipment": "Spielplatz Schindlergut (0–16 J.): Korbschaukel, Kletteranlage mit Rutsche, Hängematte; Spielplatz GZ (0–16 J.): Sand, Brettschaukel, Kletteranlagen, Korbschaukel, Tischtennis",
+   "sources": [
+    "https://data.stadt-zuerich.ch/dataset/geo_park",
+    "https://data.stadt-zuerich.ch/dataset/geo_poi_oeffentliche_spielplaetze"
+   ],
+   "city_poi_id": "pa003",
+   "crow_m": 636
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_park"
+ },
+ {
+  "id": "park-irchelpark",
+  "name": "Irchelpark",
+  "cat": "park",
+  "lat": 47.399257,
+  "lon": 8.54537,
+  "address": "Irchelpark (Winterthurerstrasse / Strickhofstrasse), 8057 Zürich",
+  "walk_min": 22,
+  "desc_de": "Mit rund 32 ha der grösste öffentliche Park der Stadt, beim Uni-Campus Irchel: künstlicher See (Allmendsee), weite Wiesen, Naturspielbereiche, Sandspielplatz und Feuerstellen; ganzjährig offen, rund 1,2 km nördlich.",
+  "desc_en": "At about 32 ha the largest public park in the city, at the Irchel university campus: artificial lake (Allmendsee), wide lawns, natural play areas, a sand playground and fire pits; open all year, about 1.2 km north.",
+  "url": "https://www.openstreetmap.org/way/87680819",
+  "tags": [
+   "family",
+   "park",
+   "pond",
+   "fire-pits",
+   "playground"
+  ],
+  "details": {
+   "operator": "Kanton Zürich (Eigentümer), Unterhalt durch Grün Stadt Zürich",
+   "history": "Angelegt 1979–1986 zusammen mit dem Uni-Campus Irchel (Allmendsee/Irchelweiher seit 1986, OSM).",
+   "note": "Barrierefreies WC laut Stadtdaten. Kita Riedtli nennt den Irchelpark als Ausflugsziel. Offizielle Parkseite des Kantons lieferte 404 (Nov. 2026).",
+   "sources": [
+    "https://data.stadt-zuerich.ch/dataset/geo_park",
+    "https://en.wikipedia.org/wiki/Irchelpark",
+    "https://www.openstreetmap.org/way/87680819",
+    "https://www.openstreetmap.org/way/28774966"
+   ],
+   "city_poi_id": "pa005",
+   "crow_m": 1244
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_park"
+ },
+ {
+  "id": "park-lettenareal",
+  "name": "Lettenareal",
+  "cat": "park",
+  "lat": 47.386272,
+  "lon": 8.53449,
+  "address": "Lettenareal (Wasserwerkstrasse / Lettensteg), 8037 Zürich",
+  "walk_min": 14,
+  "desc_de": "Grünzug entlang der Limmat beim Letten mit Spielplatz und barrierefreiem WC, verbunden mit den Flussbädern Oberer und Unterer Letten.",
+  "desc_en": "Green strip along the Limmat at Letten with a playground and an accessible toilet, linked to the Oberer and Unterer Letten river baths.",
+  "url": "https://data.stadt-zuerich.ch/dataset/geo_park",
+  "tags": [
+   "family",
+   "park",
+   "river",
+   "playground",
+   "toilet"
+  ],
+  "details": {
+   "operator": "Grün Stadt Zürich",
+   "note": "Stadtdaten: Park mit Spielplatz und barrierefreiem WC.",
+   "city_poi_id": "pa002",
+   "crow_m": 797
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_park"
+ },
+ {
+  "id": "park-platzspitz",
+  "name": "Platzspitz",
+  "cat": "park",
+  "lat": 47.379894,
+  "lon": 8.540333,
+  "address": "Museumstrasse (hinter dem Landesmuseum), 8001 Zürich",
+  "walk_min": 17,
+  "desc_de": "Nach dem Lindenhof die älteste öffentliche Parkanlage Zürichs, auf der Insel zwischen Sihl und Limmat; Kleinkinderspielplatz (0–5 Jahre) mit Drehscheiben, Schaukel und Klettergerät, barrierefreies WC.",
+  "desc_en": "After Lindenhof the oldest public park in Zürich, on the island between the Sihl and Limmat; toddler playground (ages 0–5) with spinning discs, swing and climbing frame, accessible toilet.",
+  "url": "https://www.stadt-zuerich.ch/platzspitz.html",
+  "tags": [
+   "family",
+   "park",
+   "playground",
+   "toddler",
+   "river",
+   "heritage-park"
+  ],
+  "details": {
+   "operator": "Grün Stadt Zürich",
+   "city_playground_id": "sp060",
+   "equipment": "Drehscheiben, Brettschaukel, Klettergerät, Balkenwippe, Schachspiel; Kiesplatz",
+   "sources": [
+    "https://www.stadt-zuerich.ch/platzspitz.html",
+    "https://data.stadt-zuerich.ch/dataset/geo_park",
+    "https://data.stadt-zuerich.ch/dataset/geo_poi_oeffentliche_spielplaetze"
+   ],
+   "city_poi_id": "pa036",
+   "crow_m": 969
+  },
+  "source": "https://www.stadt-zuerich.ch/platzspitz.html"
+ },
+ {
+  "id": "park-st-moritz-anlage",
+  "name": "St. Moritz-Anlage",
+  "cat": "park",
+  "lat": 47.387037,
+  "lon": 8.54097,
+  "address": "St. Moritz-Anlage (Turnerstrasse / St. Moritzstrasse), 8006 Zürich",
+  "walk_min": 5,
+  "desc_de": "Kleine städtische Grünanlage rund 300 m westlich der Siedlung – eine schattige Bank-Pause auf dem Weg zum Schaffhauserplatz.",
+  "desc_en": "Small city green space about 300 m west of the estate – a shady bench stop on the way to Schaffhauserplatz.",
+  "url": "https://data.stadt-zuerich.ch/dataset/geo_park",
+  "tags": [
+   "park",
+   "quiet"
+  ],
+  "details": {
+   "operator": "Grün Stadt Zürich",
+   "note": "Nur in den Stadtdaten als Park gelistet; keine Spielgeräte verzeichnet.",
+   "city_poi_id": "pa062",
+   "crow_m": 306
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_park",
+  "approx": true
+ },
+ {
+  "id": "natur-resiweiher",
+  "name": "Resiweiher",
+  "cat": "nature",
+  "lat": 47.392463,
+  "lon": 8.552978,
+  "address": "Zürichbergwald oberhalb Rigiblick, 8044 Zürich",
+  "walk_min": 14,
+  "desc_de": "Kleiner Waldweiher mit städtischem Picknickplatz im Zürichbergwald, rund 800 m Luftlinie (bergauf, oder mit der Seilbahn Rigiblick); gleich daneben der Peterstobelbachweiher.",
+  "desc_en": "Small forest pond with a city picnic spot in the Zürichberg forest, about 800 m as the crow flies (uphill, or by the Rigiblick funicular); the Peterstobelbach pond is right next to it.",
+  "url": "https://data.stadt-zuerich.ch/dataset/geo_erholungs__und_sporteinrichtungen",
+  "tags": [
+   "family",
+   "nature",
+   "forest",
+   "pond",
+   "picnic"
+  ],
+  "details": {
+   "operator": "Grün Stadt Zürich (Stadtwald)",
+   "city_picnic_id": "pi011",
+   "note": "Gleich daneben der Peterstobelbachweiher (OSM).",
+   "sources": [
+    "https://data.stadt-zuerich.ch/dataset/geo_erholungs__und_sporteinrichtungen",
+    "https://www.openstreetmap.org/way/13856645"
+   ],
+   "city_poi_id": "pi011",
+   "crow_m": 789
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_erholungs__und_sporteinrichtungen"
+ },
+ {
+  "id": "natur-vrenelisgaertli",
+  "name": "Picknickplatz Vrenelisgärtli",
+  "cat": "nature",
+  "lat": 47.391336,
+  "lon": 8.552351,
+  "address": "Zürichbergwald (Waldrand oberhalb Rigiblick), 8044 Zürich",
+  "walk_min": 12,
+  "desc_de": "Städtischer Picknickplatz am Waldrand des Zürichbergs, der nächste Wald-Picknickplatz zur Siedlung (ca. 700 m Luftlinie).",
+  "desc_en": "City picnic spot on the forest edge of Zürichberg, the closest forest picnic site to the estate (approx. 700 m as the crow flies).",
+  "url": "https://data.stadt-zuerich.ch/dataset/geo_erholungs__und_sporteinrichtungen",
+  "tags": [
+   "family",
+   "nature",
+   "forest",
+   "picnic"
+  ],
+  "details": {
+   "operator": "Grün Stadt Zürich (Stadtwald)",
+   "city_picnic_id": "pi020",
+   "city_poi_id": "pi020",
+   "crow_m": 678
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_erholungs__und_sporteinrichtungen"
+ },
+ {
+  "id": "natur-moosholzweiher-waldspielplatz",
+  "name": "Moosholzweiher mit Waldspielplatz und Waldhütte",
+  "cat": "nature",
+  "lat": 47.389478,
+  "lon": 8.561964,
+  "address": "Zürichbergwald, Moosholz, 8044 Zürich",
+  "walk_min": 23,
+  "desc_de": "Waldweiher im Zürichbergwald mit städtischem Picknickplatz, Waldhütte Moosholz und Spielplatz von Grün Stadt Zürich – ein Halbtagesausflug ab Rigiblick.",
+  "desc_en": "Forest pond in the Zürichberg forest with a city picnic spot, the Moosholz forest hut and a Grün Stadt Zürich playground – a half-day outing from Rigiblick.",
+  "url": "https://data.stadt-zuerich.ch/dataset/geo_erholungs__und_sporteinrichtungen",
+  "tags": [
+   "family",
+   "nature",
+   "forest",
+   "pond",
+   "playground",
+   "picnic"
+  ],
+  "details": {
+   "operator": "Grün Stadt Zürich",
+   "city_picnic_id": "pi023",
+   "city_forest_hut_id": "wa24",
+   "sources": [
+    "https://data.stadt-zuerich.ch/dataset/geo_erholungs__und_sporteinrichtungen",
+    "https://www.openstreetmap.org/node/10599032261",
+    "https://www.openstreetmap.org/way/33886995"
+   ],
+   "city_poi_id": "pi023",
+   "crow_m": 1306
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_erholungs__und_sporteinrichtungen"
+ },
+ {
+  "id": "natur-familienweg-rigiblick-zoo",
+  "name": "Familien-Wanderweg Rigiblick – Zoo",
+  "cat": "nature",
+  "lat": 47.38829,
+  "lon": 8.55343,
+  "address": "Start: Bergstation Seilbahn Rigiblick, Germaniastrasse 99, 8044 Zürich",
+  "walk_min": 11,
+  "desc_de": "Von den Zürcher Wanderwegen signalisierter Familien-Wanderweg (grünes Symbol mit Erwachsenem und Kind) vom Rigiblick durch den Zürichbergwald zum Zoo; Start bei der Bergstation der Seilbahn Rigiblick.",
+  "desc_en": "Family hiking trail signposted by Zürcher Wanderwege (green sign with an adult and child) from Rigiblick through the Zürichberg forest to the zoo; starts at the top station of the Rigiblick funicular.",
+  "url": "https://www.openstreetmap.org/relation/10721342",
+  "tags": [
+   "family",
+   "nature",
+   "forest",
+   "hike",
+   "funicular"
+  ],
+  "details": {
+   "operator": "Zürcher Wanderwege",
+   "note": "Pin = Startpunkt Rigiblick (Bergstation). Die Download-Datei der Zürcher Wanderwege (in OSM verlinkt) lieferte im Nov. 2026 404; Route gemäss OSM-Relation.",
+   "sources": [
+    "https://www.openstreetmap.org/relation/10721342"
+   ],
+   "crow_m": 655
+  },
+  "source": "https://www.openstreetmap.org/relation/10721342",
+  "approx": true
+ },
+ {
+  "id": "natur-familiengaerten-susenberg",
+  "name": "Familiengärten Susenberg",
+  "cat": "nature",
+  "lat": 47.386007,
+  "lon": 8.5592,
+  "address": "Susenberg (Areale A–D), 8044 Zürich",
+  "walk_min": 19,
+  "desc_de": "Familiengartenareal am Zürichberg oberhalb Rigiblick; Gartenparzellen werden über den Familiengartenverein Zürich an Stadtzürcher Haushalte verpachtet.",
+  "desc_en": "Allotment garden area on Zürichberg above Rigiblick; plots are leased to City of Zürich households through the Zürich allotment association.",
+  "url": "https://www.familiengartenverein.ch/",
+  "tags": [
+   "family",
+   "nature",
+   "allotments",
+   "gardening"
+  ],
+  "details": {
+   "operator": "Familiengartenverein Zürich",
+   "city_poi_id_note": "fa028 (Areale A, B, C, D)",
+   "city_poi_id": "fa028",
+   "crow_m": 1113
+  },
+  "source": "https://data.stadt-zuerich.ch/dataset/geo_familiengaerten"
+ },
+ {
+  "id": "natur-zoo-zuerich",
+  "name": "Zoo Zürich",
+  "cat": "nature",
+  "lat": 47.38451,
+  "lon": 8.574721,
+  "address": "Zürichbergstrasse 221, 8044 Zürich",
+  "walk_min": 40,
+  "desc_de": "Zoo am Zürichberg mit Masoala-Regenwald, täglich offen (März–Oktober 9–18 Uhr, November–Februar 9–17 Uhr, Masoala ab 10 Uhr); zu Fuss über den Familienweg ab Rigiblick erreichbar. Tagespreise datumsabhängig, Jahreskarten erhältlich. Ausserhalb des 1,5-km-Radius.",
+  "desc_en": "Zoo on Zürichberg with the Masoala rainforest, open daily (March–October 9am–6pm, November–February 9am–5pm, Masoala from 10am); reachable on foot via the family trail from Rigiblick. Day prices vary by date, annual passes available. Outside the 1.5 km radius.",
+  "url": "https://www.zoo.ch/zoobesuch/oeffnungszeiten",
+  "tags": [
+   "family",
+   "nature",
+   "animals",
+   "zoo",
+   "off-board"
+  ],
+  "details": {
+   "operator": "Zoo Zürich AG",
+   "hours": "März–Oktober 9–18 Uhr (Masoala 10–18); November–Februar 9–17 Uhr (Masoala 10–17); 24.12. bis 16 Uhr",
+   "price_note": "Einzeleintritte datumsabhängig im Online-Shop; Jahreskarten; −10 % mit Zürich Card / RailAway.",
+   "phone": "+41 44 254 25 00",
+   "off_board": true,
+   "note": "Möglicherweise auch im Kultur-/Freizeit-Datensatz eines anderen Agenten – bei Bedarf deduplizieren.",
+   "sources": [
+    "https://www.zoo.ch/zoobesuch/oeffnungszeiten",
+    "https://www.zoo.ch/zoobesuch/tickets-preise"
+   ],
+   "crow_m": 2292
+  },
+  "source": "https://www.zoo.ch/zoobesuch/oeffnungszeiten"
+ },
+ {
+  "id": "pool-flussbad-unterer-letten",
+  "name": "Flussbad Unterer Letten",
+  "cat": "pool",
+  "lat": 47.389312,
+  "lon": 8.529852,
+  "address": "Wasserwerkstrasse 131, 8037 Zürich",
+  "walk_min": 20,
+  "desc_de": "Gratis-Sommerbad an der Limmat: für Familien ein Planschbecken (Ø 12 m) mit kleiner Rutschbahn, Spielplatz, Nichtschwimmbecken und Spielwiese; der Flusskanal ist nur für gute Schwimmer – auch begleitete Kinder haben dort keinen Zutritt.",
+  "desc_en": "Free summer pool on the Limmat: for families a paddling pool (12 m diameter) with a small slide, playground, non-swimmer pool and play lawn; the river channel is for strong swimmers only – accompanied children are not allowed there either.",
+  "url": "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/sport-und-badeanlagen/sommerbaeder/unterer-letten.html",
+  "tags": [
+   "family",
+   "pool",
+   "paddling-pool",
+   "free",
+   "summer",
+   "playground",
+   "river"
+  ],
+  "details": {
+   "operator": "Stadt Zürich, Sportamt",
+   "phone": "+41 44 413 58 90",
+   "price": "Eintritt gratis",
+   "facilities": "Schwimmkanal 100 m in der Limmat, Nichtschwimmbecken 24 × 14 m, Planschbecken Ø 12 m, kleine Rutschbahn, Spielplatz (0–9 J.), Kiosk",
+   "hours": "Sommersaison (Öffnungszeiten 2026 auf der Seite); Velos/Kinderwagen vor dem Bad abstellen",
+   "city_playground_id": "sp188",
+   "sources": [
+    "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/sport-und-badeanlagen/sommerbaeder/unterer-letten.html",
+    "https://data.stadt-zuerich.ch/dataset/geo_sport"
+   ],
+   "city_poi_id": "flb6940",
+   "crow_m": 1129
+  },
+  "source": "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/sport-und-badeanlagen/sommerbaeder/unterer-letten.html"
+ },
+ {
+  "id": "pool-freibad-allenmoos",
+  "name": "Freibad Allenmoos",
+  "cat": "pool",
+  "lat": 47.405524,
+  "lon": 8.539021,
+  "address": "Ringstrasse 79, 8057 Zürich",
+  "walk_min": 34,
+  "desc_de": "Familienbad der Architekten Haefeli und Moser in Unterstrass: zwei Planschbecken mit Sonnenschirmen, grosser Spielplatz mit Sandkasten, Wickelmöglichkeiten, 72-m-Rutschbahn; im Winterhalbjahr (bis 4.4.2027) gratis als Park mit Grillstellen und Spielplatz offen.",
+  "desc_en": "Family pool by architects Haefeli and Moser in Unterstrass: two shaded paddling pools, a large playground with sandpit, changing facilities, a 72 m slide; in the winter half-year (until 4 Apr 2027) open free as a park with barbecue spots and playground.",
+  "url": "https://www.stadt-zuerich.ch/freibad-allenmoos",
+  "tags": [
+   "family",
+   "pool",
+   "paddling-pool",
+   "playground",
+   "summer",
+   "winter-park",
+   "off-board"
+  ],
+  "details": {
+   "operator": "Stadt Zürich, Sportamt",
+   "phone": "+41 44 413 57 30",
+   "hours": "Winterpark bis 4.4.2027: Oktober 9–18, November–Februar 9–17, März–April 9–18 Uhr (kein Baden)",
+   "facilities": "Schwimmbecken 50 × 20 m, Nichtschwimmbecken 52 × 25 m, Rutschbahn 72 m, zwei Planschbecken, Spielplatz mit Sandkasten, Wickelmöglichkeiten, Bücherbox der PBZ, Selbstbedienungsrestaurant",
+   "off_board": true,
+   "sources": [
+    "https://www.stadt-zuerich.ch/freibad-allenmoos"
+   ],
+   "city_poi_id": "fb006",
+   "crow_m": 1987
+  },
+  "source": "https://www.stadt-zuerich.ch/freibad-allenmoos"
+ },
+ {
+  "id": "pool-hallenbad-city",
+  "name": "Hallenbad City",
+  "cat": "pool",
+  "lat": 47.372282,
+  "lon": 8.532973,
+  "address": "Sihlstrasse 71, 8001 Zürich",
+  "walk_min": 34,
+  "desc_de": "Nächstes städtisches Hallenbad (ca. 2 km): helle Schwimmhalle mit Glasdach, 50-m-Becken, Nichtschwimmbecken mit 31 °C und Variobecken mit Hubboden; eher Sportbad, kein eigentliches Planschbecken.",
+  "desc_en": "Nearest city indoor pool (approx. 2 km): bright hall with glass roof, 50 m pool, non-swimmer pool at 31 °C and a variable-depth pool; more of a sports pool, no proper paddling pool.",
+  "url": "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/sport-und-badeanlagen/hallenbaeder/city.html",
+  "tags": [
+   "family",
+   "pool",
+   "indoor",
+   "off-board"
+  ],
+  "details": {
+   "operator": "Stadt Zürich, Sportamt",
+   "phone": "+41 44 413 56 00",
+   "facilities": "50-m-Becken (28 °C), Nichtschwimmbecken (31 °C), Variobecken (29 °C) mit Hubboden, Sauna",
+   "note": "Die Seite zeigte am 5.11.2026 den Hinweis «Geschlossen bis 7. August (Revision)» – Öffnung vor dem Besuch prüfen.",
+   "off_board": true,
+   "city_poi_id": "hb001",
+   "crow_m": 1967
+  },
+  "source": "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/sport-und-badeanlagen/hallenbaeder/city.html"
+ },
+ {
+  "id": "pool-hallenbad-oerlikon",
+  "name": "Hallenbad Oerlikon",
+  "cat": "pool",
+  "lat": 47.410437,
+  "lon": 8.556733,
+  "address": "Wallisellenstrasse 100, 8050 Zürich",
+  "walk_min": 46,
+  "desc_de": "Hallenbad beim Hallenstadion mit Planschbecken mit Wasserspielen (30 °C), Nichtschwimmbecken (30 °C) und Spielplatz – die beste Winteroption für Kleinkinder; im Sommer zusätzlich Aussenplanschbecken. Ausserhalb des 1,5-km-Radius.",
+  "desc_en": "Indoor pool by the Hallenstadion with a paddling pool with water toys (30 °C), a non-swimmer pool (30 °C) and a playground – the best winter option for toddlers; in summer also an outdoor paddling pool. Outside the 1.5 km radius.",
+  "url": "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/sport-und-badeanlagen/hallenbaeder/oerlikon.html",
+  "tags": [
+   "family",
+   "pool",
+   "indoor",
+   "paddling-pool",
+   "off-board"
+  ],
+  "details": {
+   "operator": "Stadt Zürich, Sportamt",
+   "phone": "+41 44 413 55 00",
+   "note": "Teilschliessungen: Sa 21.11.2026 ab 15 Uhr und Sa 5.12.2026 ab 16 Uhr Bad geschlossen.",
+   "off_board": true,
+   "city_poi_id": "hb004",
+   "crow_m": 2645
+  },
+  "source": "https://www.stadt-zuerich.ch/de/stadtleben/sport-und-erholung/sport-und-badeanlagen/hallenbaeder/oerlikon.html"
+ },
+ {
+  "id": "pbz-unterstrass",
+  "name": "PBZ Bibliothek Unterstrass",
+  "cat": "library",
+  "lat": 47.394623,
+  "lon": 8.542501,
+  "address": "Scheuchzerstrasse 184 (Kirchgemeindehaus Paulus), 8057 Zürich",
+  "walk_min": 13,
+  "desc_de": "Nächste Stadtbibliothek (ca. 750 m), familienfreundliche Quartierbibliothek mit grossem rotem Sofa im Kinderbereich, Wickeltisch, Kinder-CDs und Tonies; Di–Fr 14–19, Sa 10–14 Uhr.",
+  "desc_en": "Nearest city library (approx. 750 m), a family-friendly neighbourhood library with a big red sofa in the children's area, changing table, children's CDs and Tonies; Tue–Fri 2–7pm, Sat 10am–2pm.",
+  "url": "https://www.pbz.ch/location/unterstrasse/",
+  "tags": [
+   "family",
+   "library",
+   "changing-table",
+   "tonies",
+   "nearest"
+  ],
+  "details": {
+   "operator": "Pestalozzi-Bibliothek Zürich (PBZ)",
+   "phone": "+41 44 204 98 65",
+   "email": "Unterstrass@pbz.ch",
+   "hours": "Mo geschlossen; Di–Fr 14:00–19:00; Sa 10:00–14:00; So geschlossen",
+   "facilities": "Kinder-CDs, Tonies, DVDs, Games, Medien in Fremdsprachen, Wickeltisch, rollstuhlgängig, WLAN",
+   "sources": [
+    "https://www.pbz.ch/location/unterstrasse/"
+   ],
+   "crow_m": 747
+  },
+  "source": "https://www.pbz.ch/location/unterstrasse/"
+ },
+ {
+  "id": "pbz-schuetze",
+  "name": "PBZ Bibliothek Schütze",
+  "cat": "library",
+  "lat": 47.388755,
+  "lon": 8.523272,
+  "address": "Heinrichstrasse 238, 8005 Zürich",
+  "walk_min": 28,
+  "desc_de": "Grosse Quartier- und Schulbibliothek im Schütze-Areal mit «Vogelnest» zum Vorlesen im Kinderbereich, Wickeltisch und Tonies; Mo–Fr 11–19, Sa 10–16 Uhr, Open Library täglich 6–22 Uhr (mit Abo).",
+  "desc_en": "Large neighbourhood and school library in the Schütze complex with a 'bird's nest' reading corner in the children's area, changing table and Tonies; Mon–Fri 11am–7pm, Sat 10am–4pm, Open Library daily 6am–10pm (with subscription).",
+  "url": "https://www.pbz.ch/location/pbz-schuetze/",
+  "tags": [
+   "family",
+   "library",
+   "changing-table",
+   "tonies",
+   "open-library",
+   "off-board"
+  ],
+  "details": {
+   "operator": "Pestalozzi-Bibliothek Zürich (PBZ)",
+   "phone": "+41 44 204 98 20",
+   "email": "Schuetze@pbz.ch",
+   "hours": "Bedient Mo–Fr 11:00–19:00, Sa 10:00–16:00; Open Library Mo–So 06:00–22:00 (PBZ Standard/Premium)",
+   "note": "Quartierpark Schütze mit Spielwiese direkt daneben.",
+   "off_board": true,
+   "sources": [
+    "https://www.pbz.ch/location/pbz-schuetze/"
+   ],
+   "crow_m": 1618
+  },
+  "source": "https://www.pbz.ch/location/pbz-schuetze/"
+ },
+ {
+  "id": "pbz-altstadt",
+  "name": "PBZ Bibliothek Altstadt",
+  "cat": "library",
+  "lat": 47.374705,
+  "lon": 8.544504,
+  "address": "Zähringerstrasse 17, 8001 Zürich",
+  "walk_min": 26,
+  "desc_de": "Grösste PBZ-Bibliothek im Niederdorf mit breitem Medienangebot und Café ramram; bedient Mo–Fr 10–19, Sa 10–16 Uhr. Die Open Library ist wegen Umbaus derzeit geschlossen.",
+  "desc_en": "Largest PBZ library in the Niederdorf with a broad media offer and Café ramram; staffed Mon–Fri 10am–7pm, Sat 10am–4pm. The Open Library is currently closed for renovation.",
+  "url": "https://www.pbz.ch/location/pbz-altstadt/",
+  "tags": [
+   "family",
+   "library",
+   "cafe"
+  ],
+  "details": {
+   "operator": "Pestalozzi-Bibliothek Zürich (PBZ)",
+   "phone": "+41 44 204 96 90",
+   "email": "Altstadt@pbz.ch",
+   "hours": "Bedient Mo–Fr 10:00–19:00, Sa 10:00–16:00 (Woche 5.11.2026); Open Library: Umbau, geschlossen",
+   "sources": [
+    "https://www.pbz.ch/location/pbz-altstadt/"
+   ],
+   "crow_m": 1487
+  },
+  "source": "https://www.pbz.ch/location/pbz-altstadt/"
+ },
+ {
+  "id": "apotheke-rigi",
+  "name": "Rigi Apotheke & Drogerie",
+  "cat": "health",
+  "lat": 47.385718,
+  "lon": 8.548729,
+  "address": "Universitätstrasse 120, 8006 Zürich",
+  "walk_min": 7,
+  "desc_de": "Nächste Apotheke (ca. 400 m, am Rigiplatz), zertifizierte medinform-Kinderapotheke: Beratung bei Kinderkrankheiten, organisiert Termine bei der Kinderärztin, Baby- und Stillprodukte; Mo–Fr 8–19, Sa 8–16 Uhr.",
+  "desc_en": "Nearest pharmacy (approx. 400 m, at Rigiplatz), a certified medinform children's pharmacy: advice on childhood illnesses, arranges paediatrician appointments, baby and breastfeeding products; Mon–Fri 8am–7pm, Sat 8am–4pm.",
+  "url": "https://www.apotheke-rigi.ch/",
+  "tags": [
+   "health",
+   "pharmacy",
+   "kids-pharmacy",
+   "nearest"
+  ],
+  "details": {
+   "operator": "Rigi Apotheke & Drogerie (Rotpunkt)",
+   "phone": "+41 44 350 53 20",
+   "hours": "Mo–Fr 08:00–19:00, Sa 08:00–16:00",
+   "services": "Kinderapotheke (medinform), Wundversorgung, Impfungen, Hauslieferung für Stammkundschaft, Online-Reservation",
+   "sources": [
+    "https://www.apotheke-rigi.ch/",
+    "https://www.openstreetmap.org/node/891896164"
+   ],
+   "crow_m": 399
+  },
+  "source": "https://www.apotheke-rigi.ch/"
+ },
+ {
+  "id": "apotheke-schaffhauserplatz",
+  "name": "Apotheke Schaffhauserplatz",
+  "cat": "health",
+  "lat": 47.391689,
+  "lon": 8.538364,
+  "address": "Seminarstrasse 1, 8057 Zürich",
+  "walk_min": 11,
+  "desc_de": "Apotheke direkt am Schaffhauserplatz (ca. 650 m); laut OpenStreetMap Mo–Fr 8–18:30, Sa 8–16 Uhr.",
+  "desc_en": "Pharmacy right on Schaffhauserplatz (approx. 650 m); according to OpenStreetMap Mon–Fri 8am–6:30pm, Sat 8am–4pm.",
+  "url": "https://www.openstreetmap.org/node/1390807245",
+  "tags": [
+   "health",
+   "pharmacy"
+  ],
+  "details": {
+   "phone": "+41 44 361 61 61",
+   "hours": "Mo–Fr 08:00–18:30; Sa 08:00–16:00 (OSM)",
+   "note": "Eigene Website (apothekeschaffhauserplatz.ch) zeigte im Nov. 2026 nur eine Platzhalterseite; Angaben aus OSM.",
+   "crow_m": 626
+  },
+  "source": "https://www.openstreetmap.org/node/1390807245"
+ },
+ {
+  "id": "kinderarzt-weinbergstrasse-151",
+  "name": "Kinderarztpraxis Weinbergstrasse 151",
+  "cat": "health",
+  "lat": 47.39019,
+  "lon": 8.539566,
+  "address": "Weinbergstrasse 151, 8006 Zürich",
+  "walk_min": 8,
+  "desc_de": "Kinder- und Jugendarztpraxis nahe Schaffhauserplatz (ca. 450 m); laut OneDoc werden neue Patientinnen und Patienten aufgenommen (Sprache: Deutsch, keine Online-Buchung).",
+  "desc_en": "Paediatric practice near Schaffhauserplatz (approx. 450 m); according to OneDoc it accepts new patients (language: German, no online booking).",
+  "url": "https://onedoc.ch/en/pediatrician/zurich/pbmhg/dr-werner-lukas-pabst",
+  "tags": [
+   "health",
+   "paediatrician",
+   "new-patients"
+  ],
+  "details": {
+   "operator": "Praxis Dr. med. Werner Lukas Pabst",
+   "phone": "+41 44 370 22 33",
+   "languages": "Deutsch",
+   "note": "Auch auf der Kinderarztliste der Klinik für Neonatologie USZ (Stand Feb. 2025). Aufnahme neuer Patienten vorab telefonisch bestätigen.",
+   "sources": [
+    "https://onedoc.ch/en/pediatrician/zurich/pbmhg/dr-werner-lukas-pabst",
+    "https://www.usz.ch/kinderarzt-zuerich/"
+   ],
+   "crow_m": 455
+  },
+  "source": "https://onedoc.ch/en/pediatrician/zurich/pbmhg/dr-werner-lukas-pabst"
+ },
+ {
+  "id": "kinderarzt-stampfenbachstrasse-155",
+  "name": "Kinderarztpraxis Stampfenbachstrasse 155",
+  "cat": "health",
+  "lat": 47.387428,
+  "lon": 8.539398,
+  "address": "Stampfenbachstrasse 155, 8006 Zürich",
+  "walk_min": 7,
+  "desc_de": "Kinderarztpraxis in Unterstrass (ca. 400 m), Sprechzeiten laut Verzeichnis ca. 8:15–12 und 14–18 Uhr; auf der USZ-Kinderarztliste für Kreis 6 geführt.",
+  "desc_en": "Paediatric practice in Unterstrass (approx. 400 m), consulting hours per directory about 8:15–12 and 2–6pm; listed on the USZ paediatrician list for Kreis 6.",
+  "url": "https://zuri.net/de//gesundheit/dr-med-francine-walser-10076.htm",
+  "tags": [
+   "health",
+   "paediatrician"
+  ],
+  "details": {
+   "operator": "Praxis Dr. med. Francine Walser",
+   "phone": "+41 44 350 48 28",
+   "hours": "laut zuri.net (Werktag) 08:15–12:00 · 14:00–18:00",
+   "note": "Aufnahme neuer Patienten nicht publiziert – telefonisch anfragen.",
+   "sources": [
+    "https://zuri.net/de//gesundheit/dr-med-francine-walser-10076.htm",
+    "https://www.usz.ch/kinderarzt-zuerich/"
+   ],
+   "crow_m": 408
+  },
+  "source": "https://www.usz.ch/kinderarzt-zuerich/"
+ },
+ {
+  "id": "swiss-medi-kids-hauptbahnhof",
+  "name": "Swiss Medi Kids – Kinder-Permanence am HB",
+  "cat": "health",
+  "lat": 47.377134,
+  "lon": 8.538787,
+  "address": "Bahnhofplatz 9, 4. Etage, 8001 Zürich",
+  "walk_min": 22,
+  "desc_de": "Kinder-Notfallpraxis am Hauptbahnhof (ca. 1,3 km), 365 Tage Walk-in ohne Termin bis 20 Uhr – Online-Ticket für die digitale Warteliste ab 6:30 Uhr; täglich Telefon-/Videosprechstunde 8–20 Uhr.",
+  "desc_en": "Paediatric walk-in clinic at the main station (approx. 1.3 km), 365 days walk-in without appointment until 8pm – online ticket for the digital queue from 6:30am; daily phone/video consultation 8am–8pm.",
+  "url": "https://www.swissmedikids.ch/location/zurich/",
+  "tags": [
+   "health",
+   "paediatrician",
+   "walk-in",
+   "weekend",
+   "evening"
+  ],
+  "details": {
+   "operator": "Swiss Medi Kids AG, Kinder Permanence",
+   "phone": "+41 43 343 00 00 (Stammpatienten Termine +41 43 343 00 01)",
+   "hours": "Walk-in 365 Tage, schliesst 20:00; digitale Warteliste 06:30–19:30; Telefon-/Video 08:00–20:00; Stammpatienten Mo–Fr 08:00–17:00",
+   "sources": [
+    "https://www.swissmedikids.ch/location/zurich/"
+   ],
+   "crow_m": 1297
+  },
+  "source": "https://www.swissmedikids.ch/location/zurich/"
+ },
+ {
+  "id": "kinderspital-zuerich-lengg",
+  "name": "Universitäts-Kinderspital Zürich (Kispi)",
+  "cat": "health",
+  "lat": 47.352062,
+  "lon": 8.571128,
+  "address": "Lenggstrasse 30, 8008 Zürich",
+  "walk_min": 77,
+  "desc_de": "Neues Kinderspital in der Lengg mit Notfallstation für 0–18-Jährige, 365 Tage rund um die Uhr; lebensbedrohlich 144, Vergiftung 145. Für nicht lebensbedrohliche Fragen nennt das Kispi die Medgate Kids Line 058 387 78 80 (24/7). Ca. 4,5 km – ausserhalb der Karte.",
+  "desc_en": "New children's hospital at Lengg with an emergency department for ages 0–18, 24/7, 365 days; life-threatening 144, poisoning 145. For non-life-threatening questions the Kispi points to the Medgate Kids Line 058 387 78 80 (24/7). Approx. 4.5 km – off the map.",
+  "url": "https://www.kispi.uzh.ch/kinderspital/notfall",
+  "tags": [
+   "health",
+   "hospital",
+   "emergency",
+   "24h",
+   "off-board"
+  ],
+  "details": {
+   "operator": "Universitäts-Kinderspital Zürich – Eleonorenstiftung",
+   "phone": "+41 44 266 71 11 (Zentrale)",
+   "hours": "Notfallstation 365 Tage rund um die Uhr",
+   "note": "Administrative Voranmeldung über die Kispi-App möglich. Kinderpermanence Circle (Flughafen, bis 16 J.) +41 44 255 81 12.",
+   "off_board": true,
+   "sources": [
+    "https://www.kispi.uzh.ch/kinderspital/notfall",
+    "https://www.kispi.uzh.ch/",
+    "https://data.stadt-zuerich.ch/dataset/geo_spital"
+   ],
+   "city_poi_id": "sl008",
+   "crow_m": 4471
+  },
+  "source": "https://www.kispi.uzh.ch/kinderspital/notfall"
+ },
+ {
+  "id": "gz-schindlergut",
+  "name": "GZ Schindlergut",
+  "cat": "community",
+  "lat": 47.386761,
+  "lon": 8.536104,
+  "address": "Kronenstrasse 12, 8006 Zürich",
+  "walk_min": 12,
+  "desc_de": "Nächstes Gemeinschaftszentrum (ca. 650 m) im Schindlergut-Park mit Cafeteria, Werkstatt und Spielplatz mit Pflanzenlabyrinth; für Kleine u.a. Spielgruppe La Le Lu, französische «Groupe de jeu Fleurs», Musigzwergli, Malwerkstatt für Kleine und VäterKinder-Zmorge.",
+  "desc_en": "Nearest community centre (approx. 650 m) in Schindlergut park with a cafeteria, workshop and a playground with a plant maze; for little ones e.g. La Le Lu playgroup, the French 'Groupe de jeu Fleurs', Musigzwergli music, painting workshop for toddlers and a fathers-and-kids breakfast.",
+  "url": "https://gz-zh.ch/gz-schindlergut/",
+  "tags": [
+   "family",
+   "community",
+   "gz",
+   "playgroup",
+   "cafe",
+   "playground"
+  ],
+  "details": {
+   "operator": "Stiftung Zürcher Gemeinschaftszentren",
+   "phone": "+41 44 365 24 40",
+   "email": "gz-schindlergut@gz-zh.ch",
+   "program_examples": "Programm Nov. 2026: Musigzwergli Mi 9:30–10:15; Spielgruppe La Le Lu Mo/Mi 8:45–13:45; Groupe de jeu Fleurs Di/Do/Fr; Malwerkstatt für Kleine Di 10–12; VäterKinder-Zmorge Sa 7.11. 9:15–12; Räbenfest 6.11.",
+   "city_playground_id": "sp033a",
+   "sources": [
+    "https://gz-zh.ch/gz-schindlergut/",
+    "https://gz-zh.ch/gz-schindlergut/programm/",
+    "https://data.stadt-zuerich.ch/dataset/geo_gemeinschaftszentrum"
+   ],
+   "city_poi_id": "gz014",
+   "crow_m": 666
+  },
+  "source": "https://gz-zh.ch/gz-schindlergut/"
+ },
+ {
+  "id": "gz-buchegg",
+  "name": "GZ Buchegg",
+  "cat": "community",
+  "lat": 47.39895,
+  "lon": 8.535097,
+  "address": "Bucheggstrasse 93, 8057 Zürich",
+  "walk_min": 24,
+  "desc_de": "Gemeinschaftszentrum mit Tieren (Morgenfütterung), grossem Spielplatz mit Wasserspiel, Seilbahn und Boulderwand; für Kleinkinder u.a. Krabbelgruppe, Atelier für 0–5-Jährige und alle zwei Wochen das «Papa & Kind Café» der städtischen Familienberatung (Fr 9–11).",
+  "desc_en": "Community centre with animals (morning feeding), a big playground with water play, zip line and bouldering wall; for toddlers e.g. a crawling group, an art studio for ages 0–5 and, every other Friday, the city family service's 'Papa & Kind Café' (9–11am).",
+  "url": "https://gz-zh.ch/gz-buchegg/",
+  "tags": [
+   "family",
+   "community",
+   "gz",
+   "animals",
+   "playground",
+   "water-play",
+   "toddler"
+  ],
+  "details": {
+   "operator": "Stiftung Zürcher Gemeinschaftszentren",
+   "phone": "+41 44 360 80 10",
+   "email": "gz-buchegg@gz-zh.ch",
+   "program_examples": "Programm Nov. 2026 (Fr): Papa & Kind Café 9–11, Krabbelgruppe 10–11:30, Atelier für Kinder 0–5 J. 9:30–11:30, Colorín-Spanisch, Morgenfütterung der Tiere 9–10",
+   "playground": "Spielplatz GZ Buchegg (0–16 J.): Hängematte, Seilbahn, Hang- und Röhrenrutsche, Schaukeln, Sandspielgeräte, Pumpen, Wasserspiel, Boulderwand, Spielhügel, Velopark",
+   "city_playground_id": "sp024",
+   "sources": [
+    "https://gz-zh.ch/gz-buchegg/",
+    "https://gz-zh.ch/gz-buchegg/programm/",
+    "https://www.stadt-zuerich.ch/de/lebenslagen/jugend-und-familie/fruehe-kindheit/familienberatung/baby-kleinkind/angebote.html",
+    "https://data.stadt-zuerich.ch/dataset/geo_gemeinschaftszentrum",
+    "https://data.stadt-zuerich.ch/dataset/geo_poi_oeffentliche_spielplaetze"
+   ],
+   "city_poi_id": "gz004",
+   "crow_m": 1410
+  },
+  "source": "https://gz-zh.ch/gz-buchegg/"
+ },
+ {
+  "id": "familienberatung-treffpunkt-buchegg",
+  "name": "Treffpunkt Familienberatung Buchegg",
+  "cat": "community",
+  "lat": 47.39895,
+  "lon": 8.535097,
+  "address": "GZ Buchegg, Spiegelsaal, Bucheggstrasse 93, 8057 Zürich",
+  "walk_min": 24,
+  "desc_de": "Gratis-Treffpunkt der städtischen Familienberatung (früher Mütter- und Väterberatung) jeden Mittwoch 13:30–16:30: persönliche Beratung mit oder ohne Termin, andere Familien bei Tee oder Kaffee kennenlernen, Kinder spielen lassen. Telefonberatung Mo–Fr unter 044 412 76 00.",
+  "desc_en": "Free drop-in of the city family advice service (formerly mother and father counselling) every Wednesday 1:30–4:30pm: personal advice with or without appointment, meeting other families over tea or coffee, room for children to play. Phone advice Mon–Fri on 044 412 76 00.",
+  "url": "https://www.stadt-zuerich.ch/de/lebenslagen/jugend-und-familie/fruehe-kindheit/familienberatung/baby-kleinkind/angebote.html",
+  "tags": [
+   "family",
+   "community",
+   "family-advice",
+   "free",
+   "baby",
+   "toddler"
+  ],
+  "details": {
+   "operator": "Stadt Zürich, Sozialdepartement, Familienberatung",
+   "phone": "+41 44 412 76 00",
+   "hours": "Mi 13:30–16:30 (Spiegelsaal GZ Buchegg)",
+   "other_offers": "Babymassage (gratis), Begleiteter Bewegungsraum 5–20 Mt., «Bewegen – Spielen – Sprechen» ab 20 Mt.; Hausbesuche, Video- oder Spaziergang-Beratung auf Anfrage",
+   "sources": [
+    "https://www.stadt-zuerich.ch/content/dam/web/de/lebenslagen/jugend-und-familie/dokumente/muetter-und-vaeterberatung/flyer-treffpunkte-familienberatung.pdf",
+    "https://www.stadt-zuerich.ch/de/lebenslagen/jugend-und-familie/fruehe-kindheit/familienberatung/baby-kleinkind/angebote.html",
+    "https://data.stadt-zuerich.ch/dataset/geo_treffpunkt_familienberatung"
+   ],
+   "city_poi_id": "mvb7145",
+   "crow_m": 1410
+  },
+  "source": "https://www.stadt-zuerich.ch/content/dam/web/de/lebenslagen/jugend-und-familie/dokumente/muetter-und-vaeterberatung/flyer-treffpunkte-familienberatung.pdf"
+ },
+ {
+  "id": "ludothek-kreis-6",
+  "name": "Ludothek Kreis 6",
+  "cat": "community",
+  "lat": 47.386425,
+  "lon": 8.547417,
+  "address": "Winterthurerstrasse 25 (Kirchgemeindehaus Oberstrass), 8006 Zürich",
+  "walk_min": 5,
+  "desc_de": "Ehrenamtlich geführte Spielzeug- und Spieleausleihe, nur ca. 300 m entfernt, mit Lift für Kinderwagen; Do 15:30–17:30 (Dienstag vorübergehend geschlossen) und einmal im Monat Sa 10–12 (21.11. und 12.12.2026). In den Schulferien geschlossen.",
+  "desc_en": "Volunteer-run toy and game library only about 300 m away, with a lift for prams; Thu 3:30–5:30pm (Tuesday temporarily closed) and one Saturday a month 10am–noon (21 Nov and 12 Dec 2026). Closed during school holidays.",
+  "url": "https://ludo-kreis6.ch/",
+  "tags": [
+   "family",
+   "community",
+   "ludothek",
+   "toys",
+   "nearest"
+  ],
+  "details": {
+   "operator": "Verein Ludothek Kreis 6",
+   "phone": "+41 77 472 66 29",
+   "email": "info@ludo-kreis6.ch",
+   "hours": "Do 15:30–17:30; Di vorübergehend geschlossen; Sa 10–12 einmal monatlich (2026: 7.11., 21.11., 12.12.); Schulferien geschlossen",
+   "note": "Lift nach 17 Uhr und samstags ausser Betrieb – bei Bedarf anrufen. TWINT, KulturLegi. Verein sucht Freiwillige.",
+   "sources": [
+    "https://ludo-kreis6.ch/",
+    "https://www.openstreetmap.org/node/7810313356"
+   ],
+   "crow_m": 273
+  },
+  "source": "https://ludo-kreis6.ch/"
+ },
+ {
+  "id": "gz-wipkingen",
+  "name": "GZ Wipkingen",
+  "cat": "community",
+  "lat": 47.3931,
+  "lon": 8.52022,
+  "address": "Breitensteinstrasse 19a, 8037 Zürich",
+  "walk_min": 33,
+  "desc_de": "Gemeinschaftszentrum an der Limmat mit Kafi (Mo–Fr Mittagsmenü), Atelier und dem «Wipkihof», wo Kinder Tieren begegnen; im Quartier dienstags 13:30–16:30 Treffpunkt der städtischen Familienberatung (Wipkingerplatz 1). Ca. 1,9 km.",
+  "desc_en": "Community centre on the Limmat with a café (weekday lunch menu), art studio and the 'Wipkihof' where children meet animals; in the area, the city family advice drop-in runs on Tuesdays 1:30–4:30pm (Wipkingerplatz 1). Approx. 1.9 km.",
+  "url": "https://gz-zh.ch/gz-wipkingen/",
+  "tags": [
+   "family",
+   "community",
+   "gz",
+   "animals",
+   "family-advice",
+   "off-board"
+  ],
+  "details": {
+   "operator": "Stiftung Zürcher Gemeinschaftszentren",
+   "phone": "+41 44 276 82 80",
+   "email": "gz-wipkingen@gz-zh.ch",
+   "family_advice": "Treffpunkt Familienberatung Wipkingen, Wipkingerplatz 1: Di 13:30–16:30 (Flyer Stadt Zürich)",
+   "history": "Auf dem Areal entstand 1954 der erste «Robinsonspielplatz» der Schweiz; Kleinkinderspielbereich teilweise erhalten.",
+   "status": "Instandsetzung und Neubau GZ Wipkingen, Bauzeit 2024–2026; Spielplatz-Teilbereiche ab Mitte Dezember 2025 zugänglich (Stadt Zürich, Projektseite).",
+   "off_board": true,
+   "sources": [
+    "https://gz-zh.ch/gz-wipkingen/",
+    "https://www.stadt-zuerich.ch/de/planen-und-bauen/projekte-und-ausschreibungen/hochbauvorhaben/planung-ausfuehrung/gemeinschaftszentrum-wipkingen.html",
+    "https://www.stadt-zuerich.ch/content/dam/web/de/lebenslagen/jugend-und-familie/dokumente/muetter-und-vaeterberatung/flyer-treffpunkte-familienberatung.pdf",
+    "https://data.stadt-zuerich.ch/dataset/geo_gemeinschaftszentrum"
+   ],
+   "city_poi_id": "gz016",
+   "crow_m": 1928
+  },
+  "source": "https://gz-zh.ch/gz-wipkingen/"
+ }
+]

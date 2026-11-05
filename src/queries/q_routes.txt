@@ -1,0 +1,6 @@
+[out:json][timeout:120];
+node(around:450,47.388078,8.544738)["public_transport"~"platform|stop_position"]->.s;
+rel(bn.s)["type"="route"]["route"~"bus|tram"]->.r;
+.r out tags;
+rel["type"="route"]["route"~"^(bus|tram)$"]["ref"~"^(7|9|10|11|14|15|33)$"]["network"~"ZVV|VBZ"](47.36,8.50,47.42,8.59);
+out geom;
