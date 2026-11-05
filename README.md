@@ -34,11 +34,13 @@ entdecken, Rundgänge machen, Anlässe finden und Fehlendes ergänzen.*
 ## How it's built
 
 One static HTML page, no server and no build tools beyond Python 3 (standard library). three.js 0.170 loads from
-jsDelivr. The GitHub Pages workflow runs `assemble.py --public` on every push to `main`.
+jsDelivr. GitHub Pages serves the `gh-pages` branch, which holds only the public build: `src/publish_pages.sh` runs
+`assemble.py --public` and pushes the result there.
 
 ```
 src/app.html          UI + three.js engine (template with __SCENE__/__CONTENT__/__ROUTES__/__OVERLAY__ placeholders)
 src/assemble.py       injects the data into the template -> one HTML file (--public: GitHub Pages build)
+src/publish_pages.sh  builds the public page and pushes it to the gh-pages branch (the live site)
 src/fetch_osm.sh      downloads the raw OpenStreetMap data with the queries in src/queries (Overpass, cached)
 src/build_site.py     OSM outlines + federal building register points -> data/site.json (the estate's houses)
 src/build_geo.py      Overpass JSON + site.json -> data/scene.json
